@@ -7,6 +7,14 @@ import { RoyalDivider } from "@/components/royal-corner-ornament";
 
 const allPosts = [
   {
+    id: 7,
+    slug: "rath-yatra-route-puri-explained",
+    title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
+    date: "July 15, 2026",
+    category: "Heritage",
+    image: "/assets/images/spiritual-rath-yatra.png",
+  },
+  {
     id: 1,
     slug: "jagannath-temple-spiritual-journey",
     title: "The Spiritual Journey: Understanding Jagannath Temple",

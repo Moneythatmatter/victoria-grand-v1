@@ -10,6 +10,18 @@ import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-orn
 
 const blogPosts = [
   {
+    id: 7,
+    slug: "rath-yatra-route-puri-explained",
+    title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
+    excerpt: "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
+    author: "Raj Kumar",
+    date: "July 15, 2026",
+    category: "Heritage",
+    image: "/assets/images/spiritual-rath-yatra.png",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 1,
     slug: "jagannath-temple-spiritual-journey",
     title: "The Spiritual Journey: Understanding Jagannath Temple",
@@ -127,11 +139,10 @@ export function BlogListing() {
               <button
                 key={category}
                 onClick={() => setSelectedCategory(category)}
-                className={`px-4 py-2 rounded-full font-sans text-sm tracking-wide transition-all duration-300 ${
-                  selectedCategory === category
-                    ? "bg-ochre text-white"
-                    : "bg-white border-2 border-olive/20 text-olive hover:border-ochre hover:text-ochre"
-                }`}
+                className={`px-4 py-2 rounded-full font-sans text-sm tracking-wide transition-all duration-300 ${selectedCategory === category
+                  ? "bg-ochre text-white"
+                  : "bg-white border-2 border-olive/20 text-olive hover:border-ochre hover:text-ochre"
+                  }`}
               >
                 {category}
               </button>
