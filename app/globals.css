@@ -1,0 +1,442 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Victoria Grand - Olive & Ochre Luxury Theme */
+  /* Olive #767545, Ochre #c1893e */
+  --background: oklch(0.97 0.01 95);
+  /* Warm cream */
+  --foreground: oklch(0.25 0.04 110);
+  /* Deep olive-brown */
+  --card: oklch(0.98 0.008 95);
+  /* Soft cream white */
+  --card-foreground: oklch(0.25 0.04 110);
+  --popover: oklch(0.98 0.008 95);
+  --popover-foreground: oklch(0.25 0.04 110);
+  --primary: oklch(0.52 0.08 110);
+  /* Olive #767545 */
+  --primary-foreground: oklch(0.98 0.01 95);
+  --secondary: oklch(0.68 0.14 70);
+  /* Ochre #c1893e */
+  --secondary-foreground: oklch(0.20 0.03 110);
+  --muted: oklch(0.93 0.015 95);
+  /* Muted cream */
+  --muted-foreground: oklch(0.45 0.03 110);
+  --accent: oklch(0.68 0.14 70);
+  /* Ochre accent */
+  --accent-foreground: oklch(0.20 0.03 110);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: oklch(0.88 0.025 95);
+  /* Warm border */
+  --input: oklch(0.92 0.015 95);
+  --ring: oklch(0.68 0.14 70);
+  /* Ochre ring */
+  --chart-1: oklch(0.52 0.08 110);
+  /* Olive */
+  --chart-2: oklch(0.68 0.14 70);
+  /* Ochre */
+  --chart-3: oklch(0.42 0.06 110);
+  /* Deep olive */
+  --chart-4: oklch(0.58 0.10 70);
+  /* Dark ochre */
+  --chart-5: oklch(0.62 0.06 110);
+  /* Light olive */
+  --radius: 0.25rem;
+  --sidebar: oklch(0.28 0.05 110);
+  /* Deep olive sidebar */
+  --sidebar-foreground: oklch(0.97 0.01 95);
+  --sidebar-primary: oklch(0.68 0.14 70);
+  --sidebar-primary-foreground: oklch(0.20 0.03 110);
+  --sidebar-accent: oklch(0.38 0.05 110);
+  --sidebar-accent-foreground: oklch(0.97 0.01 95);
+  --sidebar-border: oklch(0.38 0.05 110);
+  --sidebar-ring: oklch(0.68 0.14 70);
+
+  /* Custom Victoria Grand tokens */
+  --olive: oklch(0.52 0.08 110);
+  /* #767545 */
+  --olive-light: oklch(0.62 0.06 110);
+  --olive-dark: oklch(0.38 0.06 110);
+  --ochre: oklch(0.68 0.14 70);
+  /* #c1893e */
+  --ochre-light: oklch(0.78 0.10 70);
+  --ochre-dark: oklch(0.55 0.12 70);
+  --cream: oklch(0.97 0.01 95);
+  --cream-dark: oklch(0.92 0.015 95);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.145 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.145 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.985 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.396 0.141 25.723);
+  --destructive-foreground: oklch(0.637 0.237 25.331);
+  --border: oklch(0.269 0 0);
+  --input: oklch(0.269 0 0);
+  --ring: oklch(0.439 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.269 0 0);
+  --sidebar-ring: oklch(0.439 0 0);
+}
+
+@theme inline {
+  --font-sans: var(--font-sans), 'Inter', system-ui, sans-serif;
+  --font-serif: var(--font-serif), 'Playfair Display', Georgia, serif;
+  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+
+  /* Victoria Grand Custom Colors - Olive & Ochre Theme */
+  --color-olive: #767545;
+  --color-olive-light: #8a8a5a;
+  --color-olive-dark: #5a5a35;
+  --color-ochre: #c1893e;
+  --color-ochre-light: #d4a862;
+  --color-ochre-dark: #a06f2a;
+  --color-cream: #faf8f3;
+  --color-cream-dark: #f0ede5;
+  --color-ivory: #fdfcf8;
+  --color-ivory-dark: #f5f3eb;
+  --color-navy: #1a2332;
+  --color-navy-light: #2a3548;
+  --color-gold: #c1893e;
+  --color-gold-light: #d4a862;
+  --color-gold-dark: #a06f2a;
+
+  /* Semantic colors */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* =====================================================
+   VICTORIA GRAND — Premium Animation & Effect System
+   ===================================================== */
+
+/* Gold Shimmer Effect */
+@keyframes gold-shimmer {
+  0% {
+    background-position: -200% center;
+  }
+
+  100% {
+    background-position: 200% center;
+  }
+}
+
+.gold-shimmer {
+  background: linear-gradient(90deg,
+      #c1893e 0%,
+      #e8c97a 25%,
+      #f5dfa0 50%,
+      #e8c97a 75%,
+      #c1893e 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gold-shimmer 4s ease-in-out infinite;
+}
+
+.gold-shimmer-bg {
+  background: linear-gradient(90deg,
+      #c1893e 0%,
+      #e8c97a 40%,
+      #f5dfa0 50%,
+      #e8c97a 60%,
+      #c1893e 100%);
+  background-size: 200% auto;
+  animation: gold-shimmer 3s ease-in-out infinite;
+}
+
+/* Gold Glow on Corner Ornaments */
+.gold-glow {
+  filter: drop-shadow(0 0 8px rgba(193, 137, 62, 0.3));
+  transition: filter 0.5s ease;
+}
+
+.gold-glow:hover,
+section:hover .gold-glow {
+  filter: drop-shadow(0 0 16px rgba(193, 137, 62, 0.5));
+}
+
+
+
+/* Ken Burns Effect */
+@keyframes ken-burns-1 {
+  0% {
+    transform: scale(1) translate(0, 0);
+  }
+
+  100% {
+    transform: scale(1.15) translate(-2%, -1%);
+  }
+}
+
+@keyframes ken-burns-2 {
+  0% {
+    transform: scale(1.05) translate(1%, 0);
+  }
+
+  100% {
+    transform: scale(1.2) translate(-1%, -2%);
+  }
+}
+
+@keyframes ken-burns-3 {
+  0% {
+    transform: scale(1) translate(-1%, 1%);
+  }
+
+  100% {
+    transform: scale(1.18) translate(1%, -1%);
+  }
+}
+
+.ken-burns-1 {
+  animation: ken-burns-1 8s ease-out forwards;
+}
+
+.ken-burns-2 {
+  animation: ken-burns-2 8s ease-out forwards;
+}
+
+.ken-burns-3 {
+  animation: ken-burns-3 8s ease-out forwards;
+}
+
+
+
+/* Premium Card Hover Effects */
+.premium-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.premium-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 1px solid transparent;
+  transition: border-color 0.5s ease;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.premium-card:hover::before {
+  border-color: rgba(193, 137, 62, 0.4);
+}
+
+.premium-card::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, rgba(193, 137, 62, 0.15) 0%, transparent 50%);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}
+
+.premium-card:hover::after {
+  opacity: 1;
+}
+
+/* Heritage Texture Overlay for Cream Sections */
+.heritage-pattern {
+  position: relative;
+}
+
+.heritage-pattern::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.03;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23767545' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  z-index: 0;
+}
+
+/* Scroll Progress Bar */
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #a06f2a, #c1893e, #d4a862, #c1893e);
+  z-index: 9999;
+  transition: width 0.1s linear;
+}
+
+/* Custom Cursor */
+.custom-cursor-dot {
+  position: fixed;
+  display: none;
+  width: 8px;
+  height: 8px;
+  background: #c1893e;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99999;
+  transform: translate(-50%, -50%) scale(1);
+  transition: transform 0.3s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.3s ease;
+}
+
+.custom-cursor-ring {
+  position: fixed;
+  display: none;
+  width: 36px;
+  height: 36px;
+  border: 1.5px solid rgba(193, 137, 62, 0.5);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99998;
+  transform: translate(-50%, -50%) scale(1);
+  transition: transform 0.3s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.3s ease, border-color 0.3s ease, background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.custom-cursor-dot.hovering {
+  /* Keep dot visible on hover as initially requested by the user */
+  background-color: #c1893e;
+}
+
+.custom-cursor-ring.hovering {
+  transform: translate(-50%, -50%) scale(1.5);
+  border-color: rgba(193, 137, 62, 0.8);
+  background-color: rgba(193, 137, 62, 0.1);
+  backdrop-filter: blur(2px);
+}
+
+.custom-cursor-ring.clicking {
+  transform: translate(-50%, -50%) scale(0.9);
+  border-color: rgba(193, 137, 62, 1);
+  background-color: rgba(193, 137, 62, 0.2);
+}
+
+/* Back to Top button */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 50;
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  pointer-events: none;
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* Section Divider Ornament */
+.section-divider-ornament {
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+}
+
+/* Button shimmer on hover */
+.btn-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-shimmer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.2) 50%,
+      transparent 100%);
+  transition: left 0.6s ease;
+}
+
+.btn-shimmer:hover::before {
+  left: 100%;
+}
+
+/* Parallax container */
+.parallax-bg {
+  will-change: transform;
+  transition: transform 0.1s linear;
+}
+
+/* Mobile touch: disable custom cursor */
+@media (hover: none) and (pointer: coarse) {
+
+  .custom-cursor,
+  .custom-cursor-ring {
+    display: none !important;
+  }
+}
