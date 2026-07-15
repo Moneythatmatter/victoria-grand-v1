@@ -91,6 +91,95 @@ const blogPostsData: Record<string, any> = {
       <p>The tradition of Mahaprasad dates back over a thousand years. Historical records mention the temple's massive kitchen operations that could feed thousands daily - a remarkable feat of organization and devotion.</p>
     `,
   },
+  "rath-yatra-route-puri-explained": {
+    title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
+    author: "Raj Kumar",
+    authorRole: "Heritage Expert",
+    authorImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200",
+    date: "July 15, 2026",
+    readTime: "7 min",
+    category: "Heritage",
+    image: "/assets/images/spiritual-rath-yatra.png",
+    excerpt: "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
+    content: `
+      <h2>The Route in One Line</h2>
+      <p>The Rath Yatra route runs from the Jagannath Temple to the Gundicha Temple, entirely along a single ceremonial avenue called Bada Danda — the Grand Road. That's it. No side streets, no detours. One road, three chariots, one direction.</p>
+
+      <h2>What Exactly Is Bada Danda?</h2>
+      <p>Bada Danda translates literally to "Grand Road," and it earns the name. Stretching roughly 3 kilometres from the Singhadwara — the Lion's Gate of the Jagannath Temple — to the gates of the Gundicha Temple, it's been widened over the years to around 75 metres in places to handle the crowds. For 364 days of the year, it's simply Puri's main street: lined with shops, ashrams, dharamshalas, and homes, doing the ordinary business of a temple town. On Rath Yatra day, it becomes something else entirely — a river of people, chants, and colour, with three towering chariots moving through the middle of it.</p>
+
+      <h2>Start Point: Singhadwara, Jagannath Temple</h2>
+      <p>The journey begins at the Lion's Gate of the Jagannath Temple, the main entrance on the eastern side. This is where the deities — Lord Jagannath, Lord Balabhadra, and Devi Subhadra — are ceremonially brought out and placed in their respective chariots after the Pahandi ritual, a rhythmic, almost dance-like procession of carrying the idols. Before the chariots move an inch, the Gajapati King of Puri performs the Chhera Pahara, sweeping the chariot platforms with a golden broom. It's a small gesture with an enormous message: on this day, even royalty serves the divine, and every devotee pulling the ropes stands equal before it.</p>
+
+      <h2>The Three Chariots and Their Order</h2>
+      <p>Understanding the route also means understanding who travels in what order, because the chariots don't move as a single block:</p>
+      <ul>
+        <li class="mb-2"><strong>Taladhwaja</strong> — Lord Balabhadra's chariot, marked by a palm tree flag, typically leads the procession.</li>
+        <li class="mb-2"><strong>Darpadalana</strong> — Devi Subhadra's chariot follows next.</li>
+        <li class="mb-2"><strong>Nandighosha</strong> — Lord Jagannath's chariot, the largest of the three at around 45 feet tall with 16 wheels, brings up the final position.</li>
+      </ul>
+      <p>Each chariot is pulled by thousands of devotees on thick ropes, and the pace is unhurried by design — this is a journey meant to be felt, not rushed.</p>
+
+      <h2>The Midpoint: Mausi Maa Temple</h2>
+      <p>Roughly halfway along Bada Danda sits the Mausi Maa Temple, dedicated to Ardhasini, worshipped as Lord Jagannath's aunt. Tradition holds that the chariots pause here, and Lord Jagannath is offered Poda Pitha, a baked rice cake, as a mark of the deep familial affection this stop represents. For many devotees standing along the route, this is one of the most anticipated moments of the day — a brief pause in an otherwise slow, steady march toward Gundicha.</p>
+
+      <h2>The End Point: Gundicha Temple</h2>
+      <p>The route concludes at the Gundicha Temple, referred to as Lord Jagannath's "garden house" or aunt's home. Built in classic Kalinga Deula-style architecture and set within a walled garden, it stands at the opposite end of Bada Danda from the Jagannath Temple — a straight-line distance of roughly 2,688 metres, just under 3 kilometres. Because of the size of the chariots and the sheer volume of devotees pulling them, the procession often doesn't reach Gundicha until nightfall on the very first day. The deities then formally enter the temple the following day and remain there for seven nights, receiving darshan from devotees who continue to arrive from across the country.</p>
+
+      <h2>The Return Leg: Bahuda Yatra</h2>
+      <p>The route isn't one-way. About a week later, the same three chariots retrace this exact path in reverse during the Bahuda Yatra, carrying the deities back from Gundicha Temple to the Jagannath Temple. It's the same road, the same 3 kilometres, but a different mood — equally massive in scale, and considered just as spiritually significant to witness as the outward journey.</p>
+
+      <h2>Best Vantage Points Along the Route</h2>
+      <p>If you're watching rather than pulling, where you stand along Bada Danda matters:</p>
+      <ul>
+        <li class="mb-2"><strong>Near Singhadwara</strong> — best for seeing the deities placed onto the chariots and the Chhera Pahara ritual, though it's the most crowded stretch.</li>
+        <li class="mb-2"><strong>Mid-route, near Mausi Maa Temple</strong> — a good balance of atmosphere and slightly thinner crowds, plus the chance to see the Poda Pitha ritual.</li>
+        <li class="mb-2"><strong>Near Gundicha Temple</strong> — quieter through the day, but busiest in the evening as the chariots approach.</li>
+      </ul>
+      <p>Wherever you choose, arriving well before the chariots begin moving is essential — positions along the barricaded route fill up fast.</p>
+
+      <h2>Where to Stay Along the Route</h2>
+      <p>Because the entire festival unfolds on a single road, your hotel's distance from Bada Danda matters more here than in almost any other Indian festival. Victoria Grand is a boutique hotel in Puri positioned close to both the Jagannath Temple and the sea beach, putting you within easy reach of the Singhadwara starting point without a long, crowded commute on festival morning. A stay here means you can step out for the early rituals, retreat for rest during the long midday pull, and still be back on Bada Danda in time for the evening approach to Gundicha Temple.</p>
+      <p>Victoria Grand's rooms are designed for exactly this kind of trip — comfortable, well-appointed spaces to recharge between the day's rituals, with the convenience of being minutes from the route rather than a long taxi ride away.</p>
+
+      <h2>Getting to the Route</h2>
+      <ul>
+        <li class="mb-2"><strong>By Air:</strong> Biju Patnaik International Airport, Bhubaneswar, is about 60 km from Puri, with regular taxis and buses onward.</li>
+        <li class="mb-2"><strong>By Rail:</strong> Puri Railway Station sits only about 3 km from the Jagannath Temple end of the route.</li>
+        <li class="mb-2"><strong>By Road:</strong> NH-16 connects Puri to Bhubaneswar, though expect diversions and vehicle-free zones along Bada Danda itself during the festival.</li>
+      </ul>
+
+      <h2>A Few Practical Notes</h2>
+      <ul>
+        <li class="mb-2">Bada Danda is converted into a vehicle-free corridor during the festival — all movement near the route is on foot.</li>
+        <li class="mb-2">Non-Hindus cannot enter the Jagannath Temple itself but are welcome to watch the procession from anywhere along Bada Danda.</li>
+        <li class="mb-2">Expect significant security checks and crowd-management barricades, especially near Singhadwara.</li>
+        <li class="mb-2">Keep water, comfortable footwear, and minimal valuables with you — the walk along even part of the route in festival crowds is more demanding than it looks.</li>
+      </ul>
+
+      <h2>Final Word</h2>
+      <p>The Rath Yatra route is deceptively simple on paper — one road, one direction, three kilometres. In practice, it's one of the most immersive religious experiences you can witness, where every metre of Bada Danda carries centuries of ritual, devotion, and celebration. Staying close to the route, at a property like Victoria Grand, means you're not just watching the journey from a distance — you're a short walk from being part of it.</p>
+      <p>Planning your Rath Yatra trip to Puri? Book your stay at Victoria Grand and stay minutes from Bada Danda and the Jagannath Temple.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>Q: What is the Rath Yatra route in Puri?</strong><br/>
+        A: The route runs entirely along Bada Danda (the Grand Road), starting at the Singhadwara of the Jagannath Temple and ending about 3 km away at the Gundicha Temple.</p>
+        
+        <p><strong>Q: How long is the Bada Danda route?</strong><br/>
+        A: Bada Danda stretches approximately 3 kilometres — precisely around 2,688 metres — connecting the Jagannath Temple to the Gundicha Temple.</p>
+        
+        <p><strong>Q: Which chariot goes first on the Rath Yatra route?</strong><br/>
+        A: Taladhwaja, the chariot of Lord Balabhadra, typically leads the procession, followed by Darpadalana (Devi Subhadra) and finally Nandighosha (Lord Jagannath).</p>
+        
+        <p><strong>Q: Where is the best place to stand and watch the procession?</strong><br/>
+        A: Near Singhadwara for the send-off rituals, near the Mausi Maa Temple for a mid-route view with slightly thinner crowds, or near Gundicha Temple for the evening arrival — each offers a different experience of the same route.</p>
+        
+        <p><strong>Q: What hotel is closest to the Rath Yatra route?</strong><br/>
+        A: Victoria Grand is a boutique hotel positioned close to both the Jagannath Temple and the sea beach, putting guests within easy reach of the Bada Danda route without a long festival-day commute.</p>
+      </div>
+    `,
+  },
 };
 
 export function BlogPostDetail({ slug }: { slug: string }) {
