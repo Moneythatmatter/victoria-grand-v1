@@ -7,6 +7,14 @@ import { RoyalDivider } from "@/components/royal-corner-ornament";
 
 const allPosts = [
   {
+    id: 8,
+    slug: "boutique-luxury-puri-ratha-yatra-stay",
+    title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",
+    date: "July 19, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/boutique-luxury-puri-ratha-yatra-stay.webp",
+  },
+  {
     id: 7,
     slug: "rath-yatra-route-puri-explained",
     title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
