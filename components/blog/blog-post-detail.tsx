@@ -4,19 +4,25 @@ import Link from "next/link";
 import Image from "next/image";
 import { Calendar, User, Clock, Share2, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import {
+  RoyalCornerOrnament,
+  RoyalDivider,
+} from "@/components/royal-corner-ornament";
 
 const blogPostsData: Record<string, any> = {
   "jagannath-temple-spiritual-journey": {
     title: "The Spiritual Journey: Understanding Jagannath Temple",
     author: "Raj Kumar",
     authorRole: "Heritage Expert",
-    authorImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200",
+    authorImage:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200",
     date: "March 15, 2024",
     readTime: "8 min",
     category: "Heritage",
-    image: "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200",
-    excerpt: "Explore the profound spiritual significance of one of India's most sacred pilgrimage sites and its cultural impact on Puri.",
+    image:
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200",
+    excerpt:
+      "Explore the profound spiritual significance of one of India's most sacred pilgrimage sites and its cultural impact on Puri.",
     content: `
       <h2>The Sacred Journey Begins</h2>
       <p>The Jagannath Temple stands as one of the four most important pilgrimage sites in Hindu tradition. Located in the coastal city of Puri, Odisha, this ancient temple has captivated devotees and travelers for centuries with its spiritual energy and architectural magnificence.</p>
@@ -41,12 +47,15 @@ const blogPostsData: Record<string, any> = {
     title: "The Art of Appliqué: Odisha's Living Heritage",
     author: "Priya Sharma",
     authorRole: "Cultural Historian",
-    authorImage: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200",
+    authorImage:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200",
     date: "March 10, 2024",
     readTime: "6 min",
     category: "Culture",
-    image: "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?q=80&w=1200",
-    excerpt: "Discover the intricate technique of appliqué art and how artisans preserve this traditional craft for generations.",
+    image:
+      "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?q=80&w=1200",
+    excerpt:
+      "Discover the intricate technique of appliqué art and how artisans preserve this traditional craft for generations.",
     content: `
       <h2>Ancient Art Form</h2>
       <p>Appliqué is a traditional form of textile art that has been practiced in Odisha for centuries. This intricate craft involves cutting out designs from fabric and applying them onto a base fabric, creating layered, multicolored patterns that are visually stunning and culturally significant.</p>
@@ -71,12 +80,15 @@ const blogPostsData: Record<string, any> = {
     title: "Mahaprasad: The Sacred Offering and Its Significance",
     author: "Amit Patel",
     authorRole: "Cuisine Specialist",
-    authorImage: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200",
+    authorImage:
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200",
     date: "March 5, 2024",
     readTime: "5 min",
     category: "Cuisine",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200",
-    excerpt: "Learn about the spiritual and cultural importance of Mahaprasad, the blessed food offering from the Jagannath Temple.",
+    image:
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200",
+    excerpt:
+      "Learn about the spiritual and cultural importance of Mahaprasad, the blessed food offering from the Jagannath Temple.",
     content: `
       <h2>The Divine Blessing</h2>
       <p>Mahaprasad represents more than food - it embodies divine grace. Prepared daily in the temple kitchens of Jagannath, this sanctified food is offered first to the deities before being distributed to devotees. The act of consuming Mahaprasad is believed to purify the soul and grant blessings.</p>
@@ -95,12 +107,14 @@ const blogPostsData: Record<string, any> = {
     title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
     author: "Raj Kumar",
     authorRole: "Heritage Expert",
-    authorImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200",
+    authorImage:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200",
     date: "July 15, 2026",
     readTime: "7 min",
     category: "Heritage",
     image: "/assets/images/spiritual-rath-yatra.png",
-    excerpt: "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
+    excerpt:
+      "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
     content: `
       <h2>The Route in One Line</h2>
       <p>The Rath Yatra route runs from the Jagannath Temple to the Gundicha Temple, entirely along a single ceremonial avenue called Bada Danda — the Grand Road. That's it. No side streets, no detours. One road, three chariots, one direction.</p>
@@ -180,6 +194,48 @@ const blogPostsData: Record<string, any> = {
       </div>
     `,
   },
+  "boutique-luxury-puri-ratha-yatra-stay": {
+    title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",
+    author: "Vikram Singh",
+    authorRole: "Hospitality Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "July 19, 2026",
+    readTime: "7 min",
+    category: "Hospitality",
+    image: "/assets/blog/boutique-luxury-puri-ratha-yatra-stay.webp",
+    excerpt:
+      "You don't have to choose between the sacred chaos of Ratha Yatra and a genuinely comfortable stay. Here's why a boutique hotel near the temple and beach changes the trip.",
+    content: `
+      <p>There's a certain assumption people carry about Ratha Yatra travel — that if you're going for a festival this big and this crowded, you have to give up on comfort. Basic rooms, no frills, just a place to crash between all the chaos outside. And for a long time, that was mostly true in Puri. But things have changed. You can actually have both now — the sacred, overwhelming beauty of Ratha Yatra, and a genuinely comfortable, boutique-style stay to come back to every evening.</p>
+      <p>If you're planning Ratha Yatra 2026 and don't want to compromise on comfort just because it's festival season, this one's for you.</p>
+
+      <h2>Why "Just Any Hotel" Doesn't Cut It During Ratha Yatra</h2>
+      <p>Puri during Ratha Yatra is a different city altogether. The streets are packed, the heat and humidity test your patience, and after a long day of standing in crowds near Bada Danda, you want to walk into a room that actually feels like a break from all of that, not just a bed in a busy building.</p>
+      <p>This is where the difference between a basic hotel and a proper <strong>boutique or luxury hotel near Jagannath Temple</strong> really shows. It's not about being fancy for the sake of it. It's about small things that matter more than you'd expect during festival season — a room that's actually quiet, water pressure that works even when the whole city is running at full capacity, staff who know how to handle the extra rush without your experience falling apart.</p>
+
+      <h2>The Location Sweet Spot: Temple and Beach, Both</h2>
+      <p>One thing worth being picky about when choosing a <strong>hotel close to both temple and beach in Puri</strong> is exactly that — both. A lot of hotels lean one way or the other. Some are close to Bada Danda but nowhere near the coast, others sit right on the beach but leave you dealing with a long, crowded commute to the temple every single day of the festival.</p>
+      <p>The sweet spot is a heritage or boutique property that gives you quick access to the temple for the rituals and procession, while still being close enough to the Puri sea beach that you can unwind with an evening walk by the water once the day's madness settles down. That contrast, sacred energy in the day, calm sea air in the evening, is honestly one of the best parts of doing Ratha Yatra properly.</p>
+
+      <h2>What "Boutique Luxury" Actually Means Here</h2>
+      <p>I want to be clear this isn't about over-the-top glamour. A good boutique hotel in Puri during Ratha Yatra season usually means a few specific things done really well:</p>
+      <ul>
+        <li class="mb-2"><strong>A grand deluxe room that's actually spacious.</strong> After a day of navigating crowds, you don't want to come back to a cramped room. Space to breathe, decent lighting, a proper bed, these basics matter more during festival season than any other time of year.</li>
+        <li class="mb-2"><strong>A pool to cool off in.</strong> Puri's summer heat combined with festival crowds can be exhausting. A hotel with a swimming pool near the temple gives you a way to recover in the evening without having to brave the beach crowds every single time.</li>
+        <li class="mb-2"><strong>Heritage character without sacrificing comfort.</strong> There's something nice about staying somewhere that has a bit of history and character to it, rather than a generic, cookie-cutter room that could be anywhere in the country. It adds to the whole feeling of being somewhere genuinely special during a festival this significant.</li>
+      </ul>
+
+      <h2>Booking Early Matters More Than People Think</h2>
+      <p>If you're seriously considering a <strong>luxury stay in Puri for Rath Yatra 2026</strong>, the biggest mistake you can make is waiting too long to book. The good boutique and heritage properties, especially the ones close to both the temple and the beach, fill up fast, often months before the actual festival dates. Waiting until the last minute usually means settling for whatever's left, which defeats the whole purpose of planning a comfortable stay in the first place.</p>
+
+      <h2>A Property Worth Considering</h2>
+      <p>This is exactly where Hotel Victoria Grand makes a strong case for itself. It sits in that ideal spot, close to both the temple and the sea beach, so you're not choosing one experience over the other. With grand deluxe rooms, a swimming pool, and that heritage feel that a lot of standard hotels simply don't offer, it gives you a genuinely comfortable base to return to after a long day out in the Ratha Yatra crowds. For anyone who wants the full spiritual experience of the festival without giving up on comfort, it's worth a serious look.</p>
+
+      <h2>Final Thought</h2>
+      <p>Ratha Yatra is meant to be an overwhelming, moving experience, and it should be. But there's no rule saying your stay has to be uncomfortable just because the festival outside is intense. Choosing a boutique or heritage hotel that's close to both the temple and the beach, with the right comforts in place, means you get to fully show up for the sacred parts of the trip because you're not exhausted from a bad stay. That balance is really what makes a Ratha Yatra trip memorable for all the right reasons.</p>
+    `,
+  },
 };
 
 export function BlogPostDetail({ slug }: { slug: string }) {
@@ -190,10 +246,16 @@ export function BlogPostDetail({ slug }: { slug: string }) {
       <section className="relative py-20 bg-cream">
         <div className="container mx-auto px-6">
           <div className="text-center">
-            <h1 className="font-serif text-4xl text-olive-dark mb-4">Article Not Found</h1>
-            <p className="text-olive/70 mb-8">Sorry, the article you're looking for doesn't exist.</p>
+            <h1 className="font-serif text-4xl text-olive-dark mb-4">
+              Article Not Found
+            </h1>
+            <p className="text-olive/70 mb-8">
+              Sorry, the article you're looking for doesn't exist.
+            </p>
             <Link href="/blog">
-              <Button className="bg-ochre text-white hover:bg-ochre-dark">Back to Blog</Button>
+              <Button className="bg-ochre text-white hover:bg-ochre-dark">
+                Back to Blog
+              </Button>
             </Link>
           </div>
         </div>
@@ -204,26 +266,47 @@ export function BlogPostDetail({ slug }: { slug: string }) {
   return (
     <article className="relative py-16 md:py-24 bg-cream overflow-hidden">
       {/* Royal Corner Ornaments */}
-      <RoyalCornerOrnament position="top-left" color="#767545" size="lg" className="top-6 left-6 md:top-8 md:left-8 opacity-15 hidden md:block" />
-      <RoyalCornerOrnament position="bottom-right" color="#767545" size="lg" className="bottom-6 right-6 md:bottom-8 md:right-8 opacity-15 hidden md:block" />
+      <RoyalCornerOrnament
+        position="top-left"
+        color="#767545"
+        size="lg"
+        className="top-6 left-6 md:top-8 md:left-8 opacity-15 hidden md:block"
+      />
+      <RoyalCornerOrnament
+        position="bottom-right"
+        color="#767545"
+        size="lg"
+        className="bottom-6 right-6 md:bottom-8 md:right-8 opacity-15 hidden md:block"
+      />
 
       <div className="container mx-auto px-6">
         {/* Back Button */}
-        <Link href="/blog" className="inline-flex items-center gap-2 text-olive hover:text-ochre transition-colors mb-8 group">
+        <Link
+          href="/blog"
+          className="inline-flex items-center gap-2 text-olive hover:text-ochre transition-colors mb-8 group"
+        >
           <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
-          <span className="font-sans font-semibold tracking-wide">Back to Articles</span>
+          <span className="font-sans font-semibold tracking-wide">
+            Back to Articles
+          </span>
         </Link>
 
         <div className="max-w-3xl mx-auto">
           {/* Article Header */}
           <div className="mb-12">
             <div className="inline-block mb-4 px-4 py-2 bg-ochre/10 border border-ochre/20 rounded-full">
-              <span className="font-sans text-sm font-semibold text-ochre tracking-widest uppercase">{post.category}</span>
+              <span className="font-sans text-sm font-semibold text-ochre tracking-widest uppercase">
+                {post.category}
+              </span>
             </div>
 
-            <h1 className="font-serif text-4xl md:text-5xl text-olive-dark mb-6 leading-tight">{post.title}</h1>
+            <h1 className="font-serif text-4xl md:text-5xl text-olive-dark mb-6 leading-tight">
+              {post.title}
+            </h1>
 
-            <p className="text-lg text-olive/70 mb-8 leading-relaxed">{post.excerpt}</p>
+            <p className="text-lg text-olive/70 mb-8 leading-relaxed">
+              {post.excerpt}
+            </p>
 
             <div className="flex flex-col md:flex-row md:items-center gap-4 md:gap-8 text-sm text-olive/60 font-sans">
               <div className="flex items-center gap-2">
@@ -259,12 +342,14 @@ export function BlogPostDetail({ slug }: { slug: string }) {
             <div
               dangerouslySetInnerHTML={{ __html: post.content }}
               className="space-y-6"
-              style={{
-                "--tw-prose-headings": "#2a2a1a",
-                "--tw-prose-body": "#3d3d2e",
-                "--tw-prose-bold": "#2a2a1a",
-                "--tw-prose-links": "#c1893e",
-              } as any}
+              style={
+                {
+                  "--tw-prose-headings": "#2a2a1a",
+                  "--tw-prose-body": "#3d3d2e",
+                  "--tw-prose-bold": "#2a2a1a",
+                  "--tw-prose-links": "#c1893e",
+                } as any
+              }
             />
           </div>
 
@@ -272,19 +357,34 @@ export function BlogPostDetail({ slug }: { slug: string }) {
           <div className="border-t-2 border-b-2 border-olive/10 py-8 my-12">
             <div className="flex items-center gap-6">
               <div className="relative w-20 h-20 rounded-full overflow-hidden flex-shrink-0">
-                <Image src={post.authorImage} alt={post.author} fill className="object-cover" />
+                <Image
+                  src={post.authorImage}
+                  alt={post.author}
+                  fill
+                  className="object-cover"
+                />
               </div>
               <div>
-                <h3 className="font-serif text-xl text-olive-dark mb-1">{post.author}</h3>
-                <p className="text-olive/60 font-sans text-sm mb-3">{post.authorRole}</p>
-                <p className="text-olive/70 text-sm">Expert in cultural heritage and traditional arts with over 10 years of experience in documenting and preserving Odisha's rich traditions.</p>
+                <h3 className="font-serif text-xl text-olive-dark mb-1">
+                  {post.author}
+                </h3>
+                <p className="text-olive/60 font-sans text-sm mb-3">
+                  {post.authorRole}
+                </p>
+                <p className="text-olive/70 text-sm">
+                  Expert in cultural heritage and traditional arts with over 10
+                  years of experience in documenting and preserving Odisha's
+                  rich traditions.
+                </p>
               </div>
             </div>
           </div>
 
           {/* Social Share */}
           <div className="flex items-center gap-4">
-            <span className="font-sans text-sm font-semibold text-olive tracking-widest uppercase">Share:</span>
+            <span className="font-sans text-sm font-semibold text-olive tracking-widest uppercase">
+              Share:
+            </span>
             <div className="flex gap-3">
               {[
                 { icon: "f", label: "Facebook" },
