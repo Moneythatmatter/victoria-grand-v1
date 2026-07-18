@@ -13,6 +13,32 @@ import {
 
 const blogPosts = [
   {
+    id: 8,
+    slug: "boutique-luxury-puri-ratha-yatra-stay",
+    title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",
+    excerpt:
+      "You don't have to choose between the sacred chaos of Ratha Yatra and a genuinely comfortable stay. Here's why a boutique hotel near the temple and beach changes the trip.",
+    author: "Vikram Singh",
+    date: "July 19, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/boutique-luxury-puri-ratha-yatra-stay.webp",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
+    id: 7,
+    slug: "rath-yatra-route-puri-explained",
+    title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
+    excerpt:
+      "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
+    author: "Raj Kumar",
+    date: "July 15, 2026",
+    category: "Heritage",
+    image: "/assets/images/spiritual-rath-yatra.png",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 1,
     slug: "jagannath-temple-spiritual-journey",
     title: "The Spiritual Journey: Understanding Jagannath Temple",
@@ -95,32 +121,6 @@ const blogPosts = [
       "https://images.unsplash.com/photo-1439066615861-d1af74d74000?q=80&w=1200",
     readTime: "10 min",
     featured: false,
-  },
-  {
-    id: 7,
-    slug: "rath-yatra-route-puri-explained",
-    title: "Rath Yatra Route in Puri Explained: The Journey Along Bada Danda",
-    excerpt:
-      "Explore the 3-kilometre Bada Danda road, the sacred route of Puri's Rath Yatra connecting the Jagannath and Gundicha temples.",
-    author: "Raj Kumar",
-    date: "July 15, 2026",
-    category: "Heritage",
-    image: "/assets/images/spiritual-rath-yatra.png",
-    readTime: "7 min",
-    featured: true,
-  },
-  {
-    id: 8,
-    slug: "boutique-luxury-puri-ratha-yatra-stay",
-    title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",
-    excerpt:
-      "You don't have to choose between the sacred chaos of Ratha Yatra and a genuinely comfortable stay. Here's why a boutique hotel near the temple and beach changes the trip.",
-    author: "Vikram Singh",
-    date: "July 19, 2026",
-    category: "Hospitality",
-    image: "/assets/blog/boutique-luxury-puri-ratha-yatra-stay.webp",
-    readTime: "7 min",
-    featured: true,
   },
 ];
 
