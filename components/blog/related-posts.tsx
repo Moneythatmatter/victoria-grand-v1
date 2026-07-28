@@ -7,6 +7,14 @@ import { RoyalDivider } from "@/components/royal-corner-ornament";
 
 const allPosts = [
   {
+    id: 9,
+    slug: "post-ratha-yatra-travel-guide-puri",
+    title: "Your Post-Ratha Yatra Travel Guide: Boutique Stays, Beaches & Temple Experiences",
+    date: "July 28, 2026",
+    category: "Travel",
+    image: "/assets/blog/post-ratha-yatra-travel-guide-puri.png",
+  },
+  {
     id: 8,
     slug: "boutique-luxury-puri-ratha-yatra-stay",
     title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",

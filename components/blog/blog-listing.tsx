@@ -13,6 +13,20 @@ import {
 
 const blogPosts = [
   {
+    id: 9,
+    slug: "post-ratha-yatra-travel-guide-puri",
+    title:
+      "Your Post-Ratha Yatra Travel Guide: Boutique Stays, Beaches & Temple Experiences",
+    excerpt:
+      '"The chariots may have returned to the temple, but Puri still has countless stories waiting to be discovered." Discover post-festival serenity, shorter temple queues, and boutique luxury in Puri.',
+    author: "Vikram Singh",
+    date: "July 28, 2026",
+    category: "Travel",
+    image: "/assets/blog/post-ratha-yatra-travel-guide-puri.png",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 8,
     slug: "boutique-luxury-puri-ratha-yatra-stay",
     title: "Boutique Luxury Meets Sacred Puri: Where to Stay for Ratha Yatra",
@@ -187,11 +201,10 @@ export function BlogListing() {
               <button
                 key={category}
                 onClick={() => setSelectedCategory(category)}
-                className={`px-4 py-2 rounded-full font-sans text-sm tracking-wide transition-all duration-300 ${
-                  selectedCategory === category
+                className={`px-4 py-2 rounded-full font-sans text-sm tracking-wide transition-all duration-300 ${selectedCategory === category
                     ? "bg-ochre text-white"
                     : "bg-white border-2 border-olive/20 text-olive hover:border-ochre hover:text-ochre"
-                }`}
+                  }`}
               >
                 {category}
               </button>

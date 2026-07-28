@@ -10,6 +10,106 @@ import {
 } from "@/components/royal-corner-ornament";
 
 const blogPostsData: Record<string, any> = {
+  "post-ratha-yatra-travel-guide-puri": {
+    title:
+      "Your Post-Ratha Yatra Travel Guide: Boutique Stays, Beaches & Temple Experiences",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "July 28, 2026",
+    readTime: "7 min",
+    category: "Travel",
+    image: "/assets/blog/post-ratha-yatra-travel-guide-puri.png",
+    excerpt:
+      '"The chariots may have returned to the temple, but Puri still has countless stories waiting to be discovered." Discover post-festival serenity, shorter temple queues, and boutique luxury in Puri.',
+    content: `
+      <blockquote class="italic text-xl font-serif text-ochre border-l-4 border-ochre pl-4 my-6 font-semibold">
+        "The chariots may have returned to the temple, but Puri still has countless stories waiting to be discovered."
+      </blockquote>
+
+      <p>For many travellers, Puri is synonymous with the magnificent Ratha Yatra. Every year, millions gather to witness Lord Jagannath's grand procession, making the city one of India's most unforgettable pilgrimage destinations. But once the celebrations conclude, Puri transforms into something even more special—a peaceful coastal town where spirituality, heritage, and nature come together in perfect harmony.</p>
+
+      <p>If you're looking for a post Ratha Yatra travel guide to Puri, this is one of the best times to explore the city. The temple queues are shorter, the beaches are less crowded, and you have the freedom to experience Puri at your own pace. Whether you're planning a family holiday, a spiritual retreat, or a relaxing weekend by the sea, here's everything you need to know before you visit Puri.</p>
+
+      <h2>Why Visit Puri After Ratha Yatra?</h2>
+      <p>There's a unique charm in seeing a destination after its biggest celebration. The festive energy lingers in the air, yet the city feels calmer and more welcoming.</p>
+      <p>The quieter atmosphere allows you to enjoy peaceful darshan at the Jagannath Temple, spend unhurried evenings at Puri Beach, explore local markets, and discover Odisha's rich cultural heritage without feeling rushed. For travellers interested in spiritual tourism in Puri, the post-festival season offers a more meaningful connection with the city's traditions and everyday life.</p>
+      <p>Sometimes, the most memorable journeys aren't the busiest ones—they're the ones where you have time to pause, observe, and truly experience a place.</p>
+
+      <h2>Seek Blessings at the Jagannath Temple</h2>
+      <p>No Puri vacation is complete without visiting the revered Jagannath Temple. One of the Char Dham pilgrimage sites, the temple continues to draw devotees throughout the year.</p>
+      <p>After Ratha Yatra, visitors often enjoy a more relaxed temple experience. You can spend time appreciating the magnificent architecture, witnessing daily rituals, and soaking in the spiritual atmosphere that defines Sacred Puri.</p>
+      <p>Whether you're travelling with elderly parents, introducing your children to Odisha's spiritual heritage, or just seeking a moment of reflection, the temple offers an experience that stays with you long after your journey ends.</p>
+
+      <h2>Unwind Along Puri Beach</h2>
+      <p>After the spiritual serenity of the temple, head towards the calming shores of Puri Beach.</p>
+      <p>There's something incredibly soothing about watching the waves roll in while the salty breeze carries away the fatigue of everyday life. Wake up early to witness a stunning sunrise over the Bay of Bengal, or spend your evening enjoying local snacks as children play along the shoreline.</p>
+      <p>Choosing a Puri beach hotel or a boutique stay in Puri near Puri Beach allows you to enjoy these moments whenever you wish. Sometimes, luxury isn't measured by extravagant experiences—it's found in peaceful mornings, beautiful sunsets, and the sound of waves outside your window.</p>
+
+      <h2>Explore Beyond the Famous Landmarks</h2>
+      <p>While the Jagannath Temple and Puri Beach are the city's biggest attractions, there are several other places worth adding to your itinerary.</p>
+      <p>A visit to Raghurajpur Heritage Village introduces you to Odisha's celebrated Pattachitra art and traditional handicrafts, where every home reflects generations of artistic excellence.</p>
+      <p>For those seeking tranquillity, Narendra Pokhari offers a serene environment steeped in religious significance, while Golden Beach provides a clean and picturesque stretch of coastline ideal for leisurely walks and family outings.</p>
+      <p>Exploring these destinations helps you discover a richer side of Puri tourism, where culture, craftsmanship, and spirituality coexist beautifully.</p>
+
+      <h2>A Simple Two-Day Post-Ratha Yatra Itinerary</h2>
+      <p>If you're wondering about the best things to do in Puri after Ratha Yatra, here's a balanced itinerary.</p>
+      <ul>
+        <li class="mb-3"><strong>Day 1:</strong> Begin with an early morning darshan at the Jagannath Temple. Later, explore the local markets known for seashell crafts, khaja (a traditional sweet), and traditional souvenirs. End your day with a peaceful sunset walk along Puri Beach.</li>
+        <li class="mb-3"><strong>Day 2:</strong> Visit Raghurajpur Heritage Village to witness local artisans at work. Spend the afternoon at Golden Beach before enjoying a relaxed evening with authentic Odia cuisine.</li>
+      </ul>
+      <p>This itinerary lets you experience the city's spiritual, cultural, and coastal attractions without feeling rushed.</p>
+
+      <h2>Choosing the Right Stay in Puri</h2>
+      <p>Where you stay plays an important role in determining your travel experience.</p>
+      <p>After a day spent exploring temples, beaches, and heritage sites, returning to a peaceful and comfortable hotel allows you to truly relax.</p>
+      <p>If you're wondering where to stay in Puri after Ratha Yatra, consider a property that offers:</p>
+      <ul>
+        <li class="mb-2">Easy access to both the Jagannath Temple and Puri Beach</li>
+        <li class="mb-2">Spacious, well-appointed rooms</li>
+        <li class="mb-2">Modern amenities for a comfortable stay</li>
+        <li class="mb-2">Warm, personalised hospitality</li>
+        <li class="mb-2">A peaceful environment suitable for families, couples, and pilgrims</li>
+      </ul>
+      <p>A thoughtfully designed family hotel in Puri ensures travellers of every age enjoy a memorable holiday.</p>
+
+      <h2>Experience Boutique Luxury at Victoria Grand</h2>
+      <p>A memorable destination deserves an equally memorable stay.</p>
+      <p>Victoria Grand offers a boutique hospitality experience that combines refined comfort with personalised service. Designed for travellers who appreciate elegant interiors, modern amenities, and a welcoming atmosphere, the property provides an ideal base for exploring Puri's spiritual and coastal attractions.</p>
+      <p>Its convenient location makes it easy to visit both the Jagannath Temple and Puri Beach, allowing guests to make the most of their time in the city without long commutes. Whether you're searching for the best boutique hotel near Jagannath Temple, a luxury hotel near Jagannath Temple, or a hotel in Puri with modern amenities, Victoria Grand offers a stay where comfort and thoughtful hospitality come together effortlessly.</p>
+      <p>More than just a place to sleep, it's a space where every journey finds the perfect ending after a day of exploration.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>Puri is more than a destination marked on a map—it's an experience that gently stays with you.</p>
+      <p>The days after Ratha Yatra reveal a calmer, more authentic side of the city, making it one of the finest times to explore Odisha's spiritual capital. Whether you're planning a short getaway or an extended Puri holiday, choosing the right itinerary and a comfortable boutique stay can make all the difference.</p>
+      <p>So, when you're ready to explore Puri after Ratha Yatra, let your journey be about more than sightseeing. Let it be about creating meaningful memories—with your loved ones, with the city, and with yourself.</p>
+
+      <h2>Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Is it a good time to visit Puri after Ratha Yatra?</strong><br/>
+        Yes. The weeks following Ratha Yatra offer a quieter and more relaxed atmosphere. Visitors can enjoy easier temple access, less crowded beaches, and a more peaceful sightseeing experience.</p>
+        
+        <p><strong>2. Where should I stay in Puri after Ratha Yatra?</strong><br/>
+        Choose accommodation that offers convenient access to both the Jagannath Temple and Puri Beach. Boutique hotels like Victoria Grand provide modern comforts, personalised hospitality, and a peaceful stay.</p>
+
+        <p><strong>3. Which is the best boutique hotel in Puri near Jagannath Temple?</strong><br/>
+        If you're looking for comfort, elegant interiors, and easy connectivity to major attractions, Victoria Grand is an excellent boutique stay for both pilgrims and leisure travellers.</p>
+
+        <p><strong>4. What are the best places to visit in Puri besides Jagannath Temple?</strong><br/>
+        Raghurajpur Heritage Village, Golden Beach, Narendra Pokhari, local markets, and the nearby coastline are among the most popular attractions beyond the temple.</p>
+
+        <p><strong>5. How many days are enough for a Puri vacation?</strong><br/>
+        A two to three-day trip is ideal for exploring the Jagannath Temple, Puri Beach, cultural attractions, local cuisine, and nearby heritage sites at a comfortable pace.</p>
+
+        <p><strong>6. Is Puri a good destination for a family holiday?</strong><br/>
+        Absolutely. Puri offers family-friendly beaches, cultural attractions, spiritual experiences, local shopping, and comfortable accommodation suitable for travellers of all ages.</p>
+
+        <p><strong>7. What should I look for when choosing a hotel in Puri?</strong><br/>
+        Look for a hotel with modern amenities, convenient access to the beach and temple, excellent hospitality, spacious rooms, and a peaceful environment for a comfortable stay.</p>
+      </div>
+    `,
+  },
   "jagannath-temple-spiritual-journey": {
     title: "The Spiritual Journey: Understanding Jagannath Temple",
     author: "Raj Kumar",
