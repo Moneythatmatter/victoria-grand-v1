@@ -13,6 +13,19 @@ import {
 
 const blogPosts = [
   {
+    id: 10,
+    slug: "blue-flag-beach-vs-golden-beach-puri",
+    title: "Blue Flag Beach vs Golden Beach: Which One Should You Visit in Puri?",
+    excerpt:
+      '"Every trip to Puri eventually leads to the sea. But when you hear people talking about Blue Flag Beach and Golden Beach, one question naturally comes to mind—aren\'t they the same? Not quite." Puri is blessed with a stunning coastline...',
+    author: "Vikram Singh",
+    date: "August 8, 2026",
+    category: "Travel",
+    image: "/assets/blog/blue-flag-beach-vs-golden-beach-puri.png",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 9,
     slug: "post-ratha-yatra-travel-guide-puri",
     title:

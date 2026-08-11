@@ -7,6 +7,14 @@ import { RoyalDivider } from "@/components/royal-corner-ornament";
 
 const allPosts = [
   {
+    id: 10,
+    slug: "blue-flag-beach-vs-golden-beach-puri",
+    title: "Blue Flag Beach vs Golden Beach: Which One Should You Visit in Puri?",
+    date: "August 8, 2026",
+    category: "Travel",
+    image: "/assets/blog/blue-flag-beach-vs-golden-beach-puri.png",
+  },
+  {
     id: 9,
     slug: "post-ratha-yatra-travel-guide-puri",
     title: "Your Post-Ratha Yatra Travel Guide: Boutique Stays, Beaches & Temple Experiences",
