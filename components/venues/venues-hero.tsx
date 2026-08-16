@@ -3,6 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
+import { DecorativeFrame } from "@/components/decorative-frame";
 
 export function VenuesHero() {
   return (
@@ -19,14 +20,7 @@ export function VenuesHero() {
         <div className="absolute inset-0 bg-olive-dark/70" />
       </div>
 
-      {/* Decorative Frame */}
-      <div className="absolute inset-8 md:inset-16 border border-ochre/20 pointer-events-none" />
-
-      {/* Corner Accents */}
-      <div className="absolute top-8 left-8 md:top-16 md:left-16 w-12 h-12 md:w-16 md:h-16 border-t-2 border-l-2 border-ochre/50" />
-      <div className="absolute top-8 right-8 md:top-16 md:right-16 w-12 h-12 md:w-16 md:h-16 border-t-2 border-r-2 border-ochre/50" />
-      <div className="absolute bottom-8 left-8 md:bottom-16 md:left-16 w-12 h-12 md:w-16 md:h-16 border-b-2 border-l-2 border-ochre/50" />
-      <div className="absolute bottom-8 right-8 md:bottom-16 md:right-16 w-12 h-12 md:w-16 md:h-16 border-b-2 border-r-2 border-ochre/50" />
+      <DecorativeFrame clearHeader />
 
       {/* Content */}
       <div className="relative z-10 text-center px-6 pt-24">

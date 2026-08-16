@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import { ChevronDown, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { DecorativeFrame } from "@/components/decorative-frame";
 import { cn } from "@/lib/utils";
 
 const heroSlides = [
@@ -94,14 +95,7 @@ export function HeroSection() {
             </div>
          ))}
 
-         {/* Decorative Frame */}
-         <div className="absolute inset-8 md:inset-16 border border-ochre/20 pointer-events-none" />
-
-         {/* Simple Corner Accents */}
-         <div className="absolute top-8 left-8 md:top-16 md:left-16 w-12 h-12 md:w-16 md:h-16 border-t-2 border-l-2 border-ochre/50" />
-         <div className="absolute top-8 right-8 md:top-16 md:right-16 w-12 h-12 md:w-16 md:h-16 border-t-2 border-r-2 border-ochre/50" />
-         <div className="absolute bottom-8 left-8 md:bottom-16 md:left-16 w-12 h-12 md:w-16 md:h-16 border-b-2 border-l-2 border-ochre/50" />
-         <div className="absolute bottom-8 right-8 md:bottom-16 md:right-16 w-12 h-12 md:w-16 md:h-16 border-b-2 border-r-2 border-ochre/50" />
+         <DecorativeFrame clearHeader />
 
          {/* Content */}
          <div className="relative h-full flex flex-col items-center justify-center text-center px-6">

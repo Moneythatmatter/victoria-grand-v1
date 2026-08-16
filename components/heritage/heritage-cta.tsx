@@ -3,6 +3,8 @@
 import { Phone, Mail, MapPin, Compass } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import { JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 export function HeritageCTA() {
   return (
@@ -11,7 +13,7 @@ export function HeritageCTA() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
         style={{
-          backgroundImage: `url('https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2076')`,
+          backgroundImage: `url('${JAGANNATH_TEMPLE_IMAGE}')`,
         }}
       />
 
@@ -98,10 +100,10 @@ export function HeritageCTA() {
                 Concierge Desk
               </span>
               <a
-                href="tel:+919876543210"
+                href={SITE_PHONE_HREF}
                 className="font-sans text-cream hover:text-ochre transition-colors"
               >
-                +91 98765 43210
+                {SITE_PHONE_DISPLAY}
               </a>
             </div>
 
@@ -113,10 +115,10 @@ export function HeritageCTA() {
                 Heritage Tours
               </span>
               <a
-                href="mailto:heritage@victoriagrand.com"
+                href="mailto:heritage@hotelvictoriagrand.com"
                 className="font-sans text-cream hover:text-ochre transition-colors"
               >
-                heritage@victoriagrand.com
+                heritage@hotelvictoriagrand.com
               </a>
             </div>
 

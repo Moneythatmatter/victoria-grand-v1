@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ArrowRight, Phone, Mail, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 export function RoomsCTA() {
   return (
@@ -112,7 +113,7 @@ export function RoomsCTA() {
 
             <div className="space-y-6">
               <a
-                href="tel:+919876543210"
+                href={SITE_PHONE_HREF}
                 className="flex items-center gap-4 group"
               >
                 <div className="p-3 bg-ochre/20 group-hover:bg-ochre/30 transition-colors">
@@ -123,13 +124,13 @@ export function RoomsCTA() {
                     Reservations
                   </p>
                   <p className="font-sans text-cream group-hover:text-ochre transition-colors">
-                    +91 98765 43210
+                    {SITE_PHONE_DISPLAY}
                   </p>
                 </div>
               </a>
 
               <a
-                href="mailto:reservations@victoriagrand.com"
+                href="mailto:reservations@hotelvictoriagrand.com"
                 className="flex items-center gap-4 group"
               >
                 <div className="p-3 bg-ochre/20 group-hover:bg-ochre/30 transition-colors">
@@ -140,7 +141,7 @@ export function RoomsCTA() {
                     Email
                   </p>
                   <p className="font-sans text-cream group-hover:text-ochre transition-colors">
-                    reservations@victoriagrand.com
+                    reservations@hotelvictoriagrand.com
                   </p>
                 </div>
               </a>

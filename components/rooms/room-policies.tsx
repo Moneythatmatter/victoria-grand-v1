@@ -2,6 +2,7 @@
 
 import { Clock, Calendar, CreditCard, Users, AlertCircle, Baby } from "lucide-react";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 const policies = [
   {
@@ -133,11 +134,11 @@ export function RoomPolicies() {
         <div className="mt-12 text-center p-6 bg-ochre/10 border border-ochre/20">
           <p className="font-sans text-olive-dark/80">
             Have questions about our policies?{" "}
-            <a href="tel:+919876543210" className="text-ochre hover:underline font-medium">
-              Call us at +91 98765 43210
+            <a href={SITE_PHONE_HREF} className="text-ochre hover:underline font-medium">
+              Call us at {SITE_PHONE_DISPLAY}
             </a>{" "}
             or{" "}
-            <a href="mailto:reservations@victoriagrand.com" className="text-ochre hover:underline font-medium">
+            <a href="mailto:reservations@hotelvictoriagrand.com" className="text-ochre hover:underline font-medium">
               email our reservations team
             </a>
           </p>

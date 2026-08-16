@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ArrowRight, Phone, Mail, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 export function AboutCTA() {
   return (
@@ -84,19 +85,19 @@ export function AboutCTA() {
           {/* Contact Info */}
           <div className="grid sm:grid-cols-3 gap-6 pt-10 border-t border-cream/10">
             <a
-              href="tel:+919876543210"
+              href={SITE_PHONE_HREF}
               className="flex items-center justify-center gap-3 text-cream/70 hover:text-ochre transition-colors"
             >
               <Phone className="w-5 h-5" />
-              <span className="font-sans">+91 98765 43210</span>
+              <span className="font-sans">{SITE_PHONE_DISPLAY}</span>
             </a>
             
             <a
-              href="mailto:info@victoriagrand.com"
+              href="mailto:info@hotelvictoriagrand.com"
               className="flex items-center justify-center gap-3 text-cream/70 hover:text-ochre transition-colors"
             >
               <Mail className="w-5 h-5" />
-              <span className="font-sans">info@victoriagrand.com</span>
+              <span className="font-sans">info@hotelvictoriagrand.com</span>
             </a>
             
             <div className="flex items-center justify-center gap-3 text-cream/70">

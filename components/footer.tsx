@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 import {
    Facebook,
    Instagram,
@@ -66,22 +67,22 @@ export function Footer() {
                   {/* Contact Info */}
                   <div className="space-y-3">
                      <a
-                        href="tel:+919876543210"
+                        href={SITE_PHONE_HREF}
                         className="flex items-center gap-3 text-cream/70 hover:text-ochre transition-colors"
                      >
                         <Phone className="w-4 h-4 text-ochre" />
                         <span className="font-sans text-sm">
-                           +91 98765 43210
+                           {SITE_PHONE_DISPLAY}
                         </span>
                      </a>
                      <a
-                        href="mailto:info@victoriagrand.com"
+                        href="mailto:info@hotelvictoriagrand.com"
                         className="flex items-center gap-3 text-cream/70 hover:text-ochre transition-colors"
                      >
                         <Mail className="w-4 h-4 text-ochre" />
                         <span className="font-sans text-sm">
-                           info@victoriagrand.com
-                        </span>
+                           info@hotelvictoriagrand.com
+                        </span>  
                      </a>
                      <div className="flex items-start gap-3 text-cream/70">
                         <MapPin className="w-4 h-4 text-ochre mt-1 shrink-0" />

@@ -4,6 +4,7 @@ import Image from "next/image";
 import { MapPin, Clock, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import { JAGANNATH_TEMPLE_IMAGE, KONARK_SUN_TEMPLE_IMAGE, CHILIKA_LAKE_IMAGE, PURI_BEACH_IMAGE } from "@/lib/heritage-images";
 
 const attractions = [
   {
@@ -18,7 +19,7 @@ const attractions = [
       "Home to the famous Rath Yatra festival",
       "Architectural marvel of Kalinga style",
     ],
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2076",
+    image: JAGANNATH_TEMPLE_IMAGE,
     distance: "500m from Victoria Grand",
     timing: "5:00 AM - 11:00 PM",
     mustSee: true,
@@ -35,7 +36,7 @@ const attractions = [
       "24 elaborately carved wheels",
       "Famous for the Konark Dance Festival",
     ],
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071",
+    image: KONARK_SUN_TEMPLE_IMAGE,
     distance: "35km from Victoria Grand",
     timing: "6:00 AM - 8:00 PM",
     mustSee: true,
@@ -52,7 +53,7 @@ const attractions = [
       "160+ migratory bird species in winter",
       "Kalijai Temple on an island",
     ],
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070",
+    image: CHILIKA_LAKE_IMAGE,
     distance: "50km from Victoria Grand",
     timing: "6:00 AM - 5:00 PM (boat rides)",
     mustSee: false,
@@ -69,7 +70,7 @@ const attractions = [
       "Traditional fishing culture",
       "Annual Beach Festival venue",
     ],
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073",
+    image: PURI_BEACH_IMAGE,
     distance: "1km from Victoria Grand",
     timing: "Open 24 hours",
     mustSee: false,
@@ -140,7 +141,7 @@ export function HeritageAttractions() {
                   src={attraction.image}
                   alt={attraction.title}
                   fill
-                  className="object-cover transition-transform duration-700 hover:scale-105"
+                  className="object-cover object-center transition-transform duration-700 hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-olive-dark/20" />
 

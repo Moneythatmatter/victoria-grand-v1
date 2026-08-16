@@ -5,62 +5,63 @@ import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, Play } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import { JAGANNATH_TEMPLE_IMAGE, KONARK_SUN_TEMPLE_IMAGE, CHILIKA_LAKE_IMAGE, PURI_BEACH_IMAGE, RATH_YATRA_IMAGE, CHANDAN_YATRA_IMAGE, APPLIQUE_ART_PIPILI_IMAGE, PATTACHITRA_IMAGE } from "@/lib/heritage-images";
 
 const galleryItems = [
   {
     id: 1,
-    src: "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2076",
-    alt: "Jagannath Temple at sunset",
+    src: JAGANNATH_TEMPLE_IMAGE,
+    alt: "Full view of Jagannath Temple, Puri",
     category: "Temples",
     span: "col-span-2 row-span-2",
   },
   {
     id: 2,
-    src: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071",
-    alt: "Konark Sun Temple wheel",
+    src: KONARK_SUN_TEMPLE_IMAGE,
+    alt: "Full view of Konark Sun Temple",
     category: "Temples",
     span: "col-span-1 row-span-1",
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073",
-    alt: "Puri Beach sunrise",
+    src: PURI_BEACH_IMAGE,
+    alt: "Coastal view of Puri Beach from the lighthouse, Odisha",
     category: "Nature",
     span: "col-span-1 row-span-1",
   },
   {
     id: 4,
-    src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2032",
-    alt: "Applique art workshop",
+    src: APPLIQUE_ART_PIPILI_IMAGE,
+    alt: "Pipili chandua applique work, Odisha",
     category: "Crafts",
     span: "col-span-1 row-span-2",
   },
   {
     id: 5,
-    src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070",
-    alt: "Chilika Lake with birds",
+    src: CHILIKA_LAKE_IMAGE,
+    alt: "Morning view of Chilika Lake, Odisha",
     category: "Nature",
     span: "col-span-1 row-span-1",
   },
   {
     id: 6,
-    src: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=2070",
-    alt: "Rath Yatra festival",
+    src: RATH_YATRA_IMAGE,
+    alt: "Three chariots at Puri Rath Yatra",
     category: "Festivals",
     span: "col-span-2 row-span-1",
   },
   {
     id: 7,
-    src: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=2045",
-    alt: "Pattachitra painting",
+    src: PATTACHITRA_IMAGE,
+    alt: "Pattachitra scroll painting from Raghurajpur, Odisha",
     category: "Crafts",
     span: "col-span-1 row-span-1",
   },
   {
     id: 8,
-    src: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021",
-    alt: "Traditional boat on lake",
-    category: "Nature",
+    src: CHANDAN_YATRA_IMAGE,
+    alt: "Chapa boat ceremony during Chandan Yatra at Narendra Tank, Puri",
+    category: "Festivals",
     span: "col-span-1 row-span-1",
   },
 ];

@@ -4,6 +4,7 @@ import Image from "next/image";
 import { Phone, Mail, MapPin, Calendar } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 export function VenuesCTA() {
   return (
@@ -96,10 +97,10 @@ export function VenuesCTA() {
                 Events Desk
               </span>
               <a
-                href="tel:+919876543210"
+                href={SITE_PHONE_HREF}
                 className="font-serif text-lg text-cream hover:text-ochre transition-colors duration-300"
               >
-                +91 98765 43210
+                {SITE_PHONE_DISPLAY}
               </a>
             </div>
 
@@ -111,10 +112,10 @@ export function VenuesCTA() {
                 Email Us
               </span>
               <a
-                href="mailto:events@victoriagrand.com"
+                href="mailto:events@hotelvictoriagrand.com"
                 className="font-serif text-lg text-cream hover:text-ochre transition-colors duration-300"
               >
-                events@victoriagrand.com
+                events@hotelvictoriagrand.com
               </a>
             </div>
 

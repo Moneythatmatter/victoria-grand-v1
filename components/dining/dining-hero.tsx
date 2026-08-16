@@ -3,7 +3,13 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
+import { cn } from "@/lib/utils";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
+import {
+   DecorativeFrame,
+   heroFrameSideClass,
+   heroFrameTopClass,
+} from "@/components/decorative-frame";
 
 export function DiningHero() {
   return (
@@ -20,15 +26,14 @@ export function DiningHero() {
         <div className="absolute inset-0 bg-olive-dark/70" />
       </div>
 
-      {/* Decorative Frame */}
-      <div className="absolute inset-8 md:inset-16 border border-ochre/20 pointer-events-none" />
+      <DecorativeFrame clearHeader />
 
       {/* Royal Corner Ornaments */}
       <RoyalCornerOrnament
         position="top-left"
         color="#c1893e"
         size="lg"
-        className="top-4 left-4 md:top-12 md:left-12 opacity-60"
+        className={cn(heroFrameTopClass, heroFrameSideClass, "opacity-60")}
       />
       <RoyalCornerOrnament
         position="bottom-right"

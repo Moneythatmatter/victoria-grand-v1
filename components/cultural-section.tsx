@@ -5,6 +5,7 @@ import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
+import { JAGANNATH_TEMPLE_IMAGE, KONARK_SUN_TEMPLE_IMAGE, CHILIKA_LAKE_IMAGE, PURI_BEACH_IMAGE, APPLIQUE_ART_PIPILI_IMAGE } from "@/lib/heritage-images";
 
 const culturalExperiences = [
    {
@@ -12,7 +13,7 @@ const culturalExperiences = [
       subtitle: "Divine Blessings",
       description:
          "Begin your spiritual journey at the sacred 12th-century Jagannath Temple, one of the Char Dham pilgrimage sites. Our concierge can arrange guided darshan experiences and explain the rich mythology.",
-      image: "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2076",
+      image: JAGANNATH_TEMPLE_IMAGE,
       distance: "500m",
    },
    {
@@ -28,7 +29,7 @@ const culturalExperiences = [
       subtitle: "Golden Sands",
       description:
          "Witness spectacular sunrises over the Bay of Bengal. The beach, with its unique golden sand and traditional fishing boats, offers morning yoga sessions and evening cultural performances.",
-      image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073",
+      image: PURI_BEACH_IMAGE,
       distance: "1km",
    },
    {
@@ -36,7 +37,7 @@ const culturalExperiences = [
       subtitle: "Living Heritage",
       description:
          "Pipili, near Puri, is renowned for its vibrant applique work - colorful fabric art used in temple decorations. Visit artisan workshops to witness this 900-year-old craft tradition.",
-      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2032",
+      image: APPLIQUE_ART_PIPILI_IMAGE,
       distance: "25km",
    },
    {
@@ -44,7 +45,7 @@ const culturalExperiences = [
       subtitle: "Natural Wonder",
       description:
          "Asia's largest brackish water lagoon is home to dolphins and migratory birds. Take a boat ride to Satapada for an unforgettable encounter with Irrawaddy dolphins.",
-      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070",
+      image: CHILIKA_LAKE_IMAGE,
       distance: "50km",
    },
    {
@@ -52,7 +53,7 @@ const culturalExperiences = [
       subtitle: "Architectural Marvel",
       description:
          "A UNESCO World Heritage Site, this 13th-century temple is designed as a colossal chariot of the Sun God. The intricate stone carvings are a testament to Kalinga architecture.",
-      image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071",
+      image: KONARK_SUN_TEMPLE_IMAGE,
       distance: "35km",
    },
 ];

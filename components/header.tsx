@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Menu, X, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 import Logo from "./Logo";
 
 const navItems = [
@@ -112,14 +113,14 @@ export function Header() {
                   {/* CTA Buttons */}
                   <div className="hidden lg:flex items-center gap-4">
                      <a
-                        href="tel:+919876543210"
+                        href={SITE_PHONE_HREF}
                         className={cn(
                            "flex items-center gap-2 text-sm tracking-wide transition-colors duration-300",
                            isScrolled ? "text-cream/80" : "text-white/80",
                         )}
                      >
                         <Phone className="w-4 h-4" />
-                        <span className="font-sans">+91 98765 43210</span>
+                        <span className="font-sans">{SITE_PHONE_DISPLAY}</span>
                      </a>
                      <Button
                         className={cn(

@@ -270,6 +270,49 @@ section:hover .gold-glow {
   animation: ken-burns-3 8s ease-out forwards;
 }
 
+/* Hero Zoom Out Effect */
+@keyframes hero-zoom-out-1 {
+  0% {
+    transform: scale(1.25);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes hero-zoom-out-2 {
+  0% {
+    transform: scale(1.2) translate(2%, 1%);
+  }
+
+  100% {
+    transform: scale(1) translate(0, 0);
+  }
+}
+
+@keyframes hero-zoom-out-3 {
+  0% {
+    transform: scale(1.22) translate(-1%, 2%);
+  }
+
+  100% {
+    transform: scale(1) translate(0, 0);
+  }
+}
+
+.hero-zoom-out-1 {
+  animation: hero-zoom-out-1 6s ease-out forwards;
+}
+
+.hero-zoom-out-2 {
+  animation: hero-zoom-out-2 6s ease-out forwards;
+}
+
+.hero-zoom-out-3 {
+  animation: hero-zoom-out-3 6s ease-out forwards;
+}
+
 
 
 /* Premium Card Hover Effects */

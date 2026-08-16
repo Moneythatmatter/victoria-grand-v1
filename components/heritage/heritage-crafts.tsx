@@ -4,6 +4,7 @@ import Image from "next/image";
 import { MapPin, Palette, ShoppingBag } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import { APPLIQUE_ART_PIPILI_IMAGE, PATTACHITRA_IMAGE, STONE_CARVING_IMAGE, SILVER_FILIGREE_IMAGE } from "@/lib/heritage-images";
 
 const crafts = [
   {
@@ -12,7 +13,7 @@ const crafts = [
     description:
       "This 900-year-old craft tradition involves creating vibrant fabric art using colorful cloth pieces stitched together to form intricate patterns. Originally used to decorate temple chariots and canopies, today it adorns everything from lampshades to wall hangings.",
     speciality: "Temple chariot decorations, garden umbrellas, wall hangings",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=2032",
+    image: APPLIQUE_ART_PIPILI_IMAGE,
     tag: "GI Tagged",
   },
   {
@@ -21,7 +22,7 @@ const crafts = [
     description:
       "Ancient scroll paintings depicting mythological narratives, particularly stories of Lord Jagannath. Artists use natural colors and intricate detailing on specially treated cloth or dried palm leaves, following techniques passed down through generations.",
     speciality: "Mythological paintings, palm leaf engravings, playing cards",
-    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=2045",
+    image: PATTACHITRA_IMAGE,
     tag: "Heritage Craft",
   },
   {
@@ -30,7 +31,7 @@ const crafts = [
     description:
       "Delicate silver threads are twisted and woven into intricate jewelry and decorative items. This painstaking craft, known locally as 'Tarakasi', creates stunning pieces that resemble fine lacework in silver, a specialty of Odisha for centuries.",
     speciality: "Jewelry, decorative items, temple ornaments",
-    image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=2070",
+    image: SILVER_FILIGREE_IMAGE,
     tag: "Royal Craft",
   },
   {
@@ -39,7 +40,7 @@ const crafts = [
     description:
       "The same tradition that created the magnificent Konark Sun Temple continues today. Skilled artisans carve intricate sculptures, deities, and decorative pieces from locally sourced stone, keeping alive an ancient art form.",
     speciality: "Temple sculptures, deity idols, decorative items",
-    image: "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?q=80&w=2069",
+    image: STONE_CARVING_IMAGE,
     tag: "Temple Art",
   },
 ];

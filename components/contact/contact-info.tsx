@@ -14,20 +14,21 @@ import {
    RoyalCornerOrnament,
    RoyalDivider,
 } from "@/components/royal-corner-ornament";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
 
 const contactDetails = [
    {
       icon: Phone,
       title: "Phone",
-      details: ["+91 98765 43210", "+91 06752 123456"],
-      action: "tel:+919876543210",
+      details: [SITE_PHONE_DISPLAY],
+      action: SITE_PHONE_HREF,
       actionLabel: "Call Now",
    },
    {
       icon: Mail,
       title: "Email",
-      details: ["info@victoriagrand.com", "reservations@victoriagrand.com"],
-      action: "mailto:info@victoriagrand.com",
+      details: ["info@hotelvictoriagrand.com", "reservations@hotelvictoriagrand.com"],
+      action: "mailto:info@hotelvictoriagrand.com",
       actionLabel: "Send Email",
    },
    {
