@@ -111,10 +111,10 @@ export function DiningCTA() {
               <div className="text-center">
                 <p className="font-sans text-cream/60 text-sm">Email Us</p>
                 <a
-                  href="mailto:dining@hotelvictoriagrand.com"
+                  href="mailto:info@hotelvictoriagrand.com"
                   className="font-sans text-cream hover:text-ochre transition-colors"
                 >
-                  dining@hotelvictoriagrand.com
+                  info@hotelvictoriagrand.com
                 </a>
               </div>
             </div>

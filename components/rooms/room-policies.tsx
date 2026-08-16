@@ -138,7 +138,7 @@ export function RoomPolicies() {
               Call us at {SITE_PHONE_DISPLAY}
             </a>{" "}
             or{" "}
-            <a href="mailto:reservations@hotelvictoriagrand.com" className="text-ochre hover:underline font-medium">
+            <a href="mailto:info@hotelvictoriagrand.com" className="text-ochre hover:underline font-medium">
               email our reservations team
             </a>
           </p>

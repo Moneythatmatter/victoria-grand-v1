@@ -130,7 +130,7 @@ export function RoomsCTA() {
               </a>
 
               <a
-                href="mailto:reservations@hotelvictoriagrand.com"
+                href="mailto:info@hotelvictoriagrand.com"
                 className="flex items-center gap-4 group"
               >
                 <div className="p-3 bg-ochre/20 group-hover:bg-ochre/30 transition-colors">
@@ -141,7 +141,7 @@ export function RoomsCTA() {
                     Email
                   </p>
                   <p className="font-sans text-cream group-hover:text-ochre transition-colors">
-                    reservations@hotelvictoriagrand.com
+                    info@hotelvictoriagrand.com
                   </p>
                 </div>
               </a>

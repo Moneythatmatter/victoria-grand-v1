@@ -27,7 +27,7 @@ const contactDetails = [
    {
       icon: Mail,
       title: "Email",
-      details: ["info@hotelvictoriagrand.com", "reservations@hotelvictoriagrand.com"],
+      details: ["info@hotelvictoriagrand.com", "info@hotelvictoriagrand.com"],
       action: "mailto:info@hotelvictoriagrand.com",
       actionLabel: "Send Email",
    },

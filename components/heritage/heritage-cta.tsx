@@ -115,10 +115,10 @@ export function HeritageCTA() {
                 Heritage Tours
               </span>
               <a
-                href="mailto:heritage@hotelvictoriagrand.com"
+                href="mailto:info@hotelvictoriagrand.com"
                 className="font-sans text-cream hover:text-ochre transition-colors"
               >
-                heritage@hotelvictoriagrand.com
+                info@hotelvictoriagrand.com
               </a>
             </div>
 

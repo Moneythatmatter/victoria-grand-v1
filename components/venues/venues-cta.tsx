@@ -112,10 +112,10 @@ export function VenuesCTA() {
                 Email Us
               </span>
               <a
-                href="mailto:events@hotelvictoriagrand.com"
+                href="mailto:info@hotelvictoriagrand.com"
                 className="font-serif text-lg text-cream hover:text-ochre transition-colors duration-300"
               >
-                events@hotelvictoriagrand.com
+                info@hotelvictoriagrand.com
               </a>
             </div>
 
