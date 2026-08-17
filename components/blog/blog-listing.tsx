@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 11,
+    slug: "jagannath-temple-puri-darshan-guide",
+    title:
+      "Jagannath Temple Puri Darshan Guide: Everything First-Time Visitors Should Know",
+    excerpt:
+      "There's a moment that catches most first-time visitors off guard. You step off the train or out of your cab, the salt air from the Bay of Bengal still on your skin, and somewhere ahead the spire of the Jagannath Temple rises over Puri's rooftops...",
+    author: "Vikram Singh",
+    date: "August 17, 2026",
+    category: "Heritage",
+    image: JAGANNATH_TEMPLE_IMAGE,
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 10,
     slug: "blue-flag-beach-vs-golden-beach-puri",
     title: "Blue Flag Beach vs Golden Beach: Which One Should You Visit in Puri?",

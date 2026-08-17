@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 11,
+    slug: "jagannath-temple-puri-darshan-guide",
+    title: "Jagannath Temple Puri Darshan Guide: Everything First-Time Visitors Should Know",
+    date: "August 17, 2026",
+    category: "Heritage",
+    image: JAGANNATH_TEMPLE_IMAGE,
+  },
+  {
     id: 10,
     slug: "blue-flag-beach-vs-golden-beach-puri",
     title: "Blue Flag Beach vs Golden Beach: Which One Should You Visit in Puri?",
