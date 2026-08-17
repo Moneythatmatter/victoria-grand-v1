@@ -8,7 +8,7 @@ import {
   RoyalCornerOrnament,
   RoyalDivider,
 } from "@/components/royal-corner-ornament";
-import { MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
+import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
   "blue-flag-beach-vs-golden-beach-puri": {
@@ -232,8 +232,7 @@ const blogPostsData: Record<string, any> = {
     date: "March 15, 2024",
     readTime: "8 min",
     category: "Heritage",
-    image:
-      "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200",
+    image: JAGANNATH_TEMPLE_IMAGE,
     excerpt:
       "Explore the profound spiritual significance of one of India's most sacred pilgrimage sites and its cultural impact on Puri.",
     content: `

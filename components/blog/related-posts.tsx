@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Calendar, ArrowUpRight } from "lucide-react";
 import { RoyalDivider } from "@/components/royal-corner-ornament";
-import { MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
+import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const allPosts = [
   {
@@ -45,7 +45,7 @@ const allPosts = [
     title: "The Spiritual Journey: Understanding Jagannath Temple",
     date: "March 15, 2024",
     category: "Heritage",
-    image: "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=600",
+    image: JAGANNATH_TEMPLE_IMAGE,
   },
   {
     id: 2,

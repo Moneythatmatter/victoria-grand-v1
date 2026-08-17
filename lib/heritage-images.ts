@@ -1,10 +1,8 @@
-/** Full evening view of Jagannath Temple, Puri (Wikimedia Commons) */
-export const JAGANNATH_TEMPLE_IMAGE =
-   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jagannath_Temple_Puri.jpg";
+/** Full evening view of Jagannath Temple, Puri (local asset) */
+export const JAGANNATH_TEMPLE_IMAGE = "/images/heritage/jagannath-temple.webp";
 
-/** Full front view of Konark Sun Temple, Odisha (Wikimedia Commons) */
-export const KONARK_SUN_TEMPLE_IMAGE =
-   "https://upload.wikimedia.org/wikipedia/commons/3/34/Konark_Sun_Temple_frontview.jpg";
+/** Full front view of Konark Sun Temple, Odisha (local asset) */
+export const KONARK_SUN_TEMPLE_IMAGE = "/images/heritage/konark-image.png";
 
 /** Morning panorama of Chilika Lake, Odisha (Wikimedia Commons) */
 export const CHILIKA_LAKE_IMAGE =
@@ -41,5 +39,5 @@ export const STONE_CARVING_IMAGE = "/images/heritage/stone-carving.png";
 export const SILVER_FILIGREE_IMAGE = "/images/heritage/silver-filigree.png";
 
 /** Mahaprasad sacred temple food offering served in traditional clay kudua pots on banana leaf (local asset) */
-export const MAHAPRASAD_IMAGE = "/images/heritage/mahaprasad.jpg";
+export const MAHAPRASAD_IMAGE = "/images/heritage/mahaprasad-image.png";
 
