@@ -39,3 +39,7 @@ export const STONE_CARVING_IMAGE = "/images/heritage/stone-carving.png";
 
 /** Cuttack Tarakasi silver filigree jewelry, Odisha (local asset) */
 export const SILVER_FILIGREE_IMAGE = "/images/heritage/silver-filigree.png";
+
+/** Mahaprasad sacred temple food offering served in traditional clay kudua pots on banana leaf (local asset) */
+export const MAHAPRASAD_IMAGE = "/images/heritage/mahaprasad.jpg";
+

@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Calendar, ArrowUpRight } from "lucide-react";
 import { RoyalDivider } from "@/components/royal-corner-ornament";
+import { MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
 
 const allPosts = [
   {
@@ -58,9 +59,9 @@ const allPosts = [
     id: 3,
     slug: "mahaprasad-spiritual-food",
     title: "Mahaprasad: The Sacred Offering and Its Significance",
-    date: "March 5, 2024",
+    date: "April 5, 2026",
     category: "Cuisine",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600",
+    image: MAHAPRASAD_IMAGE,
   },
   {
     id: 4,

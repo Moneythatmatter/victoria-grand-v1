@@ -6,6 +6,7 @@ import Image from "next/image";
 import { Calendar, User, ArrowUpRight, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
 import {
   RoyalCornerOrnament,
   RoyalDivider,
@@ -91,7 +92,7 @@ const blogPosts = [
     image:
       "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?q=80&w=1200",
     readTime: "6 min",
-    featured: true,
+    featured: false,
   },
   {
     id: 3,
@@ -100,10 +101,9 @@ const blogPosts = [
     excerpt:
       "Learn about the spiritual and cultural importance of Mahaprasad, the blessed food offering from the Jagannath Temple.",
     author: "Amit Patel",
-    date: "March 5, 2024",
+    date: "April 5, 2026",
     category: "Cuisine",
-    image:
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200",
+    image: MAHAPRASAD_IMAGE,
     readTime: "5 min",
     featured: false,
   },
@@ -134,20 +134,6 @@ const blogPosts = [
       "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200",
     readTime: "9 min",
     featured: true,
-  },
-  {
-    id: 6,
-    slug: "chilika-lake-biodiversity",
-    title: "Chilika Lake: Nature's Sanctuary",
-    excerpt:
-      "Discover the ecological significance and natural beauty of Asia's largest lagoon and its thriving wildlife.",
-    author: "Dr. Anita Dey",
-    date: "February 12, 2024",
-    category: "Nature",
-    image:
-      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?q=80&w=1200",
-    readTime: "10 min",
-    featured: false,
   },
 ];
 
