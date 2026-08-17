@@ -8,6 +8,7 @@ import {
   RoyalCornerOrnament,
   RoyalDivider,
 } from "@/components/royal-corner-ornament";
+import { MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
   "blue-flag-beach-vs-golden-beach-puri": {
@@ -294,11 +295,10 @@ const blogPostsData: Record<string, any> = {
     authorRole: "Cuisine Specialist",
     authorImage:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200",
-    date: "March 5, 2024",
+    date: "April 5, 2026",
     readTime: "5 min",
     category: "Cuisine",
-    image:
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200",
+    image: MAHAPRASAD_IMAGE,
     excerpt:
       "Learn about the spiritual and cultural importance of Mahaprasad, the blessed food offering from the Jagannath Temple.",
     content: `

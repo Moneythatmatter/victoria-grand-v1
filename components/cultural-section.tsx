@@ -5,7 +5,7 @@ import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { RoyalCornerOrnament } from "@/components/royal-corner-ornament";
-import { JAGANNATH_TEMPLE_IMAGE, KONARK_SUN_TEMPLE_IMAGE, CHILIKA_LAKE_IMAGE, PURI_BEACH_IMAGE, APPLIQUE_ART_PIPILI_IMAGE } from "@/lib/heritage-images";
+import { JAGANNATH_TEMPLE_IMAGE, KONARK_SUN_TEMPLE_IMAGE, CHILIKA_LAKE_IMAGE, PURI_BEACH_IMAGE, APPLIQUE_ART_PIPILI_IMAGE, MAHAPRASAD_IMAGE } from "@/lib/heritage-images";
 
 const culturalExperiences = [
    {
@@ -21,7 +21,7 @@ const culturalExperiences = [
       subtitle: "Sacred Cuisine",
       description:
          "Experience Abadha, the divine offering from Jagannath Temple's kitchen - the largest in the world. This sacred meal, prepared without onion and garlic, carries centuries of spiritual tradition.",
-      image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=2021",
+      image: MAHAPRASAD_IMAGE,
       distance: "Temple",
    },
    {
