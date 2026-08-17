@@ -11,6 +11,98 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "jagannath-temple-puri-darshan-guide": {
+    title:
+      "Jagannath Temple Puri Darshan Guide: Everything First-Time Visitors Should Know",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "August 17, 2026",
+    readTime: "7 min",
+    category: "Heritage",
+    image: JAGANNATH_TEMPLE_IMAGE,
+    excerpt:
+      "There's a moment that catches most first-time visitors off guard. You step off the train or out of your cab, the salt air from the Bay of Bengal still on your skin, and somewhere ahead the spire of the Jagannath Temple rises over Puri's rooftops. It doesn't look like a photograph anymore. It looks like something you're about to be part of.",
+    content: `
+      <blockquote class="italic text-xl font-serif text-ochre border-l-4 border-ochre pl-4 my-6 font-semibold">
+        "There's a moment that catches most first-time visitors off guard. You step off the train or out of your cab, the salt air from the Bay of Bengal still on your skin, and somewhere ahead the spire of the Jagannath Temple rises over Puri's rooftops. It doesn't look like a photograph anymore. It looks like something you're about to be part of."
+      </blockquote>
+
+      <p>Planning a Jagannath Temple Puri darshan is different from visiting most other landmarks in India. This isn't a monument you walk around at your own pace with a guidebook in hand — it's a living temple with its own rhythm, its own rules, and its own centuries-old rituals that continue exactly as they have for generations. Knowing what to expect before you arrive makes the difference between standing confused at a gate and walking in prepared, unhurried, and ready to actually experience it.</p>
+
+      <p>This guide covers what every first-time visitor to the Puri Jagannath Temple needs to know: timings, entry rules, dress code, and the practical details that rarely make it into the standard travel brochure.</p>
+
+      <h2>A Quick Orientation to the Temple</h2>
+      <p>The Jagannath Temple in Puri is one of the four sacred Char Dham sites of Hindu pilgrimage, dedicated to Lord Jagannath, along with his siblings Lord Balabhadra and Goddess Subhadra. The temple's soaring main spire has watched over Puri for centuries, and the town itself has grown up around it — every lane, market, and guesthouse orbits this one sacred centre.</p>
+      <p>For most of the year, darshan is a matter of joining the flow of pilgrims through the temple's ritual schedule. Once a year, during Rath Yatra, the deities leave the sanctum entirely and are pulled through the streets on massive wooden chariots, in one of the largest religious processions on earth.</p>
+
+      <h2>Jagannath Temple Timings: What to Actually Expect</h2>
+      <p>The temple gates open at 5:00 AM and the last rituals conclude around 11:00 PM, but this doesn't mean darshan runs continuously through the day. The deities follow a fixed schedule of aartis, bhog offerings, and private rituals, and the inner sanctum closes to visitors during several windows through the day — sometimes for thirty minutes, sometimes closer to an hour.</p>
+      <p>This is the detail that trips up most first-timers. Arrive in the middle of an offering window without knowing it, and you could find yourself waiting at the inner gate with no clear sense of when it will reopen.</p>
+      <p>Two windows tend to work best for a calmer darshan:</p>
+      <ul>
+        <li class="mb-3"><strong>Early morning, between 5:30 AM and 8:30 AM:</strong> Before the day's crowds build, with the temple at its most peaceful.</li>
+        <li class="mb-3"><strong>Late evening, around 9:30 PM:</strong> For the Badashringara Vesha, when the deities are dressed in their most elaborate form for the final darshan of the day and the crowds have largely thinned.</li>
+      </ul>
+      <p>If your schedule allows it, building your Puri temple visit around one of these two windows is the single best piece of advice for a smoother experience.</p>
+
+      <h2>Jagannath Temple Rules for Visitors</h2>
+      <p>The Jagannath Temple's rules exist to protect the sanctity of a space that has functioned continuously for centuries, and temple authorities have grown stricter about enforcing them in recent years.</p>
+      <ul>
+        <li class="mb-3"><strong>Entry is restricted to Hindus:</strong> This is the temple's longest-standing tradition, and it's rigorously observed. Non-Hindu visitors are not permitted into the main temple complex. The one exception is Rath Yatra, when the deities are brought out onto Grand Road and everyone, regardless of faith, can witness the procession.</li>
+        <li class="mb-3"><strong>Phones, cameras, and leather items stay outside:</strong> Mobile phones, cameras, leather wallets, and belts are not allowed inside the temple premises. Cloak rooms near the entrance let you store these safely before heading in — plan for a few extra minutes here, especially during busier hours.</li>
+        <li class="mb-3"><strong>A new queue system is now in place:</strong> Since the start of 2025, the temple has introduced a structured queue line for darshan, with entry through designated gates and separate exit points to manage the flow of visitors. It's a welcome change from the older, less predictable crowding, though it does mean following the marked route rather than wandering freely.</li>
+        <li class="mb-3"><strong>Keep the inner sanctum quiet:</strong> Loud conversation, screaming or fighting among themselves, and casual behaviour near the deities are frowned upon. This is a place of active worship, not a tourist site, and the atmosphere inside reflects that.</li>
+      </ul>
+
+      <h2>Jagannath Temple Dress Code</h2>
+      <p>Dress rules have tightened in recent years, and gate security in 2026 is noticeably stricter about enforcing them than it once was.</p>
+      <ul>
+        <li class="mb-3"><strong>Men:</strong> Dhoti or kurta-pajama is traditional and always welcome. Full-length trousers are acceptable; shorts are not.</li>
+        <li class="mb-3"><strong>Women:</strong> Sarees or salwar kameez or dresses with full coverage are expected. Sleeveless tops, short skirts, and ripped or revealing clothing aren't permitted.</li>
+        <li class="mb-3"><strong>Footwear:</strong> Footwear comes off before the temple threshold, so wear something easy to slip on and off.</li>
+      </ul>
+      <p>There's no ticket counter checking outfits at the door, but visitors turned away for clothing violations are a real and avoidable inconvenience. Packing a simple cotton kurta or saree for darshan day saves the hassle entirely.</p>
+
+      <h2>Planning Your Visit Around the Temple</h2>
+      <p>General darshan at the Jagannath Temple is completely free, with no entry ticket required. Special sevas or private puja bookings do involve a fee, and it's worth checking the temple's official channels for current rates before you travel, since these details change from season to season.</p>
+      <p>Where you stay matters more than most visitors expect. The lanes around the temple can get genuinely crowded during peak hours and festival days, and having a short, walkable distance between your hotel and the temple gates changes the whole rhythm of your trip — you're not racing traffic for a 5:30 AM darshan, you're simply stepping out the door.</p>
+      <p>This is where a stay like <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Hotel Victoria Grand</a>, on Chandan Hazuri Road just about a kilometre from the temple, tends to make an unplanned kind of sense. Guests heading out for an early-morning darshan can do so on foot, and the <a href="https://www.hotelvictoriagrand.com/about" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">hotel's concierge and travel desk</a> are used to helping first-time visitors understand the queue system, timing windows, and dress expectations before they set off — small guidance that saves a lot of confusion at the gate. After darshan, the rooftop Restaurant is <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">a quiet place to sit</a> with a coffee and let the morning settle in, with the Bay of Bengal visible just beyond the rooftops.</p>
+      <p>For pilgrims interested in Mahaprasad — the temple's famous communal offering, prepared in what's considered the largest kitchen in the world — it's worth building in time to visit Anand Bazar near the temple, where the prasad is distributed on a donation basis.</p>
+
+      <h2>Beyond the Temple</h2>
+      <p>Puri rewards visitors who give it more than a single day. The golden sands of Puri Beach are a short walk from the temple and worth an early morning or sunset visit. Pipili and Raghurajpur, about 25 km away, are known for their centuries-old applique craft, and the Konark Sun Temple — a UNESCO World Heritage Site shaped like a colossal stone chariot — makes for an easy half-day trip. Chilika Lake, roughly 50 km out, offers boat rides to spot Irrawaddy dolphins for those extending their stay.</p>
+      <p>None of these compete with the temple for significance, but together they round out what a Puri trip can be: part pilgrimage, part coastal escape.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>A first visit to the Jagannath Temple works best when you treat it less like sightseeing and more like joining something already in motion. Time your darshan around the ritual windows, dress with the temple's traditions in mind, leave your phone behind, and give yourself room to simply be present once you're inside. The rest — the queues, the heat, the crowds — tends to matter far less once you're standing there.</p>
+
+      <h2>Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. What are the Jagannath Temple timings for darshan?</strong><br/>
+        The temple opens at 5:00 AM and closes around 11:00 PM, but darshan pauses during bhog offerings and rituals throughout the day. The calmest windows are early morning (5:30–8:30 AM) and late evening around 9:30 PM for the Badashringara Vesha.</p>
+
+        <p><strong>2. Is there an entry fee for Jagannath Temple darshan?</strong><br/>
+        No. General darshan is free, with no entry ticket required. Special sevas or private puja bookings may involve a fee, which is worth confirming through official temple channels before your visit.</p>
+
+        <p><strong>3. Can non-Hindus visit the Jagannath Temple?</strong><br/>
+        Entry to the main temple complex is restricted to Hindus, a long-standing temple tradition. The one exception is Rath Yatra, when the deities are brought out onto Grand Road and everyone, regardless of faith, can witness the procession.</p>
+
+        <p><strong>4. What is the dress code for Jagannath Temple?</strong><br/>
+        Men and Women are expected to wear full length clothes. Shorts, ripped jeans, sleeveless tops and short skirts or any inappropriate attires aren't permitted. Footwear must be removed before entering.</p>
+
+        <p><strong>5. Are phones and cameras allowed inside the temple?</strong><br/>
+        No. Mobile phones, cameras, and leather items such as wallets and belts or any electric gadgets must be left outside. Cloak rooms are available near the entrance for safe storage.</p>
+
+        <p><strong>6. How far is Jagannath Temple from the main hotels in Puri?</strong><br/>
+        Most hotels in Puri are within a couple of kilometres of the temple. Hotel Victoria Grand, for instance, is about 1 km away on Chandan Hazuri Road, making an early-morning darshan an easy walk rather than a planned outing.</p>
+
+        <p><strong>7. What is Mahaprasad, and where can I try it?</strong><br/>
+        Mahaprasad is the sacred food offering prepared in the temple's kitchen, one of the largest in the world, and served without onion or garlic according to tradition. It's distributed at Anand Bazar inside the temple premise.</p>
+      </div>
+    `,
+  },
   "blue-flag-beach-vs-golden-beach-puri": {
     title:
       "Blue Flag Beach vs Golden Beach: Which One Should You Visit in Puri?",
