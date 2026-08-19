@@ -53,7 +53,7 @@ export function LocationSection({
                      <RoyalDivider color="#c1893e" className="my-8" />
                      {body || (
                         <p className="font-sans text-lg text-cream/80 leading-relaxed">
-                           Situated on Chandan Hazuri Road near Sanskrit University, Hotel Victoria Grand places you at the crossroads of faith and leisure. The Jagannath Temple is just 1 km away. The sea beach is a mere 0.5 km. The railway station is 1.5 km. Everything that makes Puri extraordinary is right at your door.
+                           Situated on Chandan Hazuri Road near Sanskrit University, Hotel Victoria Grand places you at the crossroads of faith and leisure. The Jagannath Temple is just 1km away. The sea beach is a mere 0.5 km. The railway station is 1.5 km. Everything that makes Puri extraordinary is right at your door.
                         </p>
                      )}
                   </div>

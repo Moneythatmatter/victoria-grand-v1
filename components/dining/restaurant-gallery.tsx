@@ -5,75 +5,95 @@ import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, ZoomIn } from "lucide-react";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
 import { cn } from "@/lib/utils";
+import {
+  CHINGUDI_MALAI_CURRY_IMAGE,
+  PAKHALA_BHATA_IMAGE,
+  CHHENA_PODA_IMAGE,
+  RASABALI_IMAGE,
+  MACHHA_BESARA_IMAGE,
+  DALMA_IMAGE,
+} from "@/lib/dining-images";
 
 const galleryImages = [
   {
+    id: "dining-hall",
     src: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070",
     alt: "Restaurant main dining hall",
     category: "interior",
     caption: "The Grand Dining Hall",
   },
   {
+    id: "table-settings",
     src: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070",
     alt: "Fine dining table setup",
     category: "interior",
     caption: "Elegant Table Settings",
   },
   {
+    id: "beverage-corner",
     src: "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=2074",
     alt: "Restaurant bar area",
     category: "interior",
     caption: "The Beverage Corner",
   },
   {
-    src: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1971",
-    alt: "Signature prawn curry",
+    id: "chingudi-malai-curry",
+    src: CHINGUDI_MALAI_CURRY_IMAGE,
+    alt: "Chingudi Malai Curry — prawns in coconut milk",
     category: "food",
     caption: "Chingudi Malai Curry",
   },
   {
-    src: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070",
-    alt: "Grilled fish platter",
+    id: "machha-besara",
+    src: MACHHA_BESARA_IMAGE,
+    alt: "Machha Besara — fish in mustard paste gravy",
     category: "food",
-    caption: "Fresh Seafood Selection",
+    caption: "Machha Besara",
   },
   {
-    src: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=2070",
-    alt: "Traditional dal preparation",
+    id: "dalma",
+    src: DALMA_IMAGE,
+    alt: "Dalma — lentil and vegetable stew, Odia cuisine",
     category: "food",
     caption: "Authentic Odia Dalma",
   },
   {
-    src: "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1964",
-    alt: "Dessert spread",
+    id: "chhena-poda",
+    src: CHHENA_PODA_IMAGE,
+    alt: "Chhena Poda — caramelized cottage cheese dessert from Puri",
     category: "food",
     caption: "Sweet Delicacies",
   },
   {
+    id: "private-dining",
     src: "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=2074",
     alt: "Private dining area",
     category: "interior",
     caption: "Private Dining Space",
   },
   {
+    id: "rooftop",
     src: "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?q=80&w=2070",
     alt: "Rooftop dining view",
     category: "interior",
     caption: "Rooftop Ambiance",
   },
   {
-    src: "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=2072",
-    alt: "Traditional rice dish",
+    id: "pakhala-bhata",
+    src: PAKHALA_BHATA_IMAGE,
+    alt: "Pakhala Bhata served with aloo bhaja",
     category: "food",
     caption: "Pakhala Bhata",
   },
   {
-    src: "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=2070",
-    alt: "Traditional sweets",
+    id: "rasabali",
+    src: RASABALI_IMAGE,
+    alt: "Rasabali — flattened cheese patties in sweetened milk",
     category: "food",
-    caption: "Rasabali & Chhena Poda",
+    caption: "Rasabali",
   },
   {
+    id: "open-kitchen",
     src: "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=2070",
     alt: "Kitchen glimpse",
     category: "interior",
@@ -173,7 +193,7 @@ export function RestaurantGallery() {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {filteredImages.map((image, index) => (
             <div
-              key={image.src}
+              key={image.id}
               className={cn(
                 "group relative overflow-hidden cursor-pointer",
                 index === 0 && "md:col-span-2 md:row-span-2",

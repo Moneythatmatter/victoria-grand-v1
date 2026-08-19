@@ -3,7 +3,7 @@
 import { CheckCircle2, Coffee, Waves, Utensils, Heart, Stethoscope, Shirt, Wifi, Map } from "lucide-react";
 
 const features = [
-   { icon: Coffee, text: "Complimentary Buffet Breakfast" },
+   { icon: Coffee, text: "Complimentary Breakfast" },
    { icon: CheckCircle2, text: "Welcome Drink on Arrival" },
    { icon: Waves, text: "Swimming Pool Access" },
    { icon: Utensils, text: "In-Room Dining" },

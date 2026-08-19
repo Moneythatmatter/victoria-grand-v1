@@ -9,11 +9,11 @@ const venues = [
   {
     id: "banquet-hall",
     icon: Users,
-    name: "Opulent Banquet Hall",
+    name: "Grand Celebration Hall",
     tagline: "Where Grand Celebrations Come to Life",
-    category: "Weddings & Conferences",
+    category: "Conferences & Parties",
     description:
-      "Our magnificent Opulent Banquet Hall is the crown jewel of Victoria Grand, designed to host your most prestigious events with unmatched elegance. Whether you're planning a lavish wedding reception, an important corporate conference, or an intimate private gathering, this versatile space adapts to your vision while maintaining its regal charm.",
+      "Our magnificent Grand Celebration Hall is the crown jewel of Victoria Grand, designed to host your most prestigious events with unmatched elegance. Whether you're planning a lavish wedding reception, an important corporate conference, or an intimate private gathering, this versatile space adapts to your vision while maintaining its regal charm.",
     longDescription:
       "Park yourself here for a leisurely private party, Birthday Function, Ring Ceremony and Conference. The hall features state-of-the-art audiovisual equipment, customizable lighting to match your event theme, and a dedicated entrance for VIP guests. Our experienced event coordinators work closely with you to ensure every detail is perfect.",
     image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?q=80&w=2098",
@@ -47,7 +47,7 @@ const venues = [
   {
     id: "swimming-pool",
     icon: Sparkles,
-    name: "Swimming Pool Area",
+    name: "Infinity pool",
     tagline: "Your Oasis of Relaxation",
     category: "Outdoor Leisure",
     description:
@@ -59,25 +59,24 @@ const venues = [
     capacity: "40 Guests",
     area: "900 Sqft",
     configurations: [
-      { icon: Users, name: "Poolside Party", capacity: "40 Pax" },
+      { icon: Users, name: "Poolside Party", capacity: "50 Pax" },
       { icon: UsersRound, name: "Private Event", capacity: "25 Pax" },
     ],
     features: [
       "Crystal Clear Waters",
       "Comfortable Loungers",
-      "Shaded Cabanas",
       "Poolside Service",
-      "Trained Lifeguards",
-      "Changing Rooms",
+      "Pool Attendant",
       "Towel Service",
-      "Refreshment Bar",
+      "Baby Pool",
+      "Poolside Bed",
+      
     ],
     idealFor: [
       "Morning Swimming",
       "Leisure Relaxation",
       "Pool Parties",
       "Private Gatherings",
-      "Fitness Sessions",
       "Family Time",
     ],
   },
@@ -111,8 +110,7 @@ export function VenuesList() {
           </h2>
           <RoyalDivider color="#c1893e" className="my-8" />
           <p className="font-sans text-lg text-olive/80 leading-relaxed">
-            From grand weddings to corporate retreats, our versatile venues
-            provide the perfect backdrop for your most important occasions.
+          From corporate retreats to spiritual discourses and, our versatile venues provide the perfect backdrop for your most important occasions.
           </p>
         </div>
 

@@ -27,7 +27,7 @@ const rooms = [
     description:
       "Our Grand Deluxe Room offers a perfect sanctuary for travelers seeking comfort and style. Featuring elegant interiors with warm wood accents, plush furnishings, and modern amenities, this room provides everything you need for a relaxing stay.",
     longDescription:
-      "Step into a world of refined comfort with our Grand Deluxe Room. The space features elegant flooring, a luxurious King Size bed with premium linens, and a wall-mounted LCD screen TV for entertainment. The well-appointed bathroom boasts high-quality fittings and complimentary toiletries. A large wooden wardrobe provides ample storage, while the sleek work desk with chair and task lamp ensures productivity. High-speed WiFi connectivity keeps you connected throughout your stay.",
+      "Step into a world of refined comfort with our Grand Deluxe Room. The space features elegant flooring, a luxurious Double Bed with premium linens, and a wall-mounted LED screen TV for entertainment. The well-appointed bathroom boasts high-quality fittings and complimentary toiletries. A large wooden wardrobe provides ample storage, while the sleek work desk with chair and task lamp ensures productivity. High-speed WiFi connectivity keeps you connected throughout your stay.",
     images: [
       "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1974",
       "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070",
@@ -36,14 +36,14 @@ const rooms = [
     price: "4,000",
     extraPerson: "1,000",
     size: "292 sq ft",
-    bedType: "King Size Bed",
+    bedType: "Double Bed",
     maxOccupancy: 3,
     view: "City View",
     features: [
-      "King Size Bed",
+      "Double Bed",
       "Work Desk",
       "Task Lamp",
-      "LCD TV",
+      "LED TV",
       "Large Wardrobe",
       "Premium Linens",
     ],
@@ -63,7 +63,7 @@ const rooms = [
     description:
       "The Grand Premium Room offers an elevated experience with enhanced space and premium amenities. Ideal for guests who appreciate extra room to relax, this accommodation combines sophisticated design with ultimate comfort.",
     longDescription:
-      "Experience elevated luxury in our Grand Premium Room. This spacious retreat features premium flooring, an expansive King Size bed with luxury linens, and state-of-the-art entertainment with a large LCD screen TV. The bathroom showcases premium fittings and rain shower. Additional touches include a larger wardrobe, an ergonomic work station, and enhanced room service options. The room's thoughtful design creates a perfect balance of work and relaxation.",
+      "Experience elevated luxury in our Grand Premium Room. This spacious retreat features premium flooring, an expansive Double Bed with luxury linens, and state-of-the-art entertainment with a large LED screen TV. The bathroom showcases premium fittings and rain shower. Additional touches include a larger wardrobe, an ergonomic work station, and enhanced room service options. The room's thoughtful design creates a perfect balance of work and relaxation.",
     images: [
       "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070",
       "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070",
@@ -72,11 +72,11 @@ const rooms = [
     price: "5,000",
     extraPerson: "1,000",
     size: "310 sq ft",
-    bedType: "King Size Bed",
+    bedType: "Double Bed",
     maxOccupancy: 3,
     view: "Garden View",
     features: [
-      "King Size Bed",
+      "Double Bed",
       "Premium Fittings",
       "Rain Shower",
       "Work Desk",
@@ -93,45 +93,45 @@ const rooms = [
     ],
     notIncluded: ["Airport transfer", "Spa services"],
   },
-  {
-    id: "royal-suite",
-    name: "Royal Suite",
-    tagline: "The Ultimate Indulgence",
-    description:
-      "Our signature Royal Suite represents the pinnacle of luxury accommodation. With a separate living area, premium furnishings, and exclusive amenities, this suite is designed for guests who demand nothing but the finest.",
-    longDescription:
-      "The Royal Suite is our crowning jewel, offering an unparalleled experience of luxury and sophistication. This expansive suite features a separate living room with plush seating, a master bedroom with a premium King Size bed, and a lavish bathroom with both soaking tub and rain shower. Floor-to-ceiling windows frame stunning views, while the private balcony provides a personal outdoor retreat. Exclusive amenities include a Nespresso machine, premium minibar, and dedicated butler service.",
-    images: [
-      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070",
-      "https://images.unsplash.com/photo-1591088398332-8a7791972843?q=80&w=1974",
-      "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=2021",
-    ],
-    price: "8,500",
-    extraPerson: "1,500",
-    size: "485 sq ft",
-    bedType: "Premium King Bed",
-    maxOccupancy: 4,
-    view: "Sea View",
-    features: [
-      "Separate Living Room",
-      "Private Balcony",
-      "Soaking Tub",
-      "Rain Shower",
-      "Nespresso Machine",
-      "Butler Service",
-    ],
-    included: [
-      "Complimentary breakfast",
-      "High-speed WiFi",
-      "Daily housekeeping",
-      "Welcome champagne",
-      "Newspaper daily",
-      "Evening turndown service",
-      "Priority restaurant reservations",
-      "Late checkout (subject to availability)",
-    ],
-    notIncluded: ["Airport transfer"],
-  },
+  // {
+  //   id: "royal-suite",
+  //   name: "Royal Suite",
+  //   tagline: "The Ultimate Indulgence",
+  //   description:
+  //     "Our signature Royal Suite represents the pinnacle of luxury accommodation. With a separate living area, premium furnishings, and exclusive amenities, this suite is designed for guests who demand nothing but the finest.",
+  //   longDescription:
+  //     "The Royal Suite is our crowning jewel, offering an unparalleled experience of luxury and sophistication. This expansive suite features a separate living room with plush seating, a master bedroom with a premium Double Bed, and a lavish bathroom with both soaking tub and rain shower. Floor-to-ceiling windows frame stunning views, while the private balcony provides a personal outdoor retreat. Exclusive amenities include a Nespresso machine, premium minibar, and dedicated butler service.",
+  //   images: [
+  //     "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2070",
+  //     "https://images.unsplash.com/photo-1591088398332-8a7791972843?q=80&w=1974",
+  //     "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=2021",
+  //   ],
+  //   price: "8,500",
+  //   extraPerson: "1,500",
+  //   size: "485 sq ft",
+  //   bedType: "Premium King Bed",
+  //   maxOccupancy: 4,
+  //   view: "Sea View",
+  //   features: [
+  //     "Separate Living Room",
+  //     "Private Balcony",
+  //     "Soaking Tub",
+  //     "Rain Shower",
+  //     "Nespresso Machine",
+  //     "Butler Service",
+  //   ],
+  //   included: [
+  //     "Complimentary breakfast",
+  //     "High-speed WiFi",
+  //     "Daily housekeeping",
+  //     "Welcome champagne",
+  //     "Newspaper daily",
+  //     "Evening turndown service",
+  //     "Priority restaurant reservations",
+  //     "Late checkout (subject to availability)",
+  //   ],
+  //   notIncluded: ["Airport transfer"],
+  // },
 ];
 
 export function RoomsList() {

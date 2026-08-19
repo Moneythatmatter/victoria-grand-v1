@@ -81,7 +81,7 @@ export function VenuesCTA() {
             </Button>
             <Button
               variant="outline"
-              className="border-cream/30 text-cream hover:bg-cream hover:text-olive-dark font-sans tracking-widest uppercase px-8 py-6 min-w-[200px]"
+              className="border-cream/30 text-gray-600  hover:bg-cream hover:text-olive-dark font-sans tracking-widest uppercase px-8 py-6 min-w-[200px]"
             >
               Schedule Visit
             </Button>

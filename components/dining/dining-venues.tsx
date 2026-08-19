@@ -52,8 +52,7 @@ export function DiningVenues() {
           </h2>
           <RoyalDivider color="#c1893e" className="my-8" />
           <p className="font-sans text-lg text-olive/80 leading-relaxed">
-            Our signature multi-cuisine restaurant where every meal is a celebration
-            of flavors, crafted with passion and served with royal hospitality.
+          Our signature multi-cuisine restaurant where every meal is a celebration of flavors, crafted with passion and served with impeccable hospitality.
           </p>
         </div>
 
@@ -184,7 +183,7 @@ export function DiningVenues() {
               <span className="font-sans text-sm tracking-[0.2em] uppercase text-ochre-dark block mb-2">
                 Breakfast
               </span>
-              <p className="font-serif text-xl text-olive-dark">7:30 AM - 10:30 AM</p>
+              <p className="font-serif text-xl text-olive-dark">7:30 AM - 9:30 AM</p>
               <p className="font-sans text-olive/60 text-sm mt-2">Buffet & A La Carte</p>
             </div>
             <div className="p-6 border border-ochre/20 bg-white">
@@ -192,7 +191,7 @@ export function DiningVenues() {
                 Lunch
               </span>
               <p className="font-serif text-xl text-olive-dark">12:30 PM - 3:00 PM</p>
-              <p className="font-sans text-olive/60 text-sm mt-2">Buffet & A La Carte</p>
+              <p className="font-sans text-olive/60 text-sm mt-2">A La Carte Only</p>
             </div>
             <div className="p-6 border border-ochre/20 bg-white">
               <span className="font-sans text-sm tracking-[0.2em] uppercase text-ochre-dark block mb-2">

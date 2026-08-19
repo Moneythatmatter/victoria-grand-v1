@@ -107,7 +107,7 @@ export function Footer() {
                         <span className="text-ochre block mb-1 font-serif">
                            Timings:
                         </span>
-                        Check-in: 10:00 Hrs | Check-out: 08:00 Hrs
+                        Check-in AM | Check-out: 8:00 AM
                      </p>
                   </div>
                </div>

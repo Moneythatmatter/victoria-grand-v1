@@ -28,17 +28,17 @@ const experiences = [
    },
    {
       icon: Users,
-      title: "Opulent Banquet Hall",
+      title: "Grand Celebration Hall",
       description:
-         "Fully equipped for weddings and conferences for up to 150 guests",
+         "A versatile space for elegant celebrations, corporate events, meetings, and special gatherings.",
       stat: 1800,
       statLabel: "Sq. Ft.",
       statSuffix: "",
    },
    {
       icon: Droplets,
-      title: "Outdoor Swimming Pool",
-      description: "Take a refreshing dip or relax by the sparkling water",
+      title: "Infinity Swimming Pool",
+      description: "Unwind in our infinity pool with breathtaking views and serene surroundings",
       stat: 900,
       statLabel: "Sq. Ft.",
       statSuffix: "",

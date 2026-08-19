@@ -26,7 +26,7 @@ const testimonials = [
    {
       name: "Ananya Devi Patnaik",
       title: "Business Conference Host",
-      quote: "We hosted our annual board meeting and the evening gala in the Opulent Banquet Hall. The seamless coordination, world-class amenities, and attention to detail exceeded every expectation.",
+      quote: "We hosted our annual board meeting and the evening gala in the Grand Celebration Hall. The seamless coordination, world-class amenities, and attention to detail exceeded every expectation.",
       rating: 5,
       location: "Bhubaneswar",
    },
@@ -42,7 +42,7 @@ const testimonials = [
 const accolades = [
    { label: "TripAdvisor", value: "Traveller's Choice 2025" },
    { label: "Condé Nast", value: "Best Heritage Hotel" },
-   { label: "Booking.com", value: "9.4 / 10 Rating" },
+   { label: "Rating", value: "9.4 / 10 Rating" },
 ];
 
 export function TestimonialsSection() {

@@ -20,7 +20,7 @@ const amenityCategories = [
   {
     title: "In-Room Essentials",
     amenities: [
-      { icon: Tv, label: "LCD TV", description: "With cable channels" },
+      { icon: Tv, label: "LED TV", description: "With cable channels" },
       { icon: Wifi, label: "High-Speed WiFi", description: "Complimentary" },
       { icon: Wind, label: "Air Conditioning", description: "Climate control" },
       { icon: Coffee, label: "Tea & Coffee", description: "Electric kettle & sachets" },
@@ -32,7 +32,7 @@ const amenityCategories = [
       { icon: Bath, label: "Premium Toiletries", description: "Quality bath products" },
       { icon: Sparkles, label: "Daily Housekeeping", description: "Complimentary" },
       { icon: Shirt, label: "Iron & Board", description: "On request" },
-      { icon: Wind, label: "Hair Dryer", description: "In all rooms" },
+      { icon: Wind, label: "Hair Dryer", description: "On request" },
     ],
   },
   {
@@ -94,8 +94,7 @@ export function RoomAmenities() {
           </h2>
           <RoyalDivider color="#c1893e" className="my-6" />
           <p className="font-sans text-cream/70 leading-relaxed">
-            Every room at Victoria Grand comes equipped with thoughtfully curated
-            amenities to ensure your comfort and convenience throughout your stay.
+          Every stay at Victoria Grand is designed around comfort, convenience, and thoughtful service. Guests can enjoy high-speed Wi-Fi, air conditioning, a LED TV, tea and coffee facilities, premium linens and toiletries, daily housekeeping, and a hair dryer and iron on request. Our 24/7 reception, extended-hour room dining, wake-up and same-day laundry services add convenience, while free on-site parking and 24/7 security ensure peace of mind. For dining and celebrations, Sunshine offers multi-cuisine dining, while the Grand Celebration Hall provides an elegant space for meetings, gatherings, and special occasions.
           </p>
         </div>
 

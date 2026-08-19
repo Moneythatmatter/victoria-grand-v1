@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const features = [
    {
       icon: MapPin,
-      text: "Steps from Lord Jagannath Temple and Sea Beach, Puri 752001, Odisha",
+      text: "Minutes from Jagannath Temple & Puri Beach",
    },
    {
       icon: Star,
@@ -14,7 +14,7 @@ const features = [
    },
    {
       icon: Bell,
-      text: "Complimentary Breakfast | Welcome Drink on Arrival | Temple Darshan Assistance",
+      text: "Welcome Drink on Arrival | Complimentary Breakfast | Temple Darshan Assistance",
    },
 ];
 

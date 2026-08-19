@@ -14,20 +14,20 @@ const rooms = [
    {
       name: "Grand Deluxe Room",
       description:
-         "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, King Size bed, Wall mounted LCD screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
+         "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, Double Bed, Wall mounted LED screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
       image: "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1974",
       price: "4,000",
       size: "292 sq ft",
-      features: ["King Bed", "Work Desk", "Task Lamp", "LCD TV"],
+      features: ["Double Bed", "Work Desk", "Task Lamp", "LED TV"],
    },
    {
       name: "Grand Premium Room",
       description:
-         "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, King Size bed, Wall mounted LCD screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
+         "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, Double Bed, Wall mounted LED screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
       image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070",
       price: "5,000",
       size: "310 sq ft",
-      features: ["King Size Bed", "Premium Fittings", "Work Desk"],
+      features: ["Double Bed", "Premium Fittings", "Work Desk"],
    },
 ];
 
@@ -86,7 +86,7 @@ export function AccommodationsSection() {
                </h2>
                <RoyalDivider color="#c1893e" className="my-8" />
                <p className="font-sans text-lg text-cream/80 leading-relaxed text-balance">
-                  Choose from our Grand Deluxe (292 sq. ft.) or Grand Premium (310 sq. ft.) rooms, each furnished with king-size beds, wall-mounted LED TVs, tea and coffee makers, mini fridges and high-speed Wi-Fi. Complimentary buffet breakfast is included with every booking.
+                  Choose from our Grand Deluxe (292 sq. ft.) or Grand Premium (310 sq. ft.) rooms, each furnished with king-size beds, wall-mounted LED TVs, tea and coffee makers, mini fridges and high-speed Wi-Fi. Complimentary breakfast is included.
                </p>
             </div>
 

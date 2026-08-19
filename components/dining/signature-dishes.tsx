@@ -3,6 +3,14 @@
 import Image from "next/image";
 import { Star } from "lucide-react";
 import { RoyalCornerOrnament, RoyalDivider } from "@/components/royal-corner-ornament";
+import {
+  CHINGUDI_MALAI_CURRY_IMAGE,
+  PAKHALA_BHATA_IMAGE,
+  CHHENA_PODA_IMAGE,
+  MACHHA_BESARA_IMAGE,
+  DALMA_IMAGE,
+  RASABALI_IMAGE,
+} from "@/lib/dining-images";
 
 const menuCategories = [
   { id: "appetizers", name: "Appetizers" },
@@ -17,7 +25,7 @@ const signatureDishes = [
     description: "Succulent prawns cooked in creamy coconut milk with aromatic spices, a coastal Odisha specialty",
     price: "Rs. 650",
     category: "seafood",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1971",
+    image: CHINGUDI_MALAI_CURRY_IMAGE,
     isSignature: true,
     dietary: ["Gluten-Free"],
   },
@@ -26,7 +34,7 @@ const signatureDishes = [
     description: "Traditional fermented rice served with fried vegetables, dried fish, and curd - a refreshing Odia classic",
     price: "Rs. 350",
     category: "mains",
-    image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=2072",
+    image: PAKHALA_BHATA_IMAGE,
     isSignature: true,
     dietary: ["Vegetarian"],
   },
@@ -35,7 +43,7 @@ const signatureDishes = [
     description: "Iconic Odia dessert made from caramelized cottage cheese, cardamom, and cashews, baked to perfection",
     price: "Rs. 250",
     category: "desserts",
-    image: "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1964",
+    image: CHHENA_PODA_IMAGE,
     isSignature: true,
     dietary: ["Vegetarian"],
   },
@@ -44,7 +52,7 @@ const signatureDishes = [
     description: "Fresh river fish prepared in mustard paste gravy, a quintessential Odia preparation",
     price: "Rs. 550",
     category: "seafood",
-    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070",
+    image: MACHHA_BESARA_IMAGE,
     isSignature: false,
     dietary: ["Gluten-Free"],
   },
@@ -53,7 +61,7 @@ const signatureDishes = [
     description: "Wholesome lentil dish cooked with seasonal vegetables, tempered with panch phoron",
     price: "Rs. 280",
     category: "mains",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=2070",
+    image: DALMA_IMAGE,
     isSignature: false,
     dietary: ["Vegan", "Gluten-Free"],
   },
@@ -62,7 +70,7 @@ const signatureDishes = [
     description: "Flattened cheese patties soaked in thickened sweetened milk, flavored with cardamom",
     price: "Rs. 220",
     category: "desserts",
-    image: "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=2070",
+    image: RASABALI_IMAGE,
     isSignature: false,
     dietary: ["Vegetarian"],
   },

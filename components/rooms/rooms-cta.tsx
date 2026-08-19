@@ -77,7 +77,7 @@ export function RoomsCTA() {
               <Link href="/#contact">
                 <Button
                   variant="outline"
-                  className="border-cream/30 text-cream hover:bg-cream/10 hover:border-cream font-sans tracking-widest uppercase px-8 py-6"
+                  className="border-cream/30 text-gray-600  hover:bg-cream/10 hover:border-cream font-sans tracking-widest uppercase px-8 py-6"
                 >
                   Contact Us
                 </Button>
@@ -155,9 +155,9 @@ export function RoomsCTA() {
                     Location
                   </p>
                   <p className="font-sans text-cream">
-                    Grand Road, Near Jagannath Temple
+                  Hotel Victoria Grand, Chandan Hazuri Road, Near
                     <br />
-                    Puri, Odisha 752001
+                    Sanskrit University, In front of Ramakrishnan Mission Ashram, Puri - 752001, Odisha
                   </p>
                 </div>
               </div>

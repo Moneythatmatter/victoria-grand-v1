@@ -9,8 +9,8 @@ const policies = [
     icon: Clock,
     title: "Check-in & Check-out",
     details: [
-      "Check-in time: 2:00 PM onwards",
-      "Check-out time: 11:00 AM",
+      "Check-in time: 11:00 AM onwards",
+      "Check-out time: 8:00 am",
       "Early check-in subject to availability",
       "Late check-out may incur additional charges",
     ],
@@ -19,7 +19,7 @@ const policies = [
     icon: Calendar,
     title: "Reservation Policy",
     details: [
-      "Valid ID required at check-in",
+      "valid Id required for each individual",
       "Credit card guarantee for incidentals",
       "Confirmation sent via email",
       "Modification subject to availability",
@@ -31,8 +31,8 @@ const policies = [
     details: [
       "All major credit cards accepted",
       "UPI & net banking available",
-      "Free cancellation up to 24 hours",
-      "No-show charged full night rate",
+      "Free cancellation up to 48 hours",
+      "No show will be charged one night",
     ],
   },
   {
@@ -49,10 +49,10 @@ const policies = [
     icon: Baby,
     title: "Children Policy",
     details: [
-      "Children welcome",
       "Kids under 5 stay free",
-      "Extra bed for kids available",
-      "Baby crib on request (complimentary)",
+      "Children aged 6–11 years are chargeable as per the applicable child policy",
+      "Extra bed for kids available at an additional charge",
+      "Baby food available on request",
     ],
   },
   {
@@ -60,7 +60,7 @@ const policies = [
     title: "House Rules",
     details: [
       "No smoking in rooms",
-      "Pets not allowed",
+      "Pets are not allowed",
       "Quiet hours: 10 PM - 7 AM",
       "Visitors must register at reception",
     ],

@@ -45,9 +45,9 @@ const contactDetails = [
       title: "Business Hours",
       details: [
          "Front Desk: 24/7",
-         "Check-in: 10:00 AM",
+         "Check-in: 11:00 AM",
          "Check-out: 8:00 AM",
-         "Restaurant: 7:00 AM - 10:30 PM",
+         "Restaurant: 7:30 AM - 11:00 PM",
       ],
       action: null,
       actionLabel: null,

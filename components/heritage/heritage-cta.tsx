@@ -130,7 +130,7 @@ export function HeritageCTA() {
                 Location
               </span>
               <span className="font-sans text-cream text-center">
-                500m from Jagannath Temple
+          1km from Jagannath Temple
               </span>
             </div>
           </div>

@@ -44,7 +44,7 @@ const culturalExperiences = [
       title: "Chilika Lake",
       subtitle: "Natural Wonder",
       description:
-         "Asia's largest brackish water lagoon is home to dolphins and migratory birds. Take a boat ride to Satapada for an unforgettable encounter with Irrawaddy dolphins.",
+         "Description- Chilika Lake, Asia’s largest brackish water lagoon and the second-largest coastal lagoon in the world, is a biodiversity hotspot in the Indian subcontinent. Its area varies from around 900 sq. km. in summer to nearly 1,165 sq. km. during the monsoon. Home to the endangered Irrawaddy dolphins and a haven for migratory birds, the lake offers boat rides to witness flamingos, white-bellied sea eagles, and over 160 species of birds during winter months.",
       image: CHILIKA_LAKE_IMAGE,
       distance: "50km",
    },

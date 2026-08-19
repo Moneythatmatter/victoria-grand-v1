@@ -20,7 +20,7 @@ const attractions = [
       "Architectural marvel of Kalinga style",
     ],
     image: JAGANNATH_TEMPLE_IMAGE,
-    distance: "500m from Victoria Grand",
+    distance: "1km from Victoria Grand",
     timing: "5:00 AM - 11:00 PM",
     mustSee: true,
   },
@@ -46,7 +46,7 @@ const attractions = [
     title: "Chilika Lake",
     subtitle: "Natural Wonder",
     description:
-      "Asia's largest brackish water lagoon, Chilika Lake is a biodiversity hotspot spread over 1,100 square kilometers. Home to the endangered Irrawaddy dolphins and a haven for migratory birds, the lake offers boat rides to witness flamingos, white-bellied sea eagles, and over 160 species of birds during winter months.",
+      "Chilika Lake, Asia’s largest brackish water lagoon and the second-largest coastal lagoon in the world, is a biodiversity hotspot in the Indian subcontinent. Its area varies from around 900 sq. km. in summer to nearly 1,165 sq. km. during the monsoon. Home to the endangered Irrawaddy dolphins and a haven for migratory birds, the lake offers boat rides to witness flamingos, white-bellied sea eagles, and over 160 species of birds during winter months.",
     highlights: [
       "Asia's largest brackish water lagoon",
       "Home to Irrawaddy dolphins",
@@ -71,7 +71,7 @@ const attractions = [
       "Annual Beach Festival venue",
     ],
     image: PURI_BEACH_IMAGE,
-    distance: "1km from Victoria Grand",
+    distance: "500m from Victoria Grand",
     timing: "Open 24 hours",
     mustSee: false,
   },

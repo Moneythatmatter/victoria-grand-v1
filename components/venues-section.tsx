@@ -26,7 +26,7 @@ export function VenuesSection() {
             {/* Section Header */}
             <div className="text-center max-w-4xl mx-auto mb-20 reveal">
                <span className="font-sans text-sm tracking-[0.3em] uppercase text-ochre-dark">
-                  Opulent Banquet Hall
+                  Grand Celebration Hall
                </span>
                <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl text-olive-dark mt-4 text-balance">
                   Every Celebration Deserves a 
@@ -36,7 +36,7 @@ export function VenuesSection() {
                </h2>
                <RoyalDivider color="#c1893e" className="my-8" />
                <p className="font-sans text-lg text-olive/80 leading-relaxed">
-                  Our 1,800 sq. ft. Opulent Banquet Hall on the 1st floor accommodates up to 150 guests and is fully equipped for weddings, ring ceremonies, birthday celebrations, corporate conferences and private parties. Multiple seating layouts available.
+                  Our 1,800 sq. ft. Grand Celebration Hall on the 1st floor accommodates up to 150 guests and is fully equipped for weddings, ring ceremonies, birthday celebrations, corporate conferences and private parties. Multiple seating layouts available.
                </p>
                <div className="flex justify-center mt-10">
                   <Button className="bg-ochre text-white hover:bg-ochre-light font-sans tracking-widest uppercase px-10 py-6 btn-shimmer group">
@@ -52,7 +52,7 @@ export function VenuesSection() {
                <div className="relative aspect-21/9 overflow-hidden">
                   <Image
                      src="https://images.unsplash.com/photo-1519167758481-83f550bb49b3?q=80&w=2098"
-                     alt="Opulent Banquet Hall"
+                     alt="Grand Celebration Hall"
                      fill
                      className="object-cover transition-transform duration-700 group-hover:scale-105"
                   />

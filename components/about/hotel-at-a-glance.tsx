@@ -7,9 +7,9 @@ const facts = [
   { icon: BedDouble, label: "Total Rooms", value: "36 (30 Grand Deluxe and 6 Grand Premium)" },
   { icon: Maximize, label: "Room Sizes", value: "Grand Deluxe 292 sq. ft.  |  Grand Premium 310 sq. ft." },
   { icon: Utensils, label: "Restaurant", value: "Sunshine Multi-Cuisine Restaurant, 5th Floor, 50 covers, 600 sq. ft." },
-  { icon: Users, label: "Banquet Hall", value: "Opulent Hall, 1st Floor, 150 guests, 1,800 sq. ft." },
+  { icon: Users, label: "Grand Celebration Hall", value: "Grand Celebration Hall, 1st Floor, 150 guests, 1,800 sq. ft." },
   { icon: Waves, label: "Swimming Pool", value: "900 sq. ft." },
-  { icon: Clock, label: "Check-In Time", value: "10:00 AM" },
+  { icon: Clock, label: "Check-In Time", value: "11:00 AM" },
   { icon: LogOut, label: "Check-Out Time", value: "8:00 AM" },
 ];
 

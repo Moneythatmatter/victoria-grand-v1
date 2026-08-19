@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 const heroSlides = [
    {
       image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070",
-      title: "Stay Here with Joy and Memories",
+      title: "Boutique comfort with a touch of Grandeur.",
       description:
          "A luxury boutique hotel in the heart of Puri, where timeless devotion meets modern comfort, steps from the sacred Jagannath Temple and the Bay of Bengal.",
    },
@@ -23,7 +23,7 @@ const heroSlides = [
       image: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070",
       title: "Come for the Temple. Stay for the Soul.",
       description:
-         "Puri's most intimate luxury hotel , a sanctuary of calm and elegance, just moments from the Bay of Bengal and the eternal spirit of Jagannath.",
+         "Puri's most intimate luxury hotel, a sanctuary of calm and elegance, just moments from the Bay of Bengal and the eternal spirit of Jagannath.",
    },
 ];
 
