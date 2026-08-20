@@ -34,8 +34,8 @@ export function BookingSection() {
 
             <div className="space-y-3 mb-12">
                <p className="font-sans text-lg md:text-xl text-olive-dark/90 font-medium tracking-wide">
-                  Grand Deluxe from Rs. 4,000 per night &nbsp;|&nbsp; Grand
-                  Premium from Rs. 5,000 per night
+                  Grand Deluxe from Rs. 5,000 per night &nbsp;|&nbsp; Grand
+                  Premium from Rs. 6,000 per night
                </p>
                <p className="font-sans text-base text-olive-dark/70">
                   Complimentary breakfast included with every room.

@@ -33,7 +33,7 @@ const rooms = [
       "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070",
       "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?q=80&w=2070",
     ],
-    price: "4,000",
+    price: "5,000",
     extraPerson: "1,000",
     size: "292 sq ft",
     bedType: "Double Bed",

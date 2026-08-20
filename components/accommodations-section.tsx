@@ -16,7 +16,7 @@ const rooms = [
       description:
          "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, Double Bed, Wall mounted LED screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
       image: "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1974",
-      price: "4,000",
+      price: "5,000",
       size: "292 sq ft",
       features: ["Double Bed", "Work Desk", "Task Lamp", "LED TV"],
    },
@@ -25,7 +25,7 @@ const rooms = [
       description:
          "Facility– All room caters your comfort to the fullest, some of the special features include elegant floors, Double Bed, Wall mounted LED screen TV, bathroom with high quality fittings. Large wooden wardrobe. A sleek work desk with a chair and Task Lamp and WiFi connectivity amongst others.",
       image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070",
-      price: "5,000",
+      price: "6,000",
       size: "310 sq ft",
       features: ["Double Bed", "Premium Fittings", "Work Desk"],
    },
