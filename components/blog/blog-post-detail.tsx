@@ -11,6 +11,90 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "best-boutique-hotel-in-puri-for-jhulana-jatra": {
+    title:
+      "Best Boutique Hotel in Puri for Jhulana Jatra: Why Choose Victoria Grand Hotel?",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "August 22, 2026",
+    readTime: "6 min",
+    category: "Hospitality",
+    image: "/assets/blog/best-boutique-hotel-in-puri-for-jhulana-jatra.jpg",
+    excerpt:
+      "There's a particular kind of magic that settles over Puri in the last week of Shravan. The monsoon clouds hang low over the Bay of Bengal, the air smells faintly of rain and marigold, and inside the Jagannath Temple, something gentler than Rath Yatra's roar is taking place — Lord Jagannath, along with Balabhadra and Subhadra, is placed on a flower-decked swing and gently rocked, evening after evening, for seven days. This is Jhulana Jatra, and for devotees who've experienced it, it's one of the most quietly beautiful festivals on the Puri calendar.",
+    content: `
+
+      <p>If you're planning to be in Puri for Jhulana Yatra, where you stay matters more than it might for an ordinary trip. This guide covers what the festival actually involves, when it falls in 2026, and why Victoria Grand Hotel has become a boutique favorite for devotees making the journey.</p>
+
+      <h2>What Is Jhulana Jatra, and Why Does It Matter?</h2>
+      <p>Jhulana Jatra Puri is the swing festival of Lord Jagannath, celebrated over seven days from Shravana Shukla Dashami to Pratipada, culminating on Shravan Purnima — also known as Gamha Purnima. In 2026, the festival runs from August 22 to August 28.</p>
+      <p>Each evening during this period, the utsav vighraha (festival deities) — Sri Madanmohan, representing Lord Jagannath, along with Goddess Lakshmi and Vishwadhatri — are placed on an ornately decorated wooden swing at the Muktimandap inside the temple. Devotees gather to watch, sing, and take part in the gentle act of pushing the swing, said to be a way of intimately serving the Lord during the monsoon season, when the divine is believed to descend and enjoy the cool of the rains.</p>
+      <p>It's a smaller, more intimate festival than Rath Yatra — no chariots, no crowds pulling ropes through the streets — which is exactly what draws a certain kind of devotee to it. The evenings are unhurried, the temple atmosphere is devotional rather than frenetic, and the whole town settles into a rhythm built around darshan, prasad, and quiet reflection.</p>
+
+      <h2>Where to Stay in Puri During Jhulana Jatra</h2>
+      <p>Puri sees a genuine rise in footfall during Jhulana Yatra, particularly in the days building up to Purnima, so booking a hotel near Jagannath Temple Puri well in advance is worth doing rather than leaving until the last week. A few things are worth prioritizing when choosing where to stay:</p>
+      <ul>
+        <li class="mb-3"><strong>Proximity to the temple:</strong> Evening darshan during Jhulana Jatra often means heading out after sunset and returning late, so a short walk beats a long drive through festival-season traffic.</li>
+        <li class="mb-3"><strong>A boutique, personal feel over a large commercial setup:</strong> Devotees visiting for a specific festival tend to want a calmer, more attentive stay rather than a sprawling hotel handling hundreds of unrelated guests.</li>
+        <li class="mb-3"><strong>Genuine comfort after long days at the temple:</strong> Festival days involve a lot of walking, standing, and queuing, so a restful room at the end of it matters more than usual.</li>
+        <li class="mb-3"><strong>Local knowledge:</strong> Staff who understand the temple's festival-specific timings and rituals can save visitors real confusion, especially first-time devotees unfamiliar with Jhulana Jatra's schedule.</li>
+      </ul>
+
+      <h2>Why Victoria Grand Hotel Is the Best Boutique Hotel in Puri for Jhulana Jatra</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a> Hotel Puri sits on Chandan Hazuri Road, close enough to the Jagannath Temple that reaching evening darshan during Jhulana Jatra is a short, unhurried walk rather than a planned outing. For festival visitors, that proximity alone changes the entire rhythm of the stay — no worrying about traffic snarls or finding late-night transport back after the swing rituals conclude.</p>
+      <p>What sets <a href="https://www.hotelvictoriagrand.com/about" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a> apart as a boutique hotel Puri devotees keep returning to isn't scale, it's attention. The property is built around a smaller, more personal guest experience — comfortable, well-appointed rooms, a rooftop restaurant with sea views for a calm meal after a long day of darshan, and a team genuinely familiar with temple timings, festival schedules, and what first-time visitors need to know before heading out.</p>
+      <p>A few things that make it a fit specifically for Jhulana Jatra:</p>
+      <ul>
+        <li class="mb-3"><strong>Walking distance to the temple:</strong> Ideal for the evening darshan schedule the festival is built around.</li>
+        <li class="mb-3"><strong>A boutique, unhurried atmosphere:</strong> In contrast to the larger commercial hotels that can feel impersonal during peak festival weeks.</li>
+        <li class="mb-3"><strong>Rooftop dining with sea views:</strong> A quiet way to unwind after the day's rituals.</li>
+        <li class="mb-3"><strong>Staff familiar with festival logistics:</strong> Able to guide devotees on darshan timings and temple etiquette specific to Jhulana Yatra.</li>
+        <li class="mb-3"><strong>Comfortable, well-maintained rooms:</strong> Giving tired pilgrims a genuine place to rest rather than just a bed to fall into.</li>
+      </ul>
+      <p>For devotees comparing hotels near Jagannath Temple Puri for this particular festival, <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand's</a> combination of location, scale, and hospitality is what tends to make the difference between a rushed festival visit and one that actually leaves room for the experience to sink in.</p>
+
+      <h2>Planning Your Jhulana Jatra Trip</h2>
+      <p>A few practical notes worth keeping in mind if you are planning a Puri visit around this festival:</p>
+      <ul>
+        <li class="mb-3"><strong>Book early:</strong> Rooms at well-located boutique properties fill up in the weeks before Purnima, particularly for the final two or three days of the festival.</li>
+        <li class="mb-3"><strong>Plan for evening darshan:</strong> The swing rituals typically take place in the evening, so build your day around being at the temple after sunset rather than only in the morning.</li>
+        <li class="mb-3"><strong>Dress appropriately:</strong> As with any Jagannath Temple visit, modest, traditional clothing is expected, and phones and leather items aren't permitted inside.</li>
+        <li class="mb-3"><strong>Give yourself more than one evening:</strong> Since the festival runs across seven days, staying for at least two or three lets you experience more than a single, rushed darshan.</li>
+      </ul>
+
+      <h2>Beyond the Temple</h2>
+      <p>Jhulana Jatra falls at a genuinely beautiful time of year in Puri. The monsoon keeps the coast lush and green, Puri Beach has a quieter, moodier atmosphere than the peak tourist months, and the town itself feels less like a destination and more like a place actively observing something sacred. Visitors with extra time can take in Pipili's applique craft villages or the Konark Sun Temple, both an easy day trip away, though most devotees find the festival itself — and the evenings at the temple — reason enough to stay close and simply be present.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>Jhulana Jatra doesn't have the scale or spectacle of Rath Yatra, and that's precisely its appeal — a quieter, more devotional week built around evenings at the temple rather than crowds in the streets. Choosing a comfortable, well-located boutique hotel in Puri for the festival, like Victoria Grand Hotel, means those evenings are unhurried from the moment you step out the door to the moment you return to rest.</p>
+
+      <h2>Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. What is Jhulana Jatra, and when does it take place?</strong><br/>
+        Jhulana Jatra is the swing festival of Lord Jagannath, celebrated over seven days from Shravana Shukla Dashami to Pratipada, ending on Shravan Purnima. In 2026, the festival runs from August 22 to August 28.</p>
+
+        <p><strong>2. Is Jhulana Jatra as crowded as Rath Yatra?</strong><br/>
+        No. It draws devotees, but the atmosphere is far calmer and more intimate than Rath Yatra, with no chariots or street processions involved.</p>
+
+        <p><strong>3. Where is the best place to stay in Puri during Jhulana Jatra?</strong><br/>
+        A boutique hotel near Jagannath Temple Puri makes the most sense for festival visitors, since evening darshan means walking to and from the temple after dark. Victoria Grand Hotel, close to the temple on Chandan Hazuri Road, is built for exactly this kind of stay.</p>
+
+        <p><strong>4. How far is Victoria Grand Hotel from the Jagannath Temple?</strong><br/>
+        Victoria Grand Hotel Puri is a short walk from the temple around 1 km, making it easy to reach evening darshan during Jhulana Jatra without relying on transport through festival traffic.</p>
+
+        <p><strong>5. Do I need to book hotels in Puri in advance for Jhulana Jatra?</strong><br/>
+        Yes. Rooms at well-located boutique properties fill up in the days leading up to Purnima, so booking several weeks ahead is recommended.</p>
+
+        <p><strong>6. What should I wear to the temple during Jhulana Jatra?</strong><br/>
+        The same dress code applies as any other Jagannath Temple visit — modest, traditional clothing, with phones, cameras, and leather items left outside the temple premises.</p>
+
+        <p><strong>7. Is Victoria Grand Hotel suitable for families visiting for the festival?</strong><br/>
+        Yes. The hotel's boutique setting, comfortable rooms, and proximity to the temple make it a practical, restful choice for families attending Jhulana Jatra together.</p>
+      </div>
+    `,
+  },
   "jagannath-temple-puri-darshan-guide": {
     title:
       "Jagannath Temple Puri Darshan Guide: Everything First-Time Visitors Should Know",

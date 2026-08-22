@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 12,
+    slug: "best-boutique-hotel-in-puri-for-jhulana-jatra",
+    title:
+      "Best Boutique Hotel in Puri for Jhulana Jatra: Why Choose Victoria Grand Hotel?",
+    excerpt:
+      "There's a particular kind of magic that settles over Puri in the last week of Shravan. The monsoon clouds hang low over the Bay of Bengal, the air smells faintly of rain and marigold, and inside the Jagannath Temple, something gentler than Rath Yatra's roar is taking place...",
+    author: "Vikram Singh",
+    date: "August 22, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/best-boutique-hotel-in-puri-for-jhulana-jatra.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 11,
     slug: "jagannath-temple-puri-darshan-guide",
     title:
