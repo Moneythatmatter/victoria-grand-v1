@@ -11,6 +11,86 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "travelling-to-puri-for-rakhi-purnima": {
+    title:
+      "Travelling to Puri for Rakhi Purnima? How to Plan a Comfortable Jagannath Temple Trip",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "August 27, 2026",
+    readTime: "6 min",
+    category: "Travel",
+    image: "/assets/blog/travelling-to-puri-for-rakhi-purnima.jpg",
+    excerpt:
+      "Rakhi Purnima carries a certain warmth wherever it's celebrated, but in Puri, it lands on a day already thick with sacred significance — the same Shravan Purnima that closes out Jhulana Jatra at the Jagannath Temple. For families travelling to Puri around this time, that overlap makes for a trip that's part festival, part pilgrimage, and part quiet tradition of its own.",
+    content: `
+      <p>Rakhi Purnima carries a certain warmth wherever it's celebrated, but in Puri, it lands on a day already thick with sacred significance — the same Shravan Purnima that closes out Jhulana Jatra at the Jagannath Temple. For families travelling to Puri around this time, that overlap makes for a trip that's part festival, part pilgrimage, and part quiet tradition of its own.</p>
+      <p>This guide covers what to expect from Rakhi Purnima in Puri, how the day connects to the temple's own calendar, and how to plan a comfortable, well-organized Jagannath Temple trip around it.</p>
+
+      <h2>When Rakhi Purnima Falls in 2026</h2>
+      <p>Rakhi Purnima, also known as Raksha Bandhan, falls on Friday, August 28, 2026, observed on the full moon day of Shravan. In Puri specifically, this date holds extra weight, since it coincides with the final day of Jhulana Jatra, the temple's week-long swing festival for Lord Jagannath. Families visiting for Rakhi Purnima often find themselves arriving at the tail end of the festival's most significant evening, which adds a layer of temple ritual to what's otherwise a home-and-family occasion.</p>
+
+      <h2>What Rakhi Purnima Looks Like in Puri</h2>
+      <p>Rakhi Purnima in Puri blends the familiar sibling ritual — tying a rakhi, exchanging gifts, sharing a meal — with the town's temple-centered rhythm, since the same day marks Shravan Purnima at the Jagannath Temple. Many visiting families choose to begin the day with temple darshan before settling into their own Rakhi celebrations later, treating the morning as a spiritual start to a day that's otherwise about family. For devotees already in town for Jhulana Jatra, Rakhi Purnima naturally becomes the closing note of a week they've spent largely at the temple each evening.</p>
+
+      <h2>Things to Do in Puri During Rakhi Purnima</h2>
+      <p>A Puri trip during Rakhi Purnima usually centers on a few key experiences:</p>
+      <ul>
+        <li class="mb-3"><strong>Morning or evening darshan at the Jagannath Temple:</strong> Particularly meaningful on this specific Purnima given its overlap with Jhulana Jatra's conclusion.</li>
+        <li class="mb-3"><strong>A quiet family breakfast or lunch:</strong> Often built around the day's Rakhi rituals before or after visiting the temple.</li>
+        <li class="mb-3"><strong>A walk along Puri Beach:</strong> Especially in the early morning when the coast is calmer and the August humidity hasn't yet set in.</li>
+        <li class="mb-3"><strong>Local shopping for rakhis, sweets, and gifts:</strong> Widely available in the markets around the temple in the days leading up to the festival.</li>
+      </ul>
+
+      <h2>Planning a Puri Trip for Rakhi Purnima</h2>
+      <p>Planning a Puri trip during Rakhi Purnima works best when it's built around the temple's schedule rather than treated as a separate side activity. Because the date coincides with Jhulana Jatra's final evening, Puri sees a genuine rise in visitors in the days just before Purnima, and hotel availability near the temple tightens accordingly. Booking your stay several weeks ahead, rather than the week of, makes a real difference — particularly for anyone hoping to combine both the family celebration and a temple visit without rushing either one.</p>
+
+      <h2>Best Time to Visit Puri During Rakhi Purnima</h2>
+      <p>The best time to visit Puri during Rakhi Purnima is a day or two before the festival itself, giving you time to settle in, complete an unhurried temple darshan, and still be well-rested for the Rakhi celebrations on the day. Arriving the same morning tends to compress everything into a single rushed day — early travel, a hurried darshan, then trying to relax into a family occasion with little downtime in between. A short buffer of one or two extra nights changes the whole feel of the trip.</p>
+
+      <h2>What to Know Before Visiting Puri During Rakhi Purnima</h2>
+      <p>A few practical points worth keeping in mind:</p>
+      <ul>
+        <li class="mb-3"><strong>Temple crowds build ahead of Purnima:</strong> Plan darshan for early morning or later evening rather than midday.</li>
+        <li class="mb-3"><strong>Dress code and entry rules:</strong> The same dress code and entry rules apply as any Jagannath Temple visit — modest clothing, and no phones, cameras, or leather items inside.</li>
+        <li class="mb-3"><strong>Monsoon conditions:</strong> Monsoon conditions are still active in late August, so pack accordingly even if the days themselves are pleasant.</li>
+        <li class="mb-3"><strong>Local markets get busy:</strong> Shopping for rakhis or gifts earlier in the week avoids the last-minute rush.</li>
+      </ul>
+
+      <h2>Where to Stay in Puri for a Jagannath Temple Visit</h2>
+      <p>Choosing where to stay in Puri for a Jagannath Temple visit matters more during a busy period like this, since proximity affects everything from how early you can start your darshan to how easily you can return for a relaxed family day afterward. The best hotels in Puri for a Jagannath Temple visit tend to share a few qualities: a short walk to the temple, genuinely comfortable rooms for families travelling together, and a team familiar enough with the temple's calendar to help guests plan around festival timings rather than working it out on their own.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a>, the <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">best boutique hotel in Puri</a>, located on Chandan Hazuri Road just about a kilometre from the Jagannath Temple, fits this need well for families visiting during Rakhi Purnima. The hotel's proximity means an early-morning darshan is a short walk rather than a planned outing, leaving the rest of the day open for the family celebrations Rakhi Purnima is really about. After darshan, the rooftop Sunshine Restaurant offers a calm spot to sit down together, with the <a href="https://www.hotelvictoriagrand.com/venues" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Bay of Bengal visible beyond the rooftops</a> — a pleasant, unhurried way to move from temple visit into family time.</p>
+      <p>For pilgrims and families comparing hotels near Jagannath Temple Puri for this particular weekend, that combination of <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">walkable distance and genuine comfort</a> tends to be what makes the day feel complete rather than rushed.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>Rakhi Purnima in Puri isn't quite like celebrating it anywhere else — the same day that closes Jhulana Jatra at the Jagannath Temple gives the festival an added spiritual dimension for families who choose to combine both. Planning around the temple's rhythm, booking a comfortable stay close by, and giving the trip a little breathing room rather than compressing it into a single day is really what turns a busy festival weekend into a trip worth remembering.</p>
+
+      <h2>Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. When is Rakhi Purnima in 2026?</strong><br/>
+        Rakhi Purnima, or Raksha Bandhan, falls on Friday, August 28, 2026, observed on Shravan Purnima.</p>
+
+        <p><strong>2. Does Rakhi Purnima have any connection to the Jagannath Temple festival calendar?</strong><br/>
+        Yes. In 2026, Rakhi Purnima falls on the same day as the concluding evening of Jhulana Jatra, the Jagannath Temple's week-long swing festival, giving the date added significance in Puri specifically.</p>
+
+        <p><strong>3. What is the best time to visit Puri during Rakhi Purnima?</strong><br/>
+        Arriving a day or two before the festival is ideal, giving you time for an unhurried temple darshan before settling into a relaxed day of Rakhi celebrations.</p>
+
+        <p><strong>4. What should I know before visiting Puri during Rakhi Purnima?</strong><br/>
+        Expect temple crowds to build in the days before Purnima, plan darshan for early morning or evening, follow the usual dress code, and pack for continuing monsoon conditions.</p>
+
+        <p><strong>5. Where should I stay in Puri for a Jagannath Temple visit during this period?</strong><br/>
+        A hotel within easy walking distance of the temple makes the most sense, especially with festival crowds around. Victoria Grand Hotel, about a kilometre from the temple, is a practical option for families visiting during Rakhi Purnima.</p>
+
+        <p><strong>6. Do I need to book hotels in advance for this period?</strong><br/>
+        Yes. Since the date overlaps with Jhulana Jatra's final evening, hotels near the temple fill up faster than usual, so booking several weeks ahead is recommended.</p>
+
+        <p><strong>7. What else can families do in Puri besides visiting the temple?</strong><br/>
+        Puri Beach, local markets for rakhis and sweets, and a relaxed family meal are all part of how most visiting families round out a Rakhi Purnima trip to the city.</p>
+      </div>
+    `,
+  },
   "best-boutique-hotel-in-puri-for-jhulana-jatra": {
     title:
       "Best Boutique Hotel in Puri for Jhulana Jatra: Why Choose Victoria Grand Hotel?",

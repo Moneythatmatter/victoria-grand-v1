@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 13,
+    slug: "travelling-to-puri-for-rakhi-purnima",
+    title: "Travelling to Puri for Rakhi Purnima? How to Plan a Comfortable Jagannath Temple Trip",
+    date: "August 27, 2026",
+    category: "Travel",
+    image: "/assets/blog/travelling-to-puri-for-rakhi-purnima.jpg",
+  },
+  {
     id: 12,
     slug: "best-boutique-hotel-in-puri-for-jhulana-jatra",
     title: "Best Boutique Hotel in Puri for Jhulana Jatra: Why Choose Victoria Grand Hotel?",

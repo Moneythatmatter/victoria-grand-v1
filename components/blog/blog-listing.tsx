@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 13,
+    slug: "travelling-to-puri-for-rakhi-purnima",
+    title:
+      "Travelling to Puri for Rakhi Purnima? How to Plan a Comfortable Jagannath Temple Trip",
+    excerpt:
+      "Rakhi Purnima carries a certain warmth wherever it's celebrated, but in Puri, it lands on a day already thick with sacred significance — the same Shravan Purnima that closes out Jhulana Jatra at the Jagannath Temple...",
+    author: "Vikram Singh",
+    date: "August 27, 2026",
+    category: "Travel",
+    image: "/assets/blog/travelling-to-puri-for-rakhi-purnima.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 12,
     slug: "best-boutique-hotel-in-puri-for-jhulana-jatra",
     title:
