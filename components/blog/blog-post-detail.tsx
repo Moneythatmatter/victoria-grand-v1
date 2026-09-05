@@ -11,6 +11,73 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "the-story-of-janmashtami-krishna-to-jagannath": {
+    title:
+      "The Story of Janmashtami: From Krishna's Birth to the Divine Form of Jagannath",
+    author: "Vikram Singh",
+    authorRole: "Heritage & Culture Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "September 4, 2026",
+    readTime: "7 min",
+    category: "Heritage",
+    image: "/assets/blog/the-story-of-janmashtami-krishna-to-jagannath.jpg",
+    excerpt:
+      "Every year, somewhere between the last showers of monsoon and the first cool evenings of autumn, India pauses for a night that's celebrated with a particular kind of joy — cradles rocked in homes with no infant in them, conch shells sounding at midnight, and devotees who have fasted since sunrise finally breaking into smiles. This is the story of Janmashtami, the night Lord Krishna was born. And for anyone visiting Puri, it carries an extra layer of meaning, since the very deity worshipped at the Jagannath Temple is understood, in one of Hinduism's most compelling traditions, to be a form of the same Krishna whose birth this festival celebrates.",
+    content: `
+      <p>Every year, somewhere between the last showers of monsoon and the first cool evenings of autumn, India pauses for a night that's celebrated with a particular kind of joy — cradles rocked in homes with no infant in them, conch shells sounding at midnight, and devotees who have fasted since sunrise finally breaking into smiles. This is the story of Janmashtami, the night Lord Krishna was born. And for anyone visiting Puri, it carries an extra layer of meaning, since the very deity worshipped at the Jagannath Temple is understood, in one of Hinduism's most compelling traditions, to be a form of the same Krishna whose birth this festival celebrates.</p>
+      <p>This blog traces that connection from the story of Krishna's birth in a Mathura prison cell to the wooden form of Jagannath that now sits at the heart of Puri.</p>
+
+      <h2>Why Is Janmashtami Celebrated?</h2>
+      <p>Janmashtami is celebrated to mark the birth of Lord Krishna, the eighth avatar of Vishnu, born to end the tyranny of the demon king Kansa and restore dharma. In 2026, Janmashtami falls on Friday, September 4, observed on the Ashtami tithi of Krishna Paksha in the month of Bhadrapada. The date shifts every year because it follows the lunar calendar rather than a fixed Gregorian date, but the story behind it has stayed exactly the same for generations.</p>
+
+      <h2>The Birth of Lord Krishna</h2>
+      <p>The birth of Lord Krishna is one of the most dramatic stories in Hindu mythology. Krishna was born at midnight in a prison cell in Mathura to Devaki and Vasudeva, at a time when Devaki's brother, the tyrant king Kansa, had imprisoned the couple after a prophecy warned that their eighth child would be the one to end his rule. Vasudeva, in a desperate act to protect the newborn, carried the infant Krishna across a flooding Yamuna River at midnight to the safety of Gokul, where he was raised by foster parents Nanda and Yashoda, away from Kansa's reach.</p>
+      <p>Krishna's birth story doesn't end with his infancy. He grew up in Vrindavan and Gokul known for his mischief and charm, eventually returning to Mathura to fulfil the prophecy and defeat Kansa, before going on to play a central role in the events of the Mahabharata — most famously as the one who delivers the Bhagavad Gita on the battlefield of Kurukshetra.</p>
+
+      <h2>The Significance of Krishna's Birth</h2>
+      <p>The significance of Krishna's birth lies in what he represents within Hindu tradition — dharma restored through divine intervention, and the belief that when the world tips too far toward injustice, the divine takes birth to correct it. Krishna is worshipped both as a joyful, playful child god and as a profound spiritual teacher, and Janmashtami captures both sides of that at once: midnight celebrations full of song and dance, alongside solemn puja and fasting observed with real devotion.</p>
+
+      <h2>The Connection Between Krishna and Jagannath</h2>
+      <p>The connection between Krishna and Jagannath is rooted in one of Odisha's most significant legends, the story of how Krishna's final moments led to the creation of the wooden deity now worshipped at Puri. According to tradition, Krishna's earthly life ended when a hunter mistook his foot for prey and struck him with an arrow. His body was left in the forest, and over time it decomposed entirely — except for one part: his heart, which remained intact and was said to still be beating.</p>
+      <p>This surviving essence, sometimes referred to as Krishna's Brahma or divine soul-substance, floated down a river and was eventually found by King Indradyumna, who had been instructed in a vision to build a deity to house it. A celestial architect, Vishwakarma, is said to have taken up the task of carving the deity on the condition he wouldn't be disturbed while working. When his work was interrupted before completion, the result was a form without fully carved hands or feet — the same distinctive, unfinished-looking form Lord Jagannath is worshipped in to this day, with Krishna's Brahma placed inside during a secretive ritual known as Brahma Parivartan, performed whenever a new set of idols is made.</p>
+
+      <h2>Jagannath as a Form of Krishna</h2>
+      <p>Jagannath is understood as a form of Krishna specifically because the deity's very construction is tied to that surviving essence from Krishna's earthly departure. This is part of what makes the Jagannath Temple's tradition so distinct within Vaishnavism, rather than depicting Krishna in his familiar human form, the deity is worshipped in an abstract, symbolic shape that represents the continuation of that same divine presence, carried forward from Krishna's final moments into the wooden form now seated at Puri alongside Balabhadra and Subhadra.</p>
+      <p>For devotees, this connection deepens the meaning of visiting the temple. A Jagannath Temple darshan isn't simply a visit to a regional deity, it's understood as standing before the same Krishna whose birth is celebrated every Janmashtami, present in a form unique to Odisha's own sacred history.</p>
+
+      <h2>Celebrating Janmashtami in Puri</h2>
+      <p>While Mathura and Vrindavan are the best-known centers for Janmashtami celebrations, Puri observes the festival with its own devotional character, shaped naturally by its connection to Jagannath. Temples across the city hold special puja and bhajans through the night, and many visiting devotees choose to combine a Janmashtami visit with darshan at the Jagannath Temple itself, drawn by the added significance the festival carries here.</p>
+      <p>For anyone planning a Puri trip around Janmashtami, <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">staying close to the temple</a> makes the evening far easier to navigate, particularly with the extended midnight rituals the festival involves. <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand Hotel</a>, located on Chandan Hazuri Road just about a kilometre from the Jagannath Temple, offers a comfortable, walkable base for devotees wanting to be part of both the city's Janmashtami observances and a temple darshan without the added complication of late-night travel.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>The <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">story of Janmashtami</a> is, at its heart, a story about divine presence returning when it's needed most and in Puri, that story extends further than most visitors expect, threading directly into the wooden form of Lord Jagannath that has watched over the city for centuries. Understanding that connection adds real depth to a Puri visit, turning a temple darshan into something rooted in one of Hinduism's oldest and most enduring stories.</p>
+
+      <h2>Frequently Asked Questions (FAQs)</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Why is Janmashtami celebrated?</strong><br/>
+        Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Vishnu, born to end the tyranny of King Kansa and restore dharma.</p>
+
+        <p><strong>2. What is the story behind Krishna's birth?</strong><br/>
+        Krishna was born at midnight in a Mathura prison cell to Devaki and Vasudeva, who carried him to safety in Gokul to protect him from King Kansa, fulfilling a prophecy that Krishna would eventually end Kansa's rule.</p>
+
+        <p><strong>3. What is the connection between Krishna and Jagannath?</strong><br/>
+        According to tradition, after Krishna's earthly life ended, his heart remained intact and was later placed inside the wooden form of Jagannath during its creation, linking the deity worshipped in Puri directly to Krishna.</p>
+
+        <p><strong>4. Is Lord Jagannath considered a form of Krishna?</strong><br/>
+        Yes. Jagannath is worshipped as a symbolic, abstract form of Krishna, tied to the legend of Krishna's surviving divine essence being placed inside the deity during its original construction.</p>
+
+        <p><strong>5. How is Janmashtami celebrated in Puri?</strong><br/>
+        Puri observes Janmashtami with temple puja, bhajans, and midnight rituals, and many devotees combine the festival with a visit to the Jagannath Temple given its own connection to Krishna.</p>
+
+        <p><strong>6. Where is a good place to stay in Puri for Janmashtami?</strong><br/>
+        A hotel close to the Jagannath Temple makes evening and midnight rituals easier to attend. Victoria Grand Hotel, about a kilometre from the temple, offers a convenient, comfortable stay for devotees during the festival.</p>
+
+        <p><strong>7. What is the significance of Krishna's birth for devotees?</strong><br/>
+        Krishna's birth represents the restoration of dharma through divine intervention, and Janmashtami is observed as both a joyful celebration of his childhood and a solemn recognition of his role as a spiritual teacher.</p>
+      </div>
+    `,
+  },
   "travelling-to-puri-for-rakhi-purnima": {
     title:
       "Travelling to Puri for Rakhi Purnima? How to Plan a Comfortable Jagannath Temple Trip",

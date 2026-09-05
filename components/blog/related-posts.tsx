@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 14,
+    slug: "the-story-of-janmashtami-krishna-to-jagannath",
+    title: "The Story of Janmashtami: From Krishna's Birth to the Divine Form of Jagannath",
+    date: "September 4, 2026",
+    category: "Heritage",
+    image: "/assets/blog/the-story-of-janmashtami-krishna-to-jagannath.jpg",
+  },
+  {
     id: 13,
     slug: "travelling-to-puri-for-rakhi-purnima",
     title: "Travelling to Puri for Rakhi Purnima? How to Plan a Comfortable Jagannath Temple Trip",
