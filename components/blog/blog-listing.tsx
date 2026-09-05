@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 14,
+    slug: "the-story-of-janmashtami-krishna-to-jagannath",
+    title:
+      "The Story of Janmashtami: From Krishna's Birth to the Divine Form of Jagannath",
+    excerpt:
+      "Every year, somewhere between the last showers of monsoon and the first cool evenings of autumn, India pauses for a night that's celebrated with a particular kind of joy — cradles rocked in homes with no infant in them, conch shells sounding at midnight...",
+    author: "Vikram Singh",
+    date: "September 4, 2026",
+    category: "Heritage",
+    image: "/assets/blog/the-story-of-janmashtami-krishna-to-jagannath.jpg",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 13,
     slug: "travelling-to-puri-for-rakhi-purnima",
     title:
