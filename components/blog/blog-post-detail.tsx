@@ -11,6 +11,84 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "chandan-hazuri-road-puri-best-kept-stay-secret": {
+    title:
+      "At the Crossroads of Faith & Sea: Why Chandan Hazuri Road Is Puri's Best-Kept Stay Secret",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "September 12, 2026",
+    readTime: "6 min",
+    category: "Hospitality",
+    image: "/assets/blog/chandan-hazuri-road-puri-best-kept-stay-secret.jpg",
+    excerpt:
+      "Ask a dozen visitors where to stay in Puri and most will point you toward the obvious choices — right by the temple, or right on the beach. Few will mention the quieter road that actually sits between both, close enough to reach either on foot, yet calm enough to feel like a genuine retreat rather than the middle of the action.",
+    content: `
+      <p>Ask a dozen visitors where to stay in Puri and most will point you toward the obvious choices — right by the temple, or right on the beach. Few will mention the quieter road that actually sits between both, close enough to reach either on foot, yet calm enough to feel like a genuine retreat rather than the middle of the action. That road carries the name of a man who once lived and wrote in this very city — Chandan Hajuri, popularly known as Chakhi Khuntia, once a priest in Jagannath Temple and a poet who composed devotional verses near the temple's Bata Jagannath shrine (Chhatia Bata) and later took part in the Indian Rebellion of 1857. Long after his time, the road named for him has quietly become one of Puri's most practical, well-positioned places to stay.</p>
+      <p>This piece looks at why hotels on Chandan Hazuri Road Puri offer a combination of proximity, peace and practicality that's harder to find elsewhere in the city.</p>
+
+      <h2>Where Chandan Hazuri Road Actually Sits</h2>
+      <p>Chandan Hazuri Road runs through one of Puri's calmer residential stretches, positioned within a short distance of both the Jagannath Temple and the sea beach. It's also home to two notable institutions — the Ramakrishna Mission Ashrama and Shree Jagannath Sanskrit University — which lend the road a naturally quieter, more contemplative character compared to the busier commercial lanes closer to the temple's main approach. For visitors who want proximity without noise, this is exactly the kind of location that delivers both, carrying forward the same devotional, literary character its namesake was known for.</p>
+
+      <h2>How Far Is Chandan Hazuri Road From the Jagannath Temple and Sea Beach?</h2>
+      <p>Chandan Hazuri Road sits within about 1 km of the Jagannath Temple and roughly 500 meters from the sea beach, putting both of Puri's biggest draws within easy walking distance. That's a rare combination in a city where hotels typically lean heavily toward one or the other — either temple-adjacent and further from the water, or beachfront and a longer trip from the temple. A stay here means neither has to be compromised.</p>
+
+      <h2>Is Chandan Hazuri Road Safe and Peaceful for Families and Seniors?</h2>
+      <p>Yes. <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Hotels on Chandan Hazuri Road Puri</a> is safe and peaceful option for families and elders. Chandan Hazuri Road's residential character, combined with the steady presence of institutions like the Ramakrishna Mission Ashrama, makes it one of the calmer, safer stretches in Puri for families travelling with children or elderly parents. Unlike the more crowded lanes near the main temple entrance, the pace here is unhurried, which matters a great deal for visitors who want easy access to the temple and beach without navigating heavy foot traffic or noise on the way back to their room each day.</p>
+
+      <h2>What Makes This Location Ideal for a Spiritual Retreat Stay</h2>
+      <p>Being close to the Ramakrishna Mission Ashrama and Shree Jagannath Sanskrit University gives Chandan Hazuri Road a naturally reflective, spiritual atmosphere that suits visitors looking for a retreat-style stay rather than a purely tourist one. Many pilgrims and devotees appreciate having a quiet space to return to after temple darshan, away from the commercial bustle, while still being close enough that reaching the temple again the next morning is a short walk rather than a planned trip.</p>
+
+      <h2>Getting Around: Rickshaws, Autos and Walking Distance</h2>
+      <p>Getting between Chandan Hazuri Road and the temple or beach is straightforward, with autos and cycle rickshaws readily available along the road for those who would rather not walk, especially during the warmer parts of the day. For most guests, though, the real advantage of this address is that walking is a genuine option — both the temple and the beach are close enough that many visitors skip transport altogether for at least one of the two.</p>
+
+      <h2>Why Victoria Grand Fits This Location So Well</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a>, located on Chandan Hazuri Road, is built around exactly the advantages this stretch of Puri offers — a peaceful setting close to both the temple and the sea, without sacrificing comfort or amenities. <a href="https://www.hotelvictoriagrand.com/rooms" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">As a boutique hotel in Puri, Victoria Grand</a> focuses on a smaller, more personal guest experience rather than the scale of larger commercial properties, which suits the quieter character of the road itself.</p>
+      <p>A few features that make it a strong fit for visitors drawn to this location:</p>
+      <ul>
+        <li class="mb-3">A short walk to both the Jagannath Temple and the sea beach, letting guests structure their day around either without long commutes.</li>
+        <li class="mb-3">A rooftop restaurant, Sunshine, offering sea views and a relaxed setting for meals after a day of sightseeing or darshan.</li>
+        <li class="mb-3">An infinity swimming pool, adding genuine resort-style comfort to a boutique-scale stay.</li>
+        <li class="mb-3">A banquet hall suited for gatherings of up to around 150 guests, useful for families planning larger religious or social functions during their visit.</li>
+        <li class="mb-3">Clean, comfortable rooms and pure Odia food options, giving guests an authentic taste of the region without leaving the property.</li>
+        <li class="mb-3">Staff familiar with temple darshan logistics, able to guide first-time visitors on timings and etiquette specific to the Jagannath Temple.</li>
+      </ul>
+
+      <h2>Is Victoria Grand a Good Fit for Families and Larger Groups?</h2>
+      <p>Yes. Between the on-site banquet hall, comfortable room options and the calm setting of Chandan Hazuri Road itself, <a href="https://www.hotelvictoriagrand.com/venues" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand works well for families, multi-generational groups and even larger gatherings</a> that need event space without leaving the convenience of a central Puri location. The quieter surroundings also make it a comfortable choice specifically for elderly parents or relatives who may find the busier parts of Puri overwhelming.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>Chandan Hazuri Road doesn't shout for attention the way Puri's more obvious tourist stretches do and that's precisely its appeal — a peaceful, well-positioned address that keeps both the Jagannath Temple and the sea beach within easy reach, without the noise that usually comes with that kind of proximity. For visitors who want convenience and calm in equal measure, a stay at Victoria Grand Hotel on this road is worth serious consideration over the more obvious choices.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Which road in Puri is peaceful yet close to the Jagannath Temple?</strong><br/>
+        Chandan Hazuri Road offers a quieter, residential setting while still being within about 1 km of the Jagannath Temple, making it a strong choice for visitors who want both calm and convenience.</p>
+
+        <p><strong>2. How far is Chandan Hazuri Road from the Jagannath Temple and sea beach?</strong><br/>
+        It's roughly 1 km from the Jagannath Temple and about 500 meters from the sea beach, putting both within comfortable walking distance.</p>
+
+        <p><strong>3. Is Chandan Hazuri Road safe for families and seniors?</strong><br/>
+        Yes. Its residential character and the presence of institutions like the Ramakrishna Mission Ashrama make it one of Puri's calmer, safer areas for families and elderly travellers.</p>
+
+        <p><strong>4. Which is the best boutique hotel near the Ramakrishna Mission Ashrama in Puri?</strong><br/>
+        Victoria Grand, located on Chandan Hazuri Road near the ashrama, offers a boutique, personal stay experience in this quieter part of the city.</p>
+
+        <p><strong>5. Can I easily get rickshaws or autos from Chandan Hazuri Road to the temple?</strong><br/>
+        Yes, autos and cycle rickshaws are readily available along the road, though many guests find both the temple and beach close enough to reach on foot.</p>
+
+        <p><strong>6. Does Victoria Grand have a swimming pool and banquet hall?</strong><br/>
+        Yes. The hotel offers a swimming pool along with a banquet hall suited for gatherings of up to around 150 guests.</p>
+
+        <p><strong>7. Is Victoria Grand Hotel suitable for a spiritual retreat-style stay?</strong><br/>
+        Yes. Its location near the Ramakrishna Mission Ashrama and Shree Jagannath Sanskrit University gives the area a naturally reflective atmosphere, well suited to devotees and pilgrims seeking a quieter stay.</p>
+
+        <p><strong>8. What kind of food is available at Victoria Grand Hotel?</strong><br/>
+        The hotel offers clean, comfortable dining options with multicuisine choices along with pure authentic Odia cuisine as well, served at its rooftop restaurant, Sunshine, which offers sea views.</p>
+      </div>
+    `,
+  },
   "the-story-of-janmashtami-krishna-to-jagannath": {
     title:
       "The Story of Janmashtami: From Krishna's Birth to the Divine Form of Jagannath",
