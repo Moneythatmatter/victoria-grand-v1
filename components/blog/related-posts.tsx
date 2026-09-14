@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 15,
+    slug: "chandan-hazuri-road-puri-best-kept-stay-secret",
+    title: "At the Crossroads of Faith & Sea: Why Chandan Hazuri Road Is Puri's Best-Kept Stay Secret",
+    date: "September 12, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/chandan-hazuri-road-puri-best-kept-stay-secret.jpg",
+  },
+  {
     id: 14,
     slug: "the-story-of-janmashtami-krishna-to-jagannath",
     title: "The Story of Janmashtami: From Krishna's Birth to the Divine Form of Jagannath",

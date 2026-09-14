@@ -82,7 +82,7 @@ export function Footer() {
                         <Mail className="w-4 h-4 text-ochre" />
                         <span className="font-sans text-sm">
                            info@hotelvictoriagrand.com
-                        </span>  
+                        </span>
                      </a>
                      <div className="flex items-start gap-3 text-cream/70">
                         <MapPin className="w-4 h-4 text-ochre mt-1 shrink-0" />
@@ -208,8 +208,19 @@ export function Footer() {
             {/* Bottom Bar */}
             <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
                <p className="font-sans text-xs text-cream/50">
-                  2026 Victoria Grand. All rights reserved.
+                  © 2026 Victoria Grand. All rights reserved.
                </p>
+               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full border border-cream/15 bg-cream/5 text-[11px] font-sans text-cream/60 tracking-wider">
+                  <span>Powered by</span>
+                  <a
+                     href="https://ritgb.com"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                     className="font-semibold text-cream/80 hover:text-ochre transition-colors underline-offset-2 hover:underline"
+                  >
+                     RITGB
+                  </a>
+               </div>
                <div className="flex gap-6">
                   <Link
                      href="#"

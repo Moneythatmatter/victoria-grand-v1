@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 15,
+    slug: "chandan-hazuri-road-puri-best-kept-stay-secret",
+    title:
+      "At the Crossroads of Faith & Sea: Why Chandan Hazuri Road Is Puri's Best-Kept Stay Secret",
+    excerpt:
+      "Ask a dozen visitors where to stay in Puri and most will point you toward the obvious choices — right by the temple, or right on the beach. Few will mention the quieter road that actually sits between both, close enough to reach either on foot, yet calm enough to feel like a genuine retreat rather than the middle of the action...",
+    author: "Vikram Singh",
+    date: "September 12, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/chandan-hazuri-road-puri-best-kept-stay-secret.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 14,
     slug: "the-story-of-janmashtami-krishna-to-jagannath",
     title:
@@ -256,8 +270,8 @@ export function BlogListing() {
                 key={category}
                 onClick={() => setSelectedCategory(category)}
                 className={`px-4 py-2 rounded-full font-sans text-sm tracking-wide transition-all duration-300 ${selectedCategory === category
-                    ? "bg-ochre text-white"
-                    : "bg-white border-2 border-olive/20 text-olive hover:border-ochre hover:text-ochre"
+                  ? "bg-ochre text-white"
+                  : "bg-white border-2 border-olive/20 text-olive hover:border-ochre hover:text-ochre"
                   }`}
               >
                 {category}
