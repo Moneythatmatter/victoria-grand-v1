@@ -11,6 +11,71 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "5-interesting-facts-about-puri-you-need-to-know-before-you-visit": {
+    title:
+      "5 Interesting Facts About Puri You Need to Know Before You Visit",
+    author: "Vikram Singh",
+    authorRole: "Heritage & Culture Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "September 17, 2026",
+    readTime: "7 min",
+    category: "Heritage",
+    image: "/assets/blog/5-interesting-facts-about-puri-you-need-to-know-before-you-visit.jpg",
+    excerpt:
+      "Most visitors arrive in Puri already knowing the basics — the Jagannath Temple, the beach, the Rath Yatra. What tends to surprise first-time visitors is everything layered underneath that surface. Puri's history and culture run far deeper than a single darshan reveals, and some of the most fascinating facts about Puri Odisha involve traditions most tourists never hear about at all.",
+    content: `
+      <p>Most visitors arrive in Puri already knowing the basics — the Jagannath Temple, the beach, the Rath Yatra. What tends to surprise first-time visitors is everything layered underneath that surface. Puri's history and culture run far deeper than a single darshan reveals, and some of the most fascinating facts about Puri Odisha involve traditions most tourists never hear about at all. Here are five unknown facts about Puri worth knowing before your visit — the kind that turn a temple stop into something genuinely worth understanding.</p>
+
+      <h2>1. The Gods Have a Burial Ground</h2>
+      <p>One of the most unique facts about Puri involves Koili Baikuntha, a walled enclosure in the Jagannath Temple's northwestern corner that functions as a genuine burial ground — not for people, but for the deities themselves. During Nabakalebara, the ritual that replaces the wooden idols of Jagannath, Balabhadra, Subhadra, and Sudarshana with new ones every 8 to 19 years, the sacred life-substance believed to reside within the old idols, known as Brahma Padartha, is transferred into freshly carved images. The old wooden bodies, now considered lifeless, are buried at Koili Baikuntha in a ritual called Patali. It's one of the more remarkable pieces of Puri's history and culture — the only known instance in India of a temple observing what amounts to a funeral for its own deities.</p>
+
+      <h2>2. There Is a Time When Jagannath Goes Into Seclusion</h2>
+      <p>Among the unique facts about Puri Jagannath Temple is a 15-day period each year when the deities disappear from public view entirely. Following the ceremonial Snana Purnima bath, Lord Jagannath, Balabhadra, and Subhadra are believed to fall ill from the elaborate bathing ritual and enter seclusion, known as Anasara or Anavasara. During this time, devotees travel roughly 23 km to the Alarnath Temple in Brahmagiri, where Lord Jagannath is believed to manifest as Alarnath Dev for the duration. The tradition is closely tied to Sri Chaitanya Mahaprabhu, who is said to have visited Alarnath during this very period, and the deities re-emerge for Nava Jaubana Darshan just a day before Rath Yatra begins.</p>
+
+      <h2>3. Jagannath Temple Has a Shakti Peetha Within It</h2>
+      <p>A detail many first-time visitors miss entirely is that inside the temple's southwestern corner sits the Bimala Temple, considered one of the oldest and most significant of the 51 Shakti Peethas in Hindu tradition, sites believed to mark where parts of the goddess Sati's body fell. Goddess Bimala is regarded as Lord Jagannath's tantric consort and the guardian deity of the entire complex, and by long-standing custom, Mahaprasad only becomes truly sacred once it has first been offered to her — before it's offered to Jagannath himself. It's one of the fascinating facts about Puri that reveals just how much devotional depth exists within the temple beyond its main sanctum.</p>
+
+      <h2>4. The 22 Steps Have Their Own Ritual Rules</h2>
+      <p>Just past the temple's Lion Gate lies the Baisi Pahacha, "22 steps," leading up toward the temple's inner gate, and each one carries its own symbolism. The third step holds particular significance: embedded in it is a black stone called Yama Shila, associated with Yama, the god of death. Tradition holds that stepping on it while ascending into the temple absolves devotees of sins that would otherwise invite Yama's judgment — but stepping on it again while leaving is believed to undo that very merit. A smaller stone on the seventh step, known as Pitru Shila, is where devotees leave rice offerings for their ancestors, one of the more intricate rituals tied to Puri's Jagannath Temple.</p>
+
+      <h2>5. The Pillar Outside Jagannath Temple Came From Konark</h2>
+      <p>Standing in front of the temple's Lion Gate is the Aruna Stambha, a 34-foot monolithic pillar topped with a statue of Aruna, charioteer of the Sun God. It wasn't built for the Jagannath Temple at all. It originally stood at the Konark Sun Temple, carved in the 13th century. After Konark's temple suffered extensive damage between the 15th and 17th centuries, the pillar was relocated roughly 35 km to Puri in the late 18th century and re-erected in its current spot. It's since become a place of worship in its own right, forming a quiet but permanent link between two of Odisha tourism's most significant sites.</p>
+
+      <h2>Why Puri Is Famous for More Than Its Temple</h2>
+      <p>Ask most people why Puri is famous, and the answer usually starts and ends with the Jagannath Temple and Rath Yatra. But the historical facts about Puri Odisha go well beyond the obvious — layered rituals, centuries-old traditions, and connections to other sacred sites like Konark all add to the cultural significance of Puri as one of India's most historically rich pilgrimage destinations. Knowing even a handful of these interesting facts about Puri Jagannath temple before visiting changes how the trip feels once you are actually there.</p>
+
+      <h2>Where to Stay for a Deeper Puri Visit</h2>
+      <p>For visitors keen to explore these lesser-known layers of Puri's history and culture in person, staying close to the temple makes it far easier to return for multiple darshans without rushing. <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand Hotel</a>, located on Chandan Hazuri Road just about a kilometre from the Jagannath Temple, offers a comfortable, convenient base for exactly this kind of unhurried, detail-focused Puri trip.</p>
+
+      <h2>Final Thoughts</h2>
+      <p>Puri rewards visitors who look past the obvious. A burial ground for gods, a goddess who receives offerings before Jagannath himself, a staircase with its own moral code, and a pillar with a 700-year backstory — these are the facts that make Puri's history and culture worth genuinely exploring, not just passing through.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. What is Koili Baikuntha at Jagannath Temple?</strong><br/>
+        Koili Baikuntha is a burial ground within the temple complex where the old wooden idols of Jagannath, Balabhadra, Subhadra, and Sudarshana are buried during the Nabakalebara ritual, after their sacred life-substance is transferred to new idols.</p>
+
+        <p><strong>2. Why does Lord Jagannath go into seclusion?</strong><br/>
+        Following the ceremonial Snana Purnima bath, the deities are believed to fall ill and enter a 15-day seclusion period called Anasara, during which devotees visit the Alarnath Temple in Brahmagiri instead, where Jagannath is believed to manifest.</p>
+
+        <p><strong>3. What is the Bimala Temple's connection to Jagannath Temple?</strong><br/>
+        The Bimala Temple, located within the Jagannath Temple complex, is one of Hinduism's oldest Shakti Peethas. Mahaprasad must be offered to Goddess Bimala before it is considered fully sacred and offered to Jagannath.</p>
+
+        <p><strong>4. What is the significance of the 22 steps at Jagannath Temple?</strong><br/>
+        Known as Baisi Pahacha, these steps hold ritual meaning, with the third step containing Yama Shila, a stone believed to absolve sins when stepped on while entering, and the seventh step used for ancestral offerings.</p>
+
+        <p><strong>5. Where did the Aruna Stambha pillar originally come from?</strong><br/>
+        The Aruna Stambha was originally built in the 13th century for the Konark Sun Temple and was relocated to its current spot in front of the Jagannath Temple's Lion Gate in the late 18th century.</p>
+
+        <p><strong>6. Why is Puri famous in Odisha?</strong><br/>
+        Puri is famous primarily for the Jagannath Temple, one of Hinduism's four sacred Char Dham sites, along with its annual Rath Yatra, its golden beach, and centuries of layered religious history and culture.</p>
+
+        <p><strong>7. Where should I stay to explore Puri's history and culture in depth?</strong><br/>
+        A hotel close to the temple makes it easier to return for multiple darshans and explore its lesser-known traditions. Victoria Grand Hotel, about a kilometre away on Chandan Hazuri Road, offers a comfortable, convenient base for this kind of trip.</p>
+      </div>
+    `,
+  },
   "chandan-hazuri-road-puri-best-kept-stay-secret": {
     title:
       "At the Crossroads of Faith & Sea: Why Chandan Hazuri Road Is Puri's Best-Kept Stay Secret",

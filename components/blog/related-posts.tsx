@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 16,
+    slug: "5-interesting-facts-about-puri-you-need-to-know-before-you-visit",
+    title: "5 Interesting Facts About Puri You Need to Know Before You Visit",
+    date: "September 17, 2026",
+    category: "Heritage",
+    image: "/assets/blog/5-interesting-facts-about-puri-you-need-to-know-before-you-visit.jpg",
+  },
+  {
     id: 15,
     slug: "chandan-hazuri-road-puri-best-kept-stay-secret",
     title: "At the Crossroads of Faith & Sea: Why Chandan Hazuri Road Is Puri's Best-Kept Stay Secret",
