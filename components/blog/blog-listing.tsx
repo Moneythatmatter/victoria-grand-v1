@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 16,
+    slug: "5-interesting-facts-about-puri-you-need-to-know-before-you-visit",
+    title:
+      "5 Interesting Facts About Puri You Need to Know Before You Visit",
+    excerpt:
+      "Most visitors arrive in Puri already knowing the basics — the Jagannath Temple, the beach, the Rath Yatra. What tends to surprise first-time visitors is everything layered underneath that surface. Puri's history and culture run far deeper than a single darshan reveals, and some of the most fascinating facts about Puri Odisha involve traditions most tourists never hear about at all...",
+    author: "Vikram Singh",
+    date: "September 17, 2026",
+    category: "Heritage",
+    image: "/assets/blog/5-interesting-facts-about-puri-you-need-to-know-before-you-visit.jpg",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 15,
     slug: "chandan-hazuri-road-puri-best-kept-stay-secret",
     title:
