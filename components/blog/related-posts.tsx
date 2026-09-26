@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 17,
+    slug: "traveling-to-puri-complete-weather-guide",
+    title: "Traveling to Puri? Complete Weather Guide Before Your Trip: Best Time to Visit, What to Pack & Things to Do",
+    date: "September 26, 2026",
+    category: "Travel",
+    image: "/assets/blog/traveling-to-puri-complete-weather-guide.jpg",
+  },
+  {
     id: 16,
     slug: "5-interesting-facts-about-puri-you-need-to-know-before-you-visit",
     title: "5 Interesting Facts About Puri You Need to Know Before You Visit",
