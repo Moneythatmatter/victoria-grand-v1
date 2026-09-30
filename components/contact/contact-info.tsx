@@ -7,14 +7,16 @@ import {
    Clock,
    Facebook,
    Instagram,
-   Twitter,
-   Youtube,
 } from "lucide-react";
 import {
    RoyalCornerOrnament,
    RoyalDivider,
 } from "@/components/royal-corner-ornament";
-import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
+import {
+   SITE_PHONE_DISPLAY,
+   SITE_PHONE_HREF,
+   SITE_INSTAGRAM_HREF,
+} from "@/lib/site-contact";
 
 const contactDetails = [
    {
@@ -56,9 +58,9 @@ const contactDetails = [
 
 const socialLinks = [
    { icon: Facebook, href: "#", label: "Facebook" },
-   { icon: Instagram, href: "#", label: "Instagram" },
-   { icon: Twitter, href: "#", label: "Twitter" },
-   { icon: Youtube, href: "#", label: "YouTube" },
+   { icon: Instagram, href: SITE_INSTAGRAM_HREF, label: "Instagram" },
+   // { icon: Twitter, href: "#", label: "Twitter" },
+   // { icon: Youtube, href: "#", label: "YouTube" },
 ];
 
 export function ContactInfo() {
@@ -162,6 +164,8 @@ export function ContactInfo() {
                         key={social.label}
                         href={social.href}
                         aria-label={social.label}
+                        target={social.href.startsWith("http") ? "_blank" : undefined}
+                        rel={social.href.startsWith("http") ? "noopener noreferrer" : undefined}
                         className="w-12 h-12 border border-olive/20 hover:border-ochre hover:bg-ochre flex items-center justify-center text-olive-dark/70 hover:text-white transition-all duration-300"
                      >
                         <social.icon className="w-5 h-5" />

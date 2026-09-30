@@ -1,12 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { SITE_PHONE_DISPLAY, SITE_PHONE_HREF } from "@/lib/site-contact";
+import {
+   SITE_PHONE_DISPLAY,
+   SITE_PHONE_HREF,
+   SITE_INSTAGRAM_HREF,
+} from "@/lib/site-contact";
 import {
    Facebook,
    Instagram,
-   Twitter,
-   Youtube,
    Mail,
    Phone,
    MapPin,
@@ -42,9 +44,9 @@ const footerLinks = {
 
 const socialLinks = [
    { icon: Facebook, href: "#", label: "Facebook" },
-   { icon: Instagram, href: "#", label: "Instagram" },
-   { icon: Twitter, href: "#", label: "Twitter" },
-   { icon: Youtube, href: "#", label: "YouTube" },
+   { icon: Instagram, href: SITE_INSTAGRAM_HREF, label: "Instagram" },
+   // { icon: Twitter, href: "#", label: "Twitter" },
+   // { icon: Youtube, href: "#", label: "YouTube" },
 ];
 
 export function Footer() {
@@ -196,6 +198,8 @@ export function Footer() {
                            key={social.label}
                            href={social.href}
                            aria-label={social.label}
+                           target={social.href.startsWith("http") ? "_blank" : undefined}
+                           rel={social.href.startsWith("http") ? "noopener noreferrer" : undefined}
                            className="w-10 h-10 border border-cream/20 hover:border-ochre hover:bg-ochre flex items-center justify-center text-cream/70 hover:text-white transition-all duration-300"
                         >
                            <social.icon className="w-4 h-4" />
