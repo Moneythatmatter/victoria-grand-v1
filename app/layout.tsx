@@ -33,23 +33,7 @@ export const metadata: Metadata = {
    verification: {
       google: "u52w-DU7S1rxO_28yW0k0gjVOCw0bzD_r3e12QG8BMg",
    },
-   icons: {
-      icon: [
-         {
-            url: "/icon-light-32x32.png",
-            media: "(prefers-color-scheme: light)",
-         },
-         {
-            url: "/icon-dark-32x32.png",
-            media: "(prefers-color-scheme: dark)",
-         },
-         {
-            url: "/icon.svg",
-            type: "image/svg+xml",
-         },
-      ],
-      apple: "/apple-icon.png",
-   },
+
 };
 
 export default function RootLayout({
