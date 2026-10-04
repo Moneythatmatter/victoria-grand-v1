@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 18,
+    slug: "why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort",
+    title: "Why Stay in a Boutique Hotel in Puri Instead of a Large Resort?",
+    date: "October 3, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort.jpg",
+  },
+  {
     id: 17,
     slug: "traveling-to-puri-complete-weather-guide",
     title: "Traveling to Puri? Complete Weather Guide Before Your Trip: Best Time to Visit, What to Pack & Things to Do",
