@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 18,
+    slug: "why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort",
+    title:
+      "Why Stay in a Boutique Hotel in Puri Instead of a Large Resort?",
+    excerpt:
+      "When planning a holiday in Puri, choosing where to stay can be just as important as deciding what to visit. A large resort may offer extensive facilities, spacious grounds, and several activities under one roof. But is a large resort always what you need from a Puri holiday?...",
+    author: "Vikram Singh",
+    date: "October 3, 2026",
+    category: "Hospitality",
+    image: "/assets/blog/why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 17,
     slug: "traveling-to-puri-complete-weather-guide",
     title:
