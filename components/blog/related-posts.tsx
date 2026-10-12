@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 19,
+    slug: "why-cant-you-hear-the-sea-inside-jagannath-temple",
+    title: "Why Can’t You Hear the Sea Inside Jagannath Temple? The Story of Meghanada Pacheri",
+    date: "October 12, 2026",
+    category: "Heritage",
+    image: "/assets/blog/why-cant-you-hear-the-sea-inside-jagannath-temple.jpg",
+  },
+  {
     id: 18,
     slug: "why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort",
     title: "Why Stay in a Boutique Hotel in Puri Instead of a Large Resort?",
