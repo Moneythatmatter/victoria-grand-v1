@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 19,
+    slug: "why-cant-you-hear-the-sea-inside-jagannath-temple",
+    title:
+      "Why Can’t You Hear the Sea Inside Jagannath Temple? The Story of Meghanada Pacheri",
+    excerpt:
+      "Puri is known for two things that draw visitors from across India and beyond: the sacred Shree Jagannath Temple and the Bay of Bengal. Yet, a fascinating question has been associated with the temple for generations: why does the sound of the sea seem to fade when you enter the temple complex?...",
+    author: "Vikram Singh",
+    date: "October 12, 2026",
+    category: "Heritage",
+    image: "/assets/blog/why-cant-you-hear-the-sea-inside-jagannath-temple.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 18,
     slug: "why-stay-in-a-boutique-hotel-in-puri-instead-of-a-large-resort",
     title:
