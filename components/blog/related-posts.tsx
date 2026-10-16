@@ -8,6 +8,14 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 20,
+    slug: "puri-konark-chilika-3-day-winter-trip-plan",
+    title: "Puri, Konark and Chilika: A 3-Day Winter Trip Plan",
+    date: "October 17, 2026",
+    category: "Travel",
+    image: "/assets/blog/puri-konark-chilika-3-day-winter-trip-plan.jpg",
+  },
+  {
     id: 19,
     slug: "why-cant-you-hear-the-sea-inside-jagannath-temple",
     title: "Why Can’t You Hear the Sea Inside Jagannath Temple? The Story of Meghanada Pacheri",
