@@ -14,6 +14,19 @@ import {
 
 const blogPosts = [
   {
+    id: 20,
+    slug: "puri-konark-chilika-3-day-winter-trip-plan",
+    title: "Puri, Konark and Chilika: A 3-Day Winter Trip Plan",
+    excerpt:
+      "Winter is a wonderful time to explore coastal Odisha, with opportunities to visit historic temples, spend time by the beach and discover the natural beauty of Chilika Lake. If you have three days to spare, a trip covering Puri, Konark and Chilika can offer a mix of culture, architecture, coastal scenery and wildlife...",
+    author: "Vikram Singh",
+    date: "October 17, 2026",
+    category: "Travel",
+    image: "/assets/blog/puri-konark-chilika-3-day-winter-trip-plan.jpg",
+    readTime: "7 min",
+    featured: true,
+  },
+  {
     id: 19,
     slug: "why-cant-you-hear-the-sea-inside-jagannath-temple",
     title:

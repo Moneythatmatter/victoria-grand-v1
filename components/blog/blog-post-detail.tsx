@@ -11,6 +11,154 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "puri-konark-chilika-3-day-winter-trip-plan": {
+    title: "Puri, Konark and Chilika: A 3-Day Winter Trip Plan",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "October 17, 2026",
+    readTime: "7 min",
+    category: "Travel",
+    image: "/assets/blog/puri-konark-chilika-3-day-winter-trip-plan.jpg",
+    excerpt:
+      "Winter is a wonderful time to explore coastal Odisha, with opportunities to visit historic temples, spend time by the beach and discover the natural beauty of Chilika Lake. If you have three days to spare, a trip covering Puri, Konark and Chilika can offer a mix of culture, architecture, coastal scenery and wildlife.",
+    content: `
+      <p>Winter is a wonderful time to explore coastal Odisha, with opportunities to visit historic temples, spend time by the beach and discover the natural beauty of Chilika Lake. If you have three days to spare, a trip covering Puri, Konark and Chilika can offer a mix of culture, architecture, coastal scenery and wildlife.</p>
+      <p>The key to planning this trip is to organise your sightseeing by location. Puri can serve as your base, with one day dedicated to the city, another to Konark and the third to Chilika Lake. This approach reduces unnecessary hotel changes and makes the journey easier to manage, particularly for families.</p>
+      <p>Here is a practical three-day Odisha winter itinerary, including suggested places to visit, approximate road travel times and tips for planning your stay.</p>
+
+      <h2>Why Visit Puri, Konark and Chilika in Winter?</h2>
+      <p>Winter is a popular season for exploring Odisha because the weather is generally more comfortable for outdoor sightseeing than during the hotter months. The period from October to March is also recommended for visiting Satapada on <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Chilika Lake</a>, where travellers can enjoy the lagoon, boat trips and seasonal birdlife.</p>
+      <p>Each destination offers a different experience:</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Puri:</strong> A coastal city known for Jagannath Temple, Puri Beach and its religious and cultural heritage.</li>
+        <li><strong>Konark:</strong> Home to the famous Sun Temple, renowned for its monumental architecture and intricate stone carvings.</li>
+        <li><strong>Chilika Lake:</strong> A vast coastal lagoon known for its natural landscape, birdlife and opportunities for boat excursions.</li>
+      </ul>
+      <p>Together, these destinations make a rewarding short trip for families, couples and travellers interested in Odisha's heritage and natural attractions.</p>
+
+      <h2>Your 3-Day Puri, Konark and Chilika Itinerary</h2>
+
+      <h2>Day 1: Explore Puri's Temples, Beach and Local Culture</h2>
+      <p><strong>Morning: Visit Shree Jagannath Temple</strong><br/>
+      Begin your trip with a visit to Shree Jagannath Temple, one of Odisha's most important pilgrimage destinations. The temple is central to Puri's identity and attracts devotees throughout the year.</p>
+      <p>Allow enough time for your visit, as queues and access conditions can vary. Check current temple guidelines before travelling. Entry to the main temple is restricted to Hindus, so visitors should confirm the applicable rules if travelling with people of different faiths.</p>
+      <p><strong>Afternoon: Enjoy Puri Beach</strong><br/>
+      After your temple visit and lunch, spend some time at Puri Beach. You can take a walk along the shore, enjoy the sea breeze or relax by the water. Families may also enjoy exploring the nearby market areas for local snacks, souvenirs and handicrafts.</p>
+      <p>Keep some flexibility in your schedule, especially if your temple visit takes longer than expected.</p>
+      <p><strong>Evening: Explore Puri at a Relaxed Pace</strong><br/>
+      Use the evening to discover more of the city's coastal atmosphere. Depending on your interests, you can browse local shops, enjoy Odia cuisine or return to the beach for a leisurely walk.</p>
+      <p>If you are staying in Puri for all three nights, this is also a good opportunity to settle into your hotel and prepare for the next day's excursion.</p>
+      <p><em>Overnight: Puri.</em></p>
+
+      <h2>Day 2: Discover Konark Sun Temple and the Coastal Route</h2>
+      <p><strong>Morning: Drive from Puri to Konark</strong><br/>
+      Start early for the journey to Konark. The road distance from Puri to Konark is approximately 35–40 km, and the drive commonly takes around one hour, depending on your starting point, traffic and road conditions.</p>
+      <p>Your main stop is the <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Konark Sun Temple</a>, a celebrated example of Odisha's temple architecture and a UNESCO World Heritage Site. Designed in the form of a monumental chariot associated with the Sun God, the temple is known for its sculpted stone wheels, horses and detailed architectural work.</p>
+      <p>Allow around two to three hours for your visit, depending on your interest in the monument and whether you choose to explore with a guide. Check the current opening hours and entry arrangements before departure.</p>
+      <p><strong>Afternoon: Visit Chandrabhaga Beach</strong><br/>
+      After exploring the temple, head towards Chandrabhaga Beach, located close to Konark. It offers a change of pace after the architectural sightseeing, with open coastal views and space for a quiet walk.</p>
+      <p>You can have lunch in the Konark area and spend some time by the beach before beginning your return journey.</p>
+      <p><strong>Optional stop: Ramachandi Temple</strong><br/>
+      If time permits, consider adding Ramachandi Temple to your route. It is associated with the coastal landscape near the Kushabhadra River and can be included depending on your travel pace.</p>
+      <p>Avoid adding too many stops if you are travelling with children or older family members. A relaxed itinerary is often more enjoyable than trying to cover every attraction in one day.</p>
+      <p><strong>Evening: Return to Puri</strong><br/>
+      Return to Puri by late afternoon or evening. Enjoy dinner and rest before the next day's trip to Chilika Lake.</p>
+      <p><em>Approximate road travel: Allow around two hours in total for the return journey between Puri and Konark, excluding local stops and sightseeing.</em></p>
+      <p><em>Overnight: Puri.</em></p>
+
+      <h2>Day 3: Experience Chilika Lake at Satapada</h2>
+      <p><strong>Early morning: Drive to Satapada</strong><br/>
+      Set out early for Satapada, a popular visitor area on Chilika Lake. The drive from Puri generally takes around 1.5 hours, though you should allow additional time for traffic and your exact starting point.</p>
+      <p>Satapada is known for its lagoon scenery, boat excursions and Irrawaddy dolphin habitat. During winter, the wider Chilika region also attracts migratory birds, making it appealing to nature enthusiasts.</p>
+      <p><strong>Morning to early afternoon: Enjoy a Boat Excursion</strong><br/>
+      Once you reach Satapada, enquire locally about available boat trips, their duration, routes and charges. Depending on conditions and the service selected, excursions may include views of the lagoon, nearby islands or the sea-mouth area where Chilika meets the Bay of Bengal.</p>
+      <p>Dolphin sightings are not guaranteed, so enjoy the experience as an opportunity to explore the lagoon's natural environment rather than planning your entire day around seeing wildlife.</p>
+      <p>Follow local boating instructions and weather guidance, and confirm the expected return time before departing.</p>
+      <p><strong>Afternoon: Lunch and Return to Puri</strong><br/>
+      Have lunch in the Satapada area before driving back to Puri. If you have an evening train or flight from Bhubaneswar, leave sufficient buffer time for the road journey and possible delays. For a more relaxed trip, plan your departure from Odisha after returning to Puri rather than scheduling it too close to your excursion.</p>
+      <p><em>Overnight: Puri, if your onward journey is the following day.</em></p>
+
+      <h2>Travel Time at a Glance</h2>
+      <div class="overflow-x-auto my-6">
+        <table class="w-full border-collapse border border-olive/20 text-left">
+          <thead>
+            <tr class="bg-olive/10">
+              <th class="border border-olive/20 p-3 font-semibold text-olive-dark">Route</th>
+              <th class="border border-olive/20 p-3 font-semibold text-olive-dark">Approximate Distance</th>
+              <th class="border border-olive/20 p-3 font-semibold text-olive-dark">Suggested Driving Time</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="border border-olive/20 p-3">Puri to Konark</td>
+              <td class="border border-olive/20 p-3">35–40 km</td>
+              <td class="border border-olive/20 p-3">Around 1 hour</td>
+            </tr>
+            <tr class="bg-olive/5">
+              <td class="border border-olive/20 p-3">Konark to Puri</td>
+              <td class="border border-olive/20 p-3">35–40 km</td>
+              <td class="border border-olive/20 p-3">Around 1 hour</td>
+            </tr>
+            <tr>
+              <td class="border border-olive/20 p-3">Puri to Satapada</td>
+              <td class="border border-olive/20 p-3">Approximately 50 km</td>
+              <td class="border border-olive/20 p-3">Around 1.5 hours</td>
+            </tr>
+            <tr class="bg-olive/5">
+              <td class="border border-olive/20 p-3">Satapada to Puri</td>
+              <td class="border border-olive/20 p-3">Approximately 50 km</td>
+              <td class="border border-olive/20 p-3">Around 1.5 hours</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="text-sm italic">These are planning estimates, not guaranteed journey times. Actual distance and duration depend on the precise route, traffic, road conditions and stops. Check the route before leaving, especially during busy winter travel dates.</p>
+
+      <h2>Where Should You Stay During This 3-Day Trip?</h2>
+      <p>For this itinerary, staying in Puri throughout the trip is a practical option. Both Konark and Satapada can be visited as day excursions, allowing you to return to the same accommodation each evening instead of packing and checking into a new hotel.</p>
+      <p>When choosing accommodation, consider its location, room configuration, parking, dining facilities and suitability for your travel group. Families may prefer rooms that accommodate everyone comfortably, while couples might prioritise a sea view or easy access to the beach.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand Puri</a> is an option for travellers who want to explore Puri's spiritual and coastal attractions. The hotel is approximately 1 km from Shree Jagannath Temple and around 500 metres from Puri Beach, according to its published property information.</p>
+      <p>Its location can work well for the Puri portion of your itinerary, while the day trips to Konark and Satapada can be planned around your preferred departure times. Check room availability and the amenities offered for your chosen room category before booking.</p>
+
+      <h2>Tips for Planning a Winter Trip to Puri, Konark and Chilika</h2>
+      <ul class="space-y-2 my-4">
+        <li><strong>Start early:</strong> Morning departures give you more time for sightseeing and help keep the itinerary manageable.</li>
+        <li><strong>Reserve enough time for each attraction:</strong> Avoid scheduling Konark and Chilika as rushed stops on the same day.</li>
+        <li><strong>Check local conditions:</strong> Temple access, monument timings and boat services may vary. Confirm current arrangements before travelling.</li>
+        <li><strong>Pack for different activities:</strong> Comfortable walking shoes, sun protection, a light jacket for cooler mornings and drinking water are useful.</li>
+        <li><strong>Keep your budget flexible:</strong> Include accommodation, transport, monument entry fees where applicable, meals and boat charges when estimating your trip cost.</li>
+        <li><strong>Respect the natural environment:</strong> Follow local boating guidance and avoid disturbing wildlife at Chilika.</li>
+      </ul>
+
+      <h2>Plan Your Winter Getaway in Coastal Odisha</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/heritage" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">A three-day winter trip Puri</a>, covering Konark and Chilika brings together some of coastal Odisha's most memorable experiences: the spiritual atmosphere of Jagannath Temple, the remarkable stone architecture of Konark Sun Temple and the natural beauty of Chilika Lagoon.</p>
+      <p>With Puri as your base, you can explore these destinations through separate day trips while keeping your accommodation arrangements simple. Plan your travel times carefully, leave room for unexpected delays and choose a hotel that makes your time in Puri comfortable.</p>
+      <p>Planning your stay? Explore room options and booking details at <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand Puri</a> through the hotel's official website before finalising your winter itinerary.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Is three days enough to visit Puri, Konark and Chilika?</strong><br/>
+        Yes. Three days can cover the main highlights if you spend one day in Puri, one in Konark and one at Satapada on Chilika Lake. The schedule will be fairly full, so allow extra time if you prefer a slower pace.</p>
+
+        <p><strong>2. What is the best time to visit Puri, Konark and Chilika Lake?</strong><br/>
+        October to March is generally a suitable period for this itinerary. Winter is especially appealing for outdoor sightseeing and seasonal birdwatching around Chilika, although weather and local conditions can vary.</p>
+
+        <p><strong>3. Can I visit Konark and Chilika Lake on the same day?</strong><br/>
+        It is possible with carefully arranged transport, but it makes for a long day with substantial road travel and limited time at each destination. Separate days are more practical for a three-day holiday.</p>
+
+        <p><strong>4. How far is Chilika Lake from Puri?</strong><br/>
+        Satapada, one of the main visitor areas on Chilika Lake, is approximately 50 km from Puri by road. The journey often takes around 1.5 hours each way, depending on traffic and the route.</p>
+
+        <p><strong>5. Where should I stay for a Puri, Konark and Chilika trip?</strong><br/>
+        Staying in Puri for all three nights is a convenient option if you plan to visit Konark and Satapada on separate day trips. Choose accommodation based on your room requirements, budget, preferred location and available facilities.</p>
+
+        <p><strong>6. Is Victoria Grand Puri suitable as a base for sightseeing?</strong><br/>
+        Victoria Grand Puri is located approximately 1 km from Jagannath Temple and 500 metres from Puri Beach. Travellers can consider it for the Puri portion of their trip and arrange transport separately for excursions to Konark and Satapada.</p>
+      </div>
+    `,
+  },
   "why-cant-you-hear-the-sea-inside-jagannath-temple": {
     title:
       "Why Can’t You Hear the Sea Inside Jagannath Temple? The Story of Meghanada Pacheri",
