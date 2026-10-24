@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 21,
+    slug: "gaja-lakshmi-puja-2026-date-rituals-significance-odisha",
+    title:
+      "Gaja Lakshmi Puja 2026: Date, Rituals and Significance of the Festival in Odisha",
+    excerpt:
+      "Odisha's festive season brings communities together through traditions that celebrate faith, prosperity and cultural heritage. Among these celebrations, Gaja Lakshmi Puja holds a special place, with households and local communities worshipping Goddess Lakshmi and seeking blessings for well-being and abundance...",
+    author: "Vikram Singh",
+    date: "October 24, 2026",
+    category: "Heritage",
+    image: "/assets/blog/gaja-lakshmi-puja-2026-date-rituals-significance-odisha.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 20,
     slug: "puri-konark-chilika-3-day-winter-trip-plan",
     title: "Puri, Konark and Chilika: A 3-Day Winter Trip Plan",

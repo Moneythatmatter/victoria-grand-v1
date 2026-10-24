@@ -11,6 +11,111 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "gaja-lakshmi-puja-2026-date-rituals-significance-odisha": {
+    title:
+      "Gaja Lakshmi Puja 2026: Date, Rituals and Significance of the Festival in Odisha",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "October 24, 2026",
+    readTime: "6 min",
+    category: "Heritage",
+    image: "/assets/blog/gaja-lakshmi-puja-2026-date-rituals-significance-odisha.jpg",
+    excerpt:
+      "Odisha's festive season brings communities together through traditions that celebrate faith, prosperity and cultural heritage. Among these celebrations, Gaja Lakshmi Puja holds a special place, with households and local communities worshipping Goddess Lakshmi and seeking blessings for well-being and abundance.",
+    content: `
+      <p>Odisha's festive season brings communities together through traditions that celebrate faith, prosperity and cultural heritage. Among these celebrations, Gaja Lakshmi Puja holds a special place, with households and local communities worshipping Goddess Lakshmi and seeking blessings for well-being and abundance.</p>
+      <p>Observed around Kumar Purnima, the festival is celebrated in different ways across Odisha. From family prayers and traditional offerings to decorated pandals and community gatherings, Gaja Lakshmi Puja reflects the state's rich cultural traditions. While Dhenkanal is particularly known for its grand public celebrations, the spirit of Lakshmi Puja extends across the state, including Puri.</p>
+      <p>If you are curious about the festival, its date, rituals and religious significance, here is what to know about Gaja Lakshmi Puja 2026.</p>
+
+      <h2>When Is Gaja Lakshmi Puja in Odisha in 2026?</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Gaja Lakshmi Puja</a> is associated with the full-moon period of Ashwina, around Kumar Purnima. According to published Odia calendars, Gaja Lakshmi Puja and Kumarotsava fall on Sunday, 25 October 2026, while some calendars list Kumar Purnima on 26 October.</p>
+      <p>This difference can occur because lunar dates depend on the timing of the Purnima tithi and the calendar convention followed for the observance. If you plan to perform the puja at home, check your family's Odia panjika for the appropriate ritual timings.</p>
+      <p>In many parts of Odisha, the festival is marked by prayers to Goddess Lakshmi. The scale and duration of public celebrations vary by locality, with some communities organising extended festivities.</p>
+
+      <h2>What Is Gaja Lakshmi Puja?</h2>
+      <p>Gaja Lakshmi Puja is dedicated to Goddess Lakshmi, who is worshipped as the goddess of wealth, prosperity and abundance. The name Gaja Lakshmi refers to a form of the goddess traditionally depicted with elephants, which symbolise strength, royal dignity and auspiciousness.</p>
+      <p>For devotees, the festival is an occasion to pray for prosperity, peace and happiness in their homes. Families prepare their puja spaces, offer traditional items and seek the goddess's blessings for the coming year.</p>
+      <p>In Odisha, worshiping goddess Lakshmi is part of a wider tradition of seasonal observances and community celebrations. <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Gaja Lakshmi Puja</a> is closely associated with Kumar Purnima, giving the occasion both religious and cultural importance.</p>
+
+      <h2>Significance of Gaja Lakshmi Puja in Odisha</h2>
+      <p>The significance of Gaja Lakshmi Puja extends beyond the worship of the goddess. It also reflects values of gratitude, togetherness and the preservation of local traditions.</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Prayers for prosperity:</strong> Devotees worship Goddess Lakshmi and seek blessings for financial well-being, abundance and harmony within the family.</li>
+        <li><strong>Family traditions:</strong> Preparing offerings, decorating the puja area and gathering for prayers allow families to observe customs passed down through generations.</li>
+        <li><strong>Community participation:</strong> In many localities, public puja arrangements bring residents together. Decorated pandals, cultural programmes and shared celebrations create a festive atmosphere.</li>
+        <li><strong>Cultural heritage:</strong> The festival forms part of Odisha's wider calendar of religious and seasonal observances, with local traditions adding distinct character to celebrations in different places.</li>
+      </ul>
+      <p>These customs make Gaja Lakshmi Puja a meaningful occasion for Odia families, whether they observe it quietly at home or take part in larger community celebrations.</p>
+
+      <h2>How Is Gaja Lakshmi Puja Celebrated in Odisha?</h2>
+      <p>The exact rituals vary between households and local puja committees, but worship of Goddess Lakshmi remains central to the occasion.</p>
+      <div class="space-y-4 my-4">
+        <div>
+          <h3 class="text-lg font-bold text-foreground">1. Cleaning and Decorating the Puja Space</h3>
+          <p class="mt-1">Families clean their homes and prepare a dedicated space for worship. Flowers, lamps and traditional decorations are used to create an auspicious setting. In communities that organise public pujas, committees prepare pandals and arrange the goddess's idol for devotees.</p>
+        </div>
+        <div>
+          <h3 class="text-lg font-bold text-foreground">2. Offering Prayers to Goddess Lakshmi</h3>
+          <p class="mt-1">Devotees offer flowers, incense, lamps and traditional food offerings according to their family customs. Prayers are made for prosperity, happiness and well-being. The rituals may differ depending on local practices and the guidance followed by each household.</p>
+        </div>
+        <div>
+          <h3 class="text-lg font-bold text-foreground">3. Preparing Traditional Offerings</h3>
+          <p class="mt-1">Food offerings are an important part of many Hindu festivals. Families prepare items according to their customs and share prasad after the puja. The specific dishes and ingredients can vary across households and regions.</p>
+        </div>
+        <div>
+          <h3 class="text-lg font-bold text-foreground">4. Visiting Pandals and Joining Community Celebrations</h3>
+          <p class="mt-1">Where public celebrations are organised, people visit decorated pandals to offer prayers and see the idols. Cultural programmes and community gatherings may accompany the religious observances. These activities are particularly prominent in towns known for large-scale Lakshmi Puja celebrations.</p>
+        </div>
+        <div>
+          <h3 class="text-lg font-bold text-foreground">5. Observing Local Traditions</h3>
+          <p class="mt-1">Odisha's districts and communities may follow different schedules and customs. Some public celebrations continue for several days, while other observances focus mainly on the puja itself. Checking local announcements is the best way to learn about events in a particular area.</p>
+        </div>
+      </div>
+
+      <h2>Gaja Lakshmi Puja in Puri and Across Odisha</h2>
+      <p>Gaja Lakshmi Puja and Lakshmi Puja are part of Odisha's broader festive traditions, observed by families and communities in different parts of the state. In Puri, the festival period coincides with a season rich in religious observances, making it an opportunity to experience the city's spiritual atmosphere alongside its coastal character.</p>
+      <p>For visitors, Puri offers more than its well-known beaches. Its religious heritage, local markets, traditional food and everyday customs provide different ways to experience Odia culture. Travellers visiting during the festive period can enquire locally about public pujas and community events taking place during their stay, as arrangements vary from one locality to another.</p>
+      <p>Dhenkanal, meanwhile, is particularly renowned for its grand Gaja Lakshmi Puja celebrations. The district's official tourism information describes an 11-day celebration beginning around <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Kumar Purnima</a>, featuring colourful decorations, temporary markets, music, dance and a concluding procession. It is one prominent example of how the festival has become a major community event in parts of Odisha.</p>
+
+      <h2>Gaja Lakshmi Puja and Kumar Purnima: What Is the Difference?</h2>
+      <p>Although the two observances are closely connected in Odisha, Gaja Lakshmi Puja and Kumar Purnima have different focuses.</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Gaja Lakshmi Puja:</strong> Centres on the worship of Goddess Lakshmi. Devotees pray for prosperity and well-being, and some communities organise public celebrations around the occasion.</li>
+        <li><strong>Kumar Purnima (Kuanra Punei):</strong> An important Odia full-moon festival traditionally associated with unmarried girls. Customs include wearing new clothes, offering prayers to the rising Sun in the morning and worshipping the Moon in the evening. Traditional offerings such as chanda chakata, a plate of fruits and sweets arranged in a crescent shape, are part of the observance in many families.</li>
+      </ul>
+      <p>The two festivals share the same seasonal period, and Kumar Purnima is associated with the beginning of Gaja Lakshmi Puja celebrations in places such as Dhenkanal. However, the rituals and religious focus of each observance are distinct.</p>
+
+      <h2>How to Celebrate Gaja Lakshmi Puja at Home</h2>
+      <p>Families can observe Gaja Lakshmi Puja at home by following their customary rituals. Begin by cleaning and decorating the puja area, then arrange an image or idol of Goddess Lakshmi and prepare traditional offerings.</p>
+      <p>Gather family members for prayers and offer flowers, lamps and prasad according to your family's practices. If you also observe Kumar Purnima, follow the traditions associated with its morning and evening rituals. Since customs can vary, consulting your Odia panjika or family priest can help you follow the appropriate observance.</p>
+      <p>The heart of the celebration lies in devotion, gratitude and spending time with family.</p>
+
+      <h2>Experience Odisha's Cultural Heritage with a Stay in Puri</h2>
+      <p>Festivals offer a meaningful way to understand Odisha's traditions, and Puri is a destination where spiritual heritage and coastal experiences come together. Visitors can explore the city's religious landmarks, enjoy its beaches and discover local food and culture during their stay.</p>
+      <p>Located between Jagannath Temple and Puri Beach, <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a> offers travellers a base for exploring the city and its surroundings. Whether you are visiting Puri for its spiritual significance or planning a wider Odisha holiday, staying in the city gives you the opportunity to experience its many cultural and coastal attractions.</p>
+      <p>As Gaja Lakshmi Puja approaches, take time to learn about the local customs and celebrations that make Odisha's festive season special.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. When is Gaja Lakshmi Puja in Odisha in 2026?</strong><br/>
+        Published Odia calendars list Gaja Lakshmi Puja on 25 October 2026. Some calendars list Kumar Purnima on 26 October, so check your local panjika for the observance and ritual timings.</p>
+
+        <p><strong>2. Why is Gaja Lakshmi Puja celebrated?</strong><br/>
+        The festival honours Goddess Lakshmi, who is associated with wealth, prosperity and abundance. Devotees offer prayers for happiness and well-being.</p>
+
+        <p><strong>3. Is Gaja Lakshmi Puja celebrated only in Dhenkanal?</strong><br/>
+        No. Lakshmi worship and Gaja Lakshmi Puja traditions are observed in different parts of Odisha. Dhenkanal is especially known for its large public celebrations.</p>
+
+        <p><strong>4. How is Gaja Lakshmi Puja celebrated in Puri?</strong><br/>
+        Families and local communities observe Lakshmi Puja according to their customs. Visitors can enquire locally about public pujas and events taking place during the festival period.</p>
+
+        <p><strong>5. What is the difference between Gaja Lakshmi Puja and Kumar Purnima?</strong><br/>
+        Gaja Lakshmi Puja focuses on Goddess Lakshmi and prayers for prosperity. Kumar Purnima is associated with Sun and Moon worship and traditional observances among unmarried girls. The festivals are closely linked in Odisha's festive calendar.</p>
+      </div>
+    `,
+  },
   "puri-konark-chilika-3-day-winter-trip-plan": {
     title: "Puri, Konark and Chilika: A 3-Day Winter Trip Plan",
     author: "Vikram Singh",
