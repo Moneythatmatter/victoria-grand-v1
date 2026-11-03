@@ -11,6 +11,96 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple": {
+    title:
+      "Puri in the Rain: How Chunara Sevayats Carry the Sacred Bana to the Top of Jagannath Temple",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "November 3, 2026",
+    readTime: "6 min",
+    category: "Heritage",
+    image: "/assets/blog/puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple.jpg",
+    excerpt:
+      "Rain transforms Puri. The sea becomes more dramatic, the streets glisten with fresh showers, and the sight of the sacred flag fluttering above the Jagannath Temple carries a special significance for devotees. Even when the weather turns challenging, one of the temple’s most distinctive traditions remains a powerful part of its daily rhythm: the changing of the Patitapabana Bana by the Chunara Sevayats.",
+    content: `
+      <p>Rain transforms Puri. The sea becomes more dramatic, the streets glisten with fresh showers, and the sight of the sacred flag fluttering above the Jagannath Temple carries a special significance for devotees. Even when the weather turns challenging, one of the temple’s most distinctive traditions remains a powerful part of its daily rhythm: the changing of the Patitapabana Bana by the Chunara Sevayats.</p>
+      <p>The ritual is not simply about replacing a flag. It represents an age-old tradition of seva, devotion and responsibility. Performed high above the temple, near the sacred Nilachakra, it is one of the remarkable sights associated with Srimandir.</p>
+
+      <h2>Who Are the Chunara Sevayats?</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Chunara Sevayats</a> are traditional temple servitors of the designated Chola family entrusted with the responsibility of changing the sacred flag atop the Jagannath Temple. Their seva involves climbing the temple structure to reach the Nilachakra and securing the new Patitapabana Bana.</p>
+      <p>This is a specialised responsibility passed down through generations of servitors. The climb is particularly remarkable because it requires experience, balance and familiarity with the temple’s structure. The servitors traditionally make the ascent barefoot, navigating the temple’s height and surfaces as part of their religious duty.</p>
+      <p>For devotees, watching this ritual is a reminder that the traditions of Srimandir are sustained not only through worship inside the temple but also through the dedicated service of its sevayats.</p>
+
+      <h2>What Is the Patitapabana Bana and Why Is It Important?</h2>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">The Patitapabana Bana is the sacred flag flown above the Nilachakra, the distinctive wheel</a> positioned at the top of the Jagannath Temple. The word Patitapabana is associated with Lord Jagannath as the purifier and saviour of all, including those who may not be able to enter the temple.</p>
+      <p>For devotees, the flag is a symbol of the Lord’s presence and blessings. Seeing it flutter above the temple is considered spiritually significant. The Nilachakra itself is also deeply revered, and devotees believe that having its darshan is equivalent to receiving the Lord’s darshan.</p>
+      <p>The flag is changed every day as part of the temple’s established traditions. Its presence above the temple is therefore not just an architectural feature; it is an important expression of faith and devotion.</p>
+
+      <h2>How Do Chunara Sevayats Climb the Jagannath Temple to Change the Flag?</h2>
+      <p>The Chunara Sevayats are specially trained temple servitors, also known as Chunaras or members of the designated Chola family. They climb the approximately 214-foot (65-metre) main temple spire, known as the Shikhara, to reach the Nilachakra and change <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Jagannath temple flag</a>.</p>
+      <p>What makes this seva particularly remarkable is the traditional climbing method. The servitors ascend the steep, curved and ribbed surface of the temple barefoot, without ropes, harnesses or modern safety equipment. They rely on their experience, handholds, architectural crevices and a metal chain to make the climb.</p>
+      <p>The task demands exceptional balance, physical ability and familiarity with the temple's structure. It is a specialised responsibility carried out as an act of devotion and inherited service, making the daily flag-changing ritual one of the most remarkable traditions associated with Srimandir.</p>
+
+      <h2>How Does the Flag-Changing Tradition Continue During Rain?</h2>
+      <p>Rain adds another dimension to the Chunara Sevayats’ responsibility. The temple stands exposed to the coastal <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">weather of Puri</a>, where showers, strong winds and changing conditions can make the climb more challenging.</p>
+      <p>The tradition is widely associated with the servitors carrying out their seva even when the weather is unfavourable. However, this does not mean the ritual is performed regardless of every weather condition. During severe weather, the temple administration and concerned servitors may adjust the arrangements or wait until conditions improve.</p>
+      <p>The responsibility calls for more than physical ability. It requires experience, judgement and a deep understanding of the seva. This is what makes the tradition particularly remarkable during the monsoon, when rain and wind become part of the landscape around Srimandir.</p>
+      <p>For visitors, the sight of the sacred Bana against a rain-filled sky can be an especially memorable part of experiencing Puri.</p>
+
+      <h2>Visiting Puri During the Rainy Season: What Should You Keep in Mind?</h2>
+      <p>Puri can be a rewarding <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">destination during the rainy season</a>, but visitors should plan their temple visit and local travel with the weather in mind.</p>
+      <p>Here are a few practical considerations:</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Carry rain protection:</strong> Keep an umbrella or lightweight raincoat handy, especially when travelling between your hotel, the temple and nearby attractions.</li>
+        <li><strong>Choose comfortable footwear:</strong> Wet roads and slippery surfaces can make walking difficult. Wear footwear that offers a good grip.</li>
+        <li><strong>Check local weather updates:</strong> Heavy rainfall or strong winds may affect travel plans, so check the forecast before heading out.</li>
+        <li><strong>Allow extra travel time:</strong> Rain can slow down traffic and make movement around busy temple areas more difficult.</li>
+        <li><strong>Keep your belongings protected:</strong> Use waterproof bags or covers for phones, documents and other essentials.</li>
+        <li><strong>Follow temple guidelines:</strong> Darshan arrangements and ritual timings may change. Check the latest information before planning your visit.</li>
+      </ul>
+      <p>A little preparation can make a rainy-season visit more comfortable while allowing you to enjoy Puri’s spiritual and coastal atmosphere.</p>
+
+      <h2>Where Should You Stay in Puri for a Comfortable Temple Visit?</h2>
+      <p>Choosing a conveniently located hotel can make your Puri trip easier, particularly during the rainy season. Staying close to the main attractions helps reduce travel time and gives you more flexibility when planning darshan, sightseeing and time by the sea.</p>
+      <p>Hotel Victoria Grand offers a convenient location between two of Puri’s most recognised landmarks: Jagannath Temple and Puri Beach. The temple is approximately 1 km away, while the beach is around 500 metres from the hotel.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">After a temple visit, guests can return to the comfort of the hotel or plan a visit</a> to the beach when the weather permits. The property features 36 rooms, a multi-cuisine restaurant, a swimming pool and a banquet hall, offering accommodation and dining options for different kinds of travellers.</p>
+      <p>Whether you are visiting Puri for darshan, a family holiday or a short coastal break, a well-located stay can make the experience more convenient.</p>
+
+      <h2>Experience Puri Beyond the Season</h2>
+      <p>Puri is a destination where faith, tradition and coastal life come together. The daily changing of the Patitapabana Bana is one of the many traditions that make the city distinctive. During the monsoon, the sight of the temple rising above the rain-washed city offers visitors another way to appreciate its spiritual character.</p>
+      <p>Plan your visit, explore the traditions of Srimandir and enjoy a comfortable stay at Hotel Victoria Grand, with Puri’s sacred and coastal landmarks close by.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Planning a visit to Puri? Contact Hotel Victoria Grand for room bookings and stay enquiries.</a></p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Who changes the flag on the Jagannath Temple in Puri?</strong><br/>
+        The Chunara Sevayats are responsible for changing the sacred Patitapabana Bana above the Jagannath Temple. They climb the temple structure to reach the Nilachakra and perform the daily flag-changing ritual.</p>
+
+        <p><strong>2. What is the Patitapabana Bana?</strong><br/>
+        The Patitapabana Bana is the sacred flag flown above the Nilachakra on the Jagannath Temple. It symbolises Lord Jagannath’s presence and blessings and holds deep religious significance for devotees.</p>
+
+        <p><strong>3. Is the Jagannath Temple flag changed every day?</strong><br/>
+        Yes. The Patitapabana Bana is traditionally changed every day as part of the temple’s daily rituals. The timing may vary depending on temple arrangements and special occasions.</p>
+
+        <p><strong>4. Do Chunara Sevayats change the flag during heavy rain?</strong><br/>
+        The flag-changing tradition is associated with the Chunara Sevayats’ dedication to their seva, even in challenging weather. However, during severe rain or strong winds, the arrangements may be adjusted, and the ritual may be delayed until conditions improve.</p>
+
+        <p><strong>5. What is the best time to visit Puri during the rainy season?</strong><br/>
+        The rainy season offers a different experience of Puri, with cooler surroundings and a refreshed coastal landscape. Visitors should check weather forecasts before travelling, as heavy rainfall and strong winds can affect local movement and sightseeing.</p>
+
+        <p><strong>6. How far is Hotel Victoria Grand from Jagannath Temple?</strong><br/>
+        Hotel Victoria Grand is approximately 1 km from Jagannath Temple. Its location also places Puri Beach around 500 metres away, making it convenient for guests planning to explore both landmarks during their stay.</p>
+
+        <p><strong>7. Does Hotel Victoria Grand offer facilities for families visiting Puri?</strong><br/>
+        Yes. Hotel Victoria Grand offers 36 rooms, a multi-cuisine restaurant and a swimming pool. Its location near Jagannath Temple and Puri Beach makes it a convenient accommodation option for families planning a visit to Puri.</p>
+
+        <p><strong>8. Can I book a room at Hotel Victoria Grand for a Jagannath Temple visit?</strong><br/>
+        Yes. You can contact Hotel Victoria Grand directly for room availability, booking details and assistance in planning your stay in Puri.</p>
+      </div>
+    `,
+  },
   "gaja-lakshmi-puja-2026-date-rituals-significance-odisha": {
     title:
       "Gaja Lakshmi Puja 2026: Date, Rituals and Significance of the Festival in Odisha",
