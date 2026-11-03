@@ -8,6 +8,15 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 22,
+    slug: "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple",
+    title:
+      "Puri in the Rain: How Chunara Sevayats Carry the Sacred Bana to the Top of Jagannath Temple",
+    date: "November 3, 2026",
+    category: "Heritage",
+    image: "/assets/blog/puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple.jpg",
+  },
+  {
     id: 21,
     slug: "gaja-lakshmi-puja-2026-date-rituals-significance-odisha",
     title:

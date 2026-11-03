@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 22,
+    slug: "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple",
+    title:
+      "Puri in the Rain: How Chunara Sevayats Carry the Sacred Bana to the Top of Jagannath Temple",
+    excerpt:
+      "Rain transforms Puri. The sea becomes more dramatic, the streets glisten with fresh showers, and the sight of the sacred flag fluttering above the Jagannath Temple carries a special significance for devotees. Even when the weather turns challenging, one of the temple’s most distinctive traditions remains a powerful part of its daily rhythm: the changing of the Patitapabana Bana by the Chunara Sevayats...",
+    author: "Vikram Singh",
+    date: "November 3, 2026",
+    category: "Heritage",
+    image: "/assets/blog/puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 21,
     slug: "gaja-lakshmi-puja-2026-date-rituals-significance-odisha",
     title:
