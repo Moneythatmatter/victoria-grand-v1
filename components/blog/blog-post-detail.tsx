@@ -11,6 +11,112 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham": {
+    title:
+      "Puri During Kartik Purnima 2026: Explore the Spiritual Beauty of Jagannath Dham",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "November 16, 2026",
+    readTime: "6 min",
+    category: "Heritage",
+    image: "/assets/blog/puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham.jpg",
+    excerpt:
+      "Kartik Purnima is one of the most meaningful occasions to experience the spiritual and cultural character of Odisha. In Puri, the sacred home of Lord Jagannath, the festival brings together devotion, age-old traditions and the maritime heritage of the state.",
+    content: `
+      <p>Kartik Purnima is one of the most meaningful occasions to experience the spiritual and cultural character of Odisha. In Puri, the sacred home of Lord Jagannath, the festival brings together devotion, age-old traditions and the maritime heritage of the state. From the early-morning ritual of Boita Bandana to the special atmosphere around Jagannath Temple, Kartik Purnima offers visitors a different way to experience Jagannath Dham.</p>
+      <p>In 2026, Kartik Purnima falls on Tuesday, 24 November. If you are planning Puri travel around this occasion, the festival is an opportunity to explore the city's sacred landmarks, visit its beaches and discover traditions that continue to connect generations of Odias with their history.</p>
+
+      <h2>Why Is Kartik Purnima Special in Puri?</h2>
+      <p>Kartik is considered one of the holiest months in the Hindu calendar. Devotees observe the Kartik Brata through prayer, fasting, early-morning baths and visits to temples. In Puri, the month holds particular importance because of its close association with Lord Jagannath and the religious traditions of Srimandir.</p>
+      <p>Many devotees, including Habisyalis observing the Kartik Brata, visit <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Jagannath Temple</a> during this period. The final days of the month are traditionally observed as Panchuka, when devotional practices become especially significant. The period attracts pilgrims who come to seek the blessings of Lord Jagannath and participate in the spiritual atmosphere of the town.</p>
+      <p>For visitors, this is an opportunity to see Puri beyond its usual identity as a beach destination. Its temples, rituals, local customs and everyday devotional life become an integral part of the travel experience.</p>
+
+      <h2>Boita Bandana: Remembering Odisha's Maritime Heritage</h2>
+      <p>One of the most distinctive Kartik Purnima traditions is <a href="https://www.hotelvictoriagrand.com/heritage" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Boita Bandana</a>, an observance that remembers Odisha's maritime past.</p>
+      <p>Historically, sailors and merchant communities known as Sadhabas travelled from ancient Kalinga to distant lands, including Bali and other parts of Southeast Asia, for trade. Their boats were known as Boitas. Kartik Purnima is traditionally associated with the commencement of these voyages, and the ritual of Boita Bandana keeps their memory alive.</p>
+      <p>Before sunrise, people gather near rivers, ponds, tanks and the sea to float miniature boats made from banana stems, cork and coloured paper. These small boats are decorated with flowers, betel leaves, betel nuts and tiny lamps.</p>
+      <p>As the boats float on the water, people recite the familiar Odia lines:</p>
+      <blockquote class="italic text-xl font-serif text-ochre border-l-4 border-ochre pl-4 my-6 font-semibold">
+        "Aa Ka Ma Bai, Pana Gua Thoi, Pana Gua Tora, Masaka Dharama Mora."
+      </blockquote>
+      <p>The ritual is more than a festival activity. It is a symbolic remembrance of the courage, journeys and trading connections of Odisha's seafaring ancestors.</p>
+      <p>In Puri, the coastline gives this tradition a particularly evocative setting. Watching small boats float across the water in the early morning light is one of the memorable experiences of <a href="https://www.hotelvictoriagrand.com/heritage" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Kartik Purnima</a> celebrations.</p>
+
+      <h2>Best Places to Visit in Puri During Kartik Purnima</h2>
+      <p>A Puri visit during Kartik Purnima can bring together spiritual exploration, cultural discovery and time by the sea. Here are some places to include in your itinerary.</p>
+
+      <div class="space-y-6 my-6">
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">1. Shree Jagannath Temple</h3>
+          <p>No spiritual journey to Puri is complete without visiting <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Shree Jagannath Temple</a>, one of the most sacred pilgrimage destinations in India and an important part of the Char Dham tradition.</p>
+          <p class="mt-2">Dedicated to Lord Jagannath, Lord Balabhadra and Devi Subhadra, the 12th-century temple is the spiritual centre of the city. During Kartik, devotees visit Srimandir for darshan and to experience the special rituals associated with the holy month.</p>
+          <p class="mt-2">Plan your temple visit with sufficient time, as the number of pilgrims can increase during important religious occasions. Temple rituals and darshan schedules may change, so check the latest announcements before travelling.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">2. Puri Beach and Golden Beach</h3>
+          <p><a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri Beach</a> offers a different experience of the festival. During Kartik Purnima, the sea becomes a natural setting for the tradition of Boita Bandana.</p>
+          <p class="mt-2">Beyond the festival morning, visitors can enjoy a walk along the coastline, watch the sunrise or spend a relaxed evening by the Bay of Bengal. Golden Beach, recognised for its Blue Flag certification, is another place to explore for its well-maintained coastal environment.</p>
+          <p class="mt-2">For travellers, the beach adds a peaceful contrast to the busy temple surroundings.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">3. Gundicha Temple</h3>
+          <p>Located along the Grand Road, Gundicha Temple is closely associated with the annual Rath Yatra of Lord Jagannath. It is the destination where the deities reside during the festival's chariot journey.</p>
+          <p class="mt-2">Even outside Rath Yatra, the temple remains an important part of Puri's religious landscape. Visitors interested in <a href="https://www.hotelvictoriagrand.com/heritage" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Jagannath culture</a> can include it in a wider exploration of the city's sacred sites.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">4. Raghurajpur Heritage Crafts Village</h3>
+          <p>For a closer look at Odisha's artistic traditions, visit Raghurajpur, a heritage crafts village near Puri.</p>
+          <p class="mt-2">The village is known for its Pattachitra paintings, palm-leaf engravings, traditional woodwork and other handicrafts. Visitors can observe artisans at work and understand how these skills are preserved and passed from one generation to another.</p>
+          <p class="mt-2">It is a worthwhile addition to a <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri travel guide</a> for anyone interested in the region's cultural heritage beyond its temples.</p>
+        </div>
+      </div>
+
+      <h2>Things to Keep in Mind While Planning Your Puri Darshan</h2>
+      <p>Kartik Purnima is an important religious occasion, so planning ahead can make your visit more comfortable.</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Plan your temple visit early:</strong> Pilgrim numbers may rise around the festival. Allow extra time for darshan and follow the latest temple and local administration guidelines.</li>
+        <li><strong>Arrive before sunrise for Boita Bandana:</strong> The boat-floating ritual is traditionally performed in the early morning. Check local arrangements and choose a designated public viewing area.</li>
+        <li><strong>Keep your itinerary flexible:</strong> Festival crowds and traffic can affect travel time between attractions.</li>
+        <li><strong>Respect local traditions:</strong> Follow temple rules, avoid littering near water bodies and be mindful of people participating in religious observances.</li>
+        <li><strong>Arrange accommodation in advance:</strong> <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Hotels in Puri</a> can experience higher demand around important festival dates. Confirm your booking and room details before travelling.</li>
+      </ul>
+      <p>If you are considering <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri tour packages</a>, check whether they include enough time for temple visits, the early-morning festival experience and nearby cultural attractions rather than only covering the city's main sightseeing points.</p>
+
+      <h2>Where to Stay in Puri During Kartik Purnima?</h2>
+      <p>Choosing the right location can make a difference when visiting Puri during a major festival. Staying within convenient reach of Jagannath Temple and Puri Beach allows travellers to plan their day around darshan, sightseeing and time by the coast.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a> offers a comfortable stay option in the heart of Puri, with Jagannath Temple approximately 1 km away and Puri Beach around 500 metres from the property. Its 36 rooms, multi-cuisine restaurant, swimming pool and banquet facilities make it suitable for travellers looking for both convenience and comfort.</p>
+      <p>Whether you are visiting for Puri Darshan, exploring the city's cultural heritage or spending a few days by the sea, Victoria Grand provides a convenient base for your stay.</p>
+
+      <h2>Experience the Spiritual Beauty of Jagannath Dham</h2>
+      <p>Kartik Purnima brings together the many identities of Puri. It is a pilgrimage destination shaped by devotion to Lord Jagannath, a coastal town connected to Odisha's maritime history and a cultural centre where traditions continue to live through everyday practices.</p>
+      <p>From floating miniature boats before sunrise to seeking blessings at Srimandir and exploring the coastline, the festival offers visitors meaningful ways to experience the city.</p>
+      <p>Plan your visit to Puri for <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Kartik Purnima 2026</a> on 24 November and discover the spiritual beauty, cultural richness and timeless traditions of Jagannath Dham.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Stay at Victoria Grand</a> and experience Puri with comfort, convenience and the warmth of thoughtful hospitality.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. When is Kartik Purnima in 2026?</strong><br/>
+        Kartik Purnima falls on Tuesday, 24 November 2026. It is observed on the full moon day of the Hindu month of Kartik.</p>
+
+        <p><strong>2. How does Puri celebrate Kartik Purnima?</strong><br/>
+        Puri observes Kartik Purnima through temple visits, religious observances and the tradition of Boita Bandana. Before sunrise, people float miniature boats in water bodies and along the coast to remember Odisha's maritime heritage.</p>
+
+        <p><strong>3. What is the significance of Boita Bandana in Odisha?</strong><br/>
+        Boita Bandana commemorates the maritime history of ancient Kalinga. It remembers the Sadhabas, or merchant sailors, who travelled by boats to distant regions for trade. Floating miniature boats on Kartik Purnima symbolises these historic voyages.</p>
+
+        <p><strong>4. What are the best places to visit in Puri during Kartik Purnima?</strong><br/>
+        Shree Jagannath Temple, Puri Beach, Golden Beach, Gundicha Temple and Raghurajpur Heritage Crafts Village are among the places visitors can explore during their Puri trip.</p>
+
+        <p><strong>5. Where should I stay in Puri for Kartik Purnima celebrations?</strong><br/>
+        Consider staying near both Jagannath Temple and Puri Beach for convenient access to major attractions. Victoria Grand is located approximately 1 km from Jagannath Temple and 500 metres from Puri Beach, making it a convenient accommodation option for visitors.</p>
+      </div>
+    `,
+  },
   "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple": {
     title:
       "Puri in the Rain: How Chunara Sevayats Carry the Sacred Bana to the Top of Jagannath Temple",
