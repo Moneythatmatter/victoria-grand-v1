@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 23,
+    slug: "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham",
+    title:
+      "Puri During Kartik Purnima 2026: Explore the Spiritual Beauty of Jagannath Dham",
+    excerpt:
+      "Kartik Purnima is one of the most meaningful occasions to experience the spiritual and cultural character of Odisha. In Puri, the sacred home of Lord Jagannath, the festival brings together devotion, age-old traditions and the maritime heritage of the state. From the early-morning ritual of Boita Bandana to the special atmosphere around Jagannath Temple...",
+    author: "Vikram Singh",
+    date: "November 16, 2026",
+    category: "Heritage",
+    image: "/assets/blog/puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 22,
     slug: "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple",
     title:

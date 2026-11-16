@@ -8,6 +8,15 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 23,
+    slug: "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham",
+    title:
+      "Puri During Kartik Purnima 2026: Explore the Spiritual Beauty of Jagannath Dham",
+    date: "November 16, 2026",
+    category: "Heritage",
+    image: "/assets/blog/puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham.jpg",
+  },
+  {
     id: 22,
     slug: "puri-in-the-rain-how-chunara-sevayats-carry-the-sacred-bana-to-the-top-of-jagannath-temple",
     title:
