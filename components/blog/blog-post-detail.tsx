@@ -11,6 +11,120 @@ import {
 import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images";
 
 const blogPostsData: Record<string, any> = {
+  "cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit": {
+    title:
+      "Cyclone Alert in Puri: What Travellers Should Know Before Planning Their Visit",
+    author: "Vikram Singh",
+    authorRole: "Hospitality & Travel Specialist",
+    authorImage:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200",
+    date: "November 21, 2026",
+    readTime: "6 min",
+    category: "Travel",
+    image: "/assets/blog/cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit.jpg",
+    excerpt:
+      "Puri is one of Odisha's most popular coastal destinations, attracting visitors throughout the year for its beaches, spiritual heritage and cultural experiences. However, its location along the Bay of Bengal also makes it vulnerable to cyclones, particularly during the monsoon and post-monsoon months.",
+    content: `
+      <p>Puri is one of Odisha's most popular coastal destinations, attracting visitors throughout the year for its beaches, spiritual heritage and cultural experiences. However, its location along the Bay of Bengal also makes it vulnerable to cyclones, particularly during the monsoon and post-monsoon months. Understanding a cyclone in Puri, knowing where to find official weather updates and following local safety instructions can help travellers make informed decisions before and during their visit.</p>
+      <p>Whether you are planning a family holiday, a pilgrimage to Jagannath Temple or a coastal getaway, here is what you should know about cyclone alerts and travel safety in Puri.</p>
+
+      <h2>Why Is Puri Vulnerable to Cyclones?</h2>
+      <p>Puri is vulnerable to cyclones as it lies along Odisha's eastern coastline, facing the <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Bay of Bengal</a>. Weather systems developing over the bay can move towards the Odisha coast, bringing strong winds, heavy rainfall, rough seas and coastal flooding.</p>
+      <p>The cyclone season in Odisha generally extends through the pre-monsoon and post-monsoon periods. The months around October and November are particularly important for travellers to monitor because cyclonic systems can develop over the Bay of Bengal during this time.</p>
+      <p>An <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Odisha cyclone</a> does not necessarily affect every coastal district in the same way. Its track, intensity, speed and distance from the coast determine the local impact. Therefore, travellers should follow district-specific advisories rather than relying only on general reports about a <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Bay of Bengal cyclone</a>.</p>
+
+      <h2>Understanding a Puri Cyclone Alert and Weather Warning</h2>
+      <p>A <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri cyclone alert</a> is an indication that developing weather conditions may affect the coastal area. However, different warning stages communicate different levels of preparedness.</p>
+      <p>The India Meteorological Department (IMD) issues different advisories as a cyclonic system develops and approaches the coast:</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>Pre-Cyclone Watch:</strong> Issued when a depression develops over the Bay of Bengal and may affect the Indian coast.</li>
+        <li><strong>Cyclone Alert:</strong> Generally issued at least 48 hours before adverse weather is expected.</li>
+        <li><strong>Cyclone Warning:</strong> Generally issued at least 24 hours before adverse weather begins, with more specific information about the expected landfall.</li>
+        <li><strong>Post-Landfall Outlook:</strong> Provides information about the system and expected weather after it crosses the coast.</li>
+      </ul>
+      <p>These stages help authorities and residents prepare for changing conditions. A <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">cyclone warning Odisha</a> bulletin may include information about wind speeds, rainfall, sea conditions and areas likely to be affected.</p>
+      <p>Travellers should remember that a warning can change as the weather system moves. Always check the latest <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri weather alert</a> from official sources before beginning your journey.</p>
+
+      <h2>What Travellers Should Know During a Cyclone in Puri</h2>
+      <p>A cyclone can affect more than just the weather. It may disrupt transportation, sightseeing, beach activities and access to tourist attractions.</p>
+      <p>For anyone planning a visit, here are some important considerations:</p>
+
+      <div class="space-y-6 my-6">
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">1. Check Weather Updates Before Travelling</h3>
+          <p>Check the IMD website and its latest bulletins for the expected cyclone track, rainfall warnings and wind conditions. Also review local district administration advisories before leaving for Puri.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">2. Confirm Train and Flight Schedules</h3>
+          <p>Heavy rainfall, strong winds and adverse weather can affect railway and road operations. Check your transport operator's latest updates before departure. If your journey involves connecting transport, allow for possible delays.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">3. Contact Your Hotel Before Arrival</h3>
+          <p>Before travelling, speak directly with your hotel to confirm room availability, accessibility and any operational changes caused by the weather. Ask about local road conditions and whether authorities have issued restrictions in the surrounding area.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">4. Keep Essential Items Accessible</h3>
+          <p>Carry identification, essential medicines, a charged mobile phone, a power bank, drinking water and basic emergency supplies. Keep important travel documents accessible, preferably with digital copies as backup.</p>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-bold text-olive-dark mb-2">5. Follow Local Instructions</h3>
+          <p>If district authorities issue evacuation instructions, road restrictions or warnings to remain indoors, follow them immediately. Do not attempt sightseeing or travel through restricted areas.</p>
+        </div>
+      </div>
+      <p>These precautions are particularly important for families, senior citizens and travellers visiting Puri with children.</p>
+
+      <h2>Puri Beach Safety During Strong Winds and Rough Seas</h2>
+      <p>Puri Beach is a major attraction, but coastal conditions can become dangerous during a cyclone or strong weather system. High waves, powerful currents and rough seas can create risks even when the weather appears relatively calm on the shore.</p>
+      <p>Follow these <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri beach safety guidelines during strong winds</a>:</p>
+      <ul class="space-y-2 my-4">
+        <li>Avoid swimming or entering the water during cyclone alerts and rough sea conditions.</li>
+        <li>Follow lifeguard instructions, warning flags and beach safety signage.</li>
+        <li>Stay away from restricted sections of the coastline.</li>
+        <li>Avoid walking close to the waterline during high waves.</li>
+        <li>Do not take photographs from exposed rocks, breakwaters or unstable coastal structures.</li>
+        <li>Keep children away from the shoreline during adverse weather.</li>
+      </ul>
+      <p>Odisha Tourism specifically advises visitors to avoid swimming during high tide, rough seas and cyclone alerts. Beach access and activities should resume only when local authorities indicate that conditions are safe.</p>
+
+      <h2>How Cyclones Can Affect Tourism in Puri</h2>
+      <p>A cyclone does not always result in long-term disruption, but its immediate effects can change travel plans.</p>
+      <p>Heavy rainfall may affect outdoor sightseeing, while strong winds and rough seas can temporarily restrict beach activities. Transport schedules may also change, and some tourist attractions may close as a precaution.</p>
+      <p>For this reason, <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri weather conditions during cyclone season</a> should be considered when planning a holiday. Travellers with flexible itineraries may find it easier to adjust their sightseeing dates or postpone outdoor activities until conditions improve.</p>
+      <p>If a cyclone develops shortly before your trip, review cancellation and rescheduling policies with your transport provider and accommodation before making alternative arrangements.</p>
+
+      <h2>Latest Cyclone Warning for Puri, Odisha: Where Should You Check?</h2>
+      <p>For a reliable <a href="https://www.hotelvictoriagrand.com/" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri weather update</a>, use official sources instead of depending entirely on social media posts or forwarded messages.</p>
+      <p>The following resources can help you monitor changing conditions:</p>
+      <ul class="space-y-2 my-4">
+        <li><strong>India Meteorological Department (IMD):</strong> Official cyclone bulletins, rainfall forecasts, wind warnings and weather updates.</li>
+        <li><strong>Odisha State Disaster Management Authority (OSDMA):</strong> Disaster preparedness information and safety guidance.</li>
+        <li><strong>Special Relief Commissioner, Odisha:</strong> State-level disaster updates, advisories and emergency preparedness information.</li>
+        <li><strong>Odisha Tourism:</strong> Travel safety advisories for visitors exploring coastal destinations.</li>
+      </ul>
+      <p>Check these sources before travelling and continue monitoring updates during your stay.</p>
+
+      <h2>Planning a Stay at Victoria Grand, Puri?</h2>
+      <p>Puri remains an important destination for spiritual journeys and coastal holidays. However, travel decisions during a cyclone alert should always be guided by official weather information and local safety instructions.</p>
+      <p><a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Victoria Grand</a> offers a convenient base for exploring the city when travel conditions permit. The hotel features 36 luxury rooms, a multi-cuisine restaurant, a swimming pool and banquet facilities. It is approximately 1 km from Shree Jagannath Temple and 500 metres from Puri Beach.</p>
+      <p>If you are planning a visit, contact the hotel to confirm availability and current operating conditions before finalising your journey. Your <a href="https://www.hotelvictoriagrand.com/contact" class="text-ochre hover:underline font-semibold" target="_blank" rel="noopener noreferrer">Puri travel safety</a> should always come before a sightseeing schedule.</p>
+
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-section space-y-4">
+        <p><strong>1. Is it safe to visit Puri during cyclone season?</strong><br/>
+        Puri can be visited during cyclone season when weather conditions are favourable and no relevant warnings or travel restrictions are in effect. Check official IMD bulletins and local administration advisories before travelling.</p>
+
+        <p><strong>2. What should tourists do if a cyclone hits Puri during their holiday?</strong><br/>
+        Stay indoors in a safe building, keep away from windows and coastal areas, monitor official updates and follow instructions from local authorities. Do not venture outdoors until authorities indicate that it is safe.</p>
+
+        <p><strong>3. What should travellers check before booking a hotel in Puri during cyclone season?</strong><br/>
+        Check the latest weather forecast, cyclone warnings, transport conditions and local travel advisories. Contact the hotel directly to confirm availability, accessibility and any weather-related changes to its operations.</p>
+      </div>
+    `,
+  },
   "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham": {
     title:
       "Puri During Kartik Purnima 2026: Explore the Spiritual Beauty of Jagannath Dham",

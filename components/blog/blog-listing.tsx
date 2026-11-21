@@ -14,6 +14,20 @@ import {
 
 const blogPosts = [
   {
+    id: 24,
+    slug: "cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit",
+    title:
+      "Cyclone Alert in Puri: What Travellers Should Know Before Planning Their Visit",
+    excerpt:
+      "Puri is one of Odisha's most popular coastal destinations, attracting visitors throughout the year for its beaches, spiritual heritage and cultural experiences. However, its location along the Bay of Bengal also makes it vulnerable to cyclones, particularly during the monsoon and post-monsoon months...",
+    author: "Vikram Singh",
+    date: "November 21, 2026",
+    category: "Travel",
+    image: "/assets/blog/cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit.jpg",
+    readTime: "6 min",
+    featured: true,
+  },
+  {
     id: 23,
     slug: "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham",
     title:
