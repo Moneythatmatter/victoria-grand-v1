@@ -8,6 +8,15 @@ import { MAHAPRASAD_IMAGE, JAGANNATH_TEMPLE_IMAGE } from "@/lib/heritage-images"
 
 const allPosts = [
   {
+    id: 24,
+    slug: "cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit",
+    title:
+      "Cyclone Alert in Puri: What Travellers Should Know Before Planning Their Visit",
+    date: "November 21, 2026",
+    category: "Travel",
+    image: "/assets/blog/cyclone-alert-in-puri-what-travellers-should-know-before-planning-their-visit.jpg",
+  },
+  {
     id: 23,
     slug: "puri-during-kartik-purnima-2026-explore-the-spiritual-beauty-of-jagannath-dham",
     title:
